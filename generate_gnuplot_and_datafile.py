@@ -10,11 +10,10 @@ from math import floor, ceil
 RT = namedtuple('RT', ['rain', 'temp'])
 
 one_month = dateutil.relativedelta.relativedelta(months=1)
-for datafilename in glob.glob('*_data.csv'):
+for datafilename in sorted(glob.glob('*_data.csv')):
 	station_id = datafilename[0:5]
 	metafilename = station_id+'_meta.txt'
 	with open(metafilename, 'r', encoding='latin-1') as metafile:
-		print(metafilename)
 		metareader = csv.reader(metafile, delimiter=';')
 		header_row = next(metareader)
 		for n,col in enumerate(header_row):
@@ -27,10 +26,13 @@ for datafilename in glob.glob('*_data.csv'):
 			elif col=='Stationsname':
 				COL_STATIONNAME = n
 		for row in metareader:
-			altitude = int(round(float(row[COL_ALTITUDE]),0))
-			latitude = row[COL_LATITUDE]
-			longitude = row[COL_LONGITUDE]
-			stationname = row[COL_STATIONNAME]
+			try:
+				altitude = int(round(float(row[COL_ALTITUDE]),0))
+				latitude = row[COL_LATITUDE]
+				longitude = row[COL_LONGITUDE]
+				stationname = row[COL_STATIONNAME]
+			except:
+				continue #super dirty. 00001_meta.txt
 			#not intelligent at all.
 	with open(datafilename, 'r') as datafile:
 		datareader = csv.reader(datafile, delimiter=';')
@@ -49,21 +51,25 @@ for datafilename in glob.glob('*_data.csv'):
 			temp = float(row[COL_TEMP])
 			if int(rain) == -999 or int(temp) == -999: #error value
 				continue
-			print(rain,temp)
 			data[month] = RT(rain,temp)
 		# find youngest 30 complete years
 		try:
 			end = max([d for d in data])
 		except ValueError:
 			continue
-		for i in range(0,30*12):
+		iiterator = range(0,30*12)
+		start = end
+		for i in iiterator:
+			if start <= min([d for d in data]) or end <= min([d for d in data]):
+				break
 			start = end - i*one_month
 			if not start in data:
-				break
+				end = start
+				iiterator = range(0,30*12)
 		else:
 			#complete 30 years found
+			print("found",start,end)
 			monthly_avg = []
-			print (datafilename, start, end)
 			for i in range(1,12+1):
 				monthly_data = []
 				for d in data:
@@ -83,12 +89,11 @@ for datafilename in glob.glob('*_data.csv'):
 						round(avg.temp,2)])
 				writer.writerow([13,round(monthly_avg[0].rain,2),\
 					round(monthly_avg[0].temp,2)])
-				print(monthly_avg)
 			with open('template.gpl', 'r') as templatefile:
 				gnuplot = templatefile.read()
 			context = {'SVGFILE': 'DWD_'+station_id+'_'+start.strftime('%Y')+'_'+end.strftime('%Y')+'.svg',\
-				'TEMP_MIN': floor(min([m.temp for m in monthly_avg]+[m.rain/10 for m in monthly_avg])/5)*5,\
-				'TEMP_MAX': ceil(max([m.temp for m in monthly_avg]+[m.rain/10 for m in monthly_avg])/5)*5,\
+				'TEMP_MIN': floor(min([m.temp for m in monthly_avg]+[m.rain/2 for m in monthly_avg])/5)*5,\
+				'TEMP_MAX': ceil(max([m.temp for m in monthly_avg]+[m.rain/2 for m in monthly_avg])/5)*5,\
 				'STATION_NAME':stationname,\
 				'STATION_ID': station_id,\
 				'ALTITUDE': altitude,\

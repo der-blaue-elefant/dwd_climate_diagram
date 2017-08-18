@@ -8,6 +8,4 @@ Wetterdienst (DWD) to generate
 	2. a gnuplot script.
 The overall result are SVG climate diagrams of all german weather stations.
 
-The original data are available via
-ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/monthly/more_precip/recent/
 

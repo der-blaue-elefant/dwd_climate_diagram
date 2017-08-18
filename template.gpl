@@ -8,9 +8,9 @@ set samples 10001
 set grid
 
 temp_min = {TEMP_MIN}
-rain_min = 10*temp_min
+rain_min = 2*temp_min
 temp_max = {TEMP_MAX}
-rain_max = 10*temp_max
+rain_max = 2*temp_max
 
 set title "{STATION_NAME} (DWD-Station {STATION_ID})\n {ALTITUDE}m ü.d.M, {LAT}° N, {LON}° O" font "Arial-Bold, 28"
 set xrange[0:12]
