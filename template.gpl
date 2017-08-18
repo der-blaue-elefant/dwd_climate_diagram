@@ -1,1 +1,49 @@
-defaul
+#!/usr/bin/gnuplot 
+
+reset 
+set terminal svg size 800,600 
+
+set output '{SVGFILE}'
+set samples 10001
+set grid
+
+temp_min = {TEMP_MIN}
+rain_min = 10*temp_min
+temp_max = {TEMP_MAX}
+rain_max = 10*temp_max
+
+set title "{STATION_NAME} (DWD-Station {STATION_ID})\n {ALTITUDE}m ü.d.M, {LAT}° N, {LON}° O" font "Arial-Bold, 28"
+set xrange[0:12]
+set xtics ('Jan' 1,\
+	'Feb'  2,\
+	'Mär'  3,\
+	'Apr'  4,\
+	'Mai'  5,\
+	'Jun'  6,\
+	'Jul'  7,\
+	'Aug'  8,\
+	'Sep'  9,\
+	'Okt' 10,\
+	'Nov' 11,\
+	'Dez' 12,\
+) offset -3.5 font "Helvetica, 16"
+set xlabel 'Monate' font "Helvetica, 20"
+
+set yrange[temp_min:temp_max]
+set ylabel 'Temperatur (°C)' font "Helvetica,20"
+set ytics autofreq font "Helvetica, 16"
+
+set y2range [rain_min:rain_max]
+set y2label 'Niederschlag (mm)' font "Helvetica,20" rotate by 270
+set y2tics autofreq font "Helvetica, 16"
+
+set boxwidth 0.85
+set style fill transparent solid 0.5 border
+
+set label 1 at  0.1, temp_max-1.0 "Datenbasis: Deutscher Wetterdienst; Historische Einzelwerte über 30 Jahre gemittelt.\nNutzung gemäß § 7 DWD Gesetz / § 3 GeoNutzV. Abgebildeter Zeitraum: {YEAR1}–{YEAR2}" front font 'Helvetica,8'
+set label 2 at  9.3, temp_max-1.0 "Jahresmitteltemperatur:\nJahresgesamtniederschlag: " front font 'Helvetica,8'
+set label 3 at 11.2, temp_max-1.0 "{TEMP_AVG} °C\n{RAIN_AVG} mm" front font 'Helvetica,8'
+plot '{DATAFILE}' using ($1-0.5):2 notitle with boxes lc rgb 'blue' axis x1y2,\
+	'{DATAFILE}' using ($1-0.5):3 notitle with lines lw 5 lc rgb 'red' axis x1y1
+
+unset output
