@@ -12,6 +12,7 @@ rain_min = 2*temp_min
 temp_max = {TEMP_MAX}
 rain_max = 2*temp_max
 
+#set term svg name "Klimadiagramm {STATION_NAME} (DWD-Station {STATION_ID}) Zeitraum {YEAR1}-{YEAR2}"
 set title "{STATION_NAME} (DWD-Station {STATION_ID})\n {ALTITUDE}m ü.d.M, {LAT}° N, {LON}° O" font "Arial-Bold, 28"
 set xrange[0:12]
 set xtics ('Jan' 1,\
@@ -40,9 +41,9 @@ set y2tics autofreq font "Helvetica, 16"
 set boxwidth 0.85
 set style fill transparent solid 0.5 border
 
-set label 1 at  0.1, temp_max-1.0 "Datenbasis: Deutscher Wetterdienst; Historische Einzelwerte über 30 Jahre gemittelt.\nNutzung gemäß § 7 DWD Gesetz / § 3 GeoNutzV. Abgebildeter Zeitraum: {YEAR1}–{YEAR2}" front font 'Helvetica,8'
-set label 2 at  9.3, temp_max-1.0 "Jahresmitteltemperatur:\nJahresgesamtniederschlag: " front font 'Helvetica,8'
-set label 3 at 11.2, temp_max-1.0 "{TEMP_AVG} °C\n{RAIN_AVG} mm" front font 'Helvetica,8'
+set label 1 at  0.0, temp_max+2.6 "Datenbasis: Deutscher Wetterdienst; Historische Einzelwerte über 30 Jahre gemittelt.\nAbgebildeter Zeitraum: {YEAR1}–{YEAR2}; Nutzung gemäß § 7 DWD Gesetz / § 3 GeoNutzV." front font 'Helvetica,8'
+set label 2 at  9.45, temp_max+2.6 "Jahresmitteltemperatur:\nJahresgesamtniederschlag: " front font 'Helvetica,8'
+set label 3 at 11.45, temp_max+2.6 "{TEMP_AVG} °C\n{RAIN_AVG} mm" front font 'Helvetica,8'
 plot '{DATAFILE}' using ($1-0.5):2 notitle with boxes lc rgb 'blue' axis x1y2,\
 	'{DATAFILE}' using ($1-0.5):3 notitle with lines lw 5 lc rgb 'red' axis x1y1
 
