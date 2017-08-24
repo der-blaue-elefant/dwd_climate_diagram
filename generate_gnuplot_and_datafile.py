@@ -91,7 +91,7 @@ for datafilename in sorted(glob.glob('*_data.csv')):
 					round(monthly_avg[0].temp,2)])
 			with open('template.gpl', 'r') as templatefile:
 				gnuplot = templatefile.read()
-			context = {'SVGFILE': 'DWD_'+station_id+'_'+start.strftime('%Y')+'_'+end.strftime('%Y')+'.svg',\
+			context = {'SVGFILE': 'Klimadiagramm_'+stationname.replace('/','_')+'_DWD_'+station_id+'_Jahre_'+start.strftime('%Y')+'-'+end.strftime('%Y')+'.svg',\
 				'TEMP_MIN': floor(min([m.temp for m in monthly_avg]+[m.rain/2 for m in monthly_avg])/5)*5,\
 				'TEMP_MAX': ceil(max([m.temp for m in monthly_avg]+[m.rain/2 for m in monthly_avg])/5)*5,\
 				'STATION_NAME':stationname,\

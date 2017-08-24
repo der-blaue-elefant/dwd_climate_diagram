@@ -41,9 +41,9 @@ set y2tics autofreq font "Helvetica, 16"
 set boxwidth 0.85
 set style fill transparent solid 0.5 border
 
-set label 1 at  0.0, temp_max+2.6 "Datenbasis: Deutscher Wetterdienst; Historische Einzelwerte über 30 Jahre gemittelt.\nAbgebildeter Zeitraum: {YEAR1}–{YEAR2}; Nutzung gemäß § 7 DWD Gesetz / § 3 GeoNutzV." front font 'Helvetica,8'
-set label 2 at  9.45, temp_max+2.6 "Jahresmitteltemperatur:\nJahresgesamtniederschlag: " front font 'Helvetica,8'
-set label 3 at 11.45, temp_max+2.6 "{TEMP_AVG} °C\n{RAIN_AVG} mm" front font 'Helvetica,8'
+set label 1 at  graph 0,1.05 "Datenbasis: Deutscher Wetterdienst; Historische Einzelwerte über 30 Jahre gemittelt.\nAbgebildeter Zeitraum: {YEAR1}–{YEAR2}; Nutzung gemäß § 7 DWD Gesetz / § 3 GeoNutzV." front font 'Helvetica,8'
+set label 2 at  graph 0.795,1.05  "Jahresmitteltemperatur:\nJahresgesamtniederschlag: " front font 'Helvetica,8'
+set label 3 at  graph 0.955,1.05  "{TEMP_AVG} °C\n{RAIN_AVG} mm" front font 'Helvetica,8'
 plot '{DATAFILE}' using ($1-0.5):2 notitle with boxes lc rgb 'blue' axis x1y2,\
 	'{DATAFILE}' using ($1-0.5):3 notitle with lines lw 5 lc rgb 'red' axis x1y1
 
