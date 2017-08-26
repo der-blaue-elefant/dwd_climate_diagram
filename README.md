@@ -10,4 +10,4 @@ The CSV files contain 14 lines each. This is because the december (12) is mirror
 ## Generation of SVG files
 The python script takes the [Gnuplot template file](template.gpl) and replaces the placeholders within with station specific data files and meta information such as latitude, longitude or the time interval shown.
 ## results
-All SVG files are provided on [Wikimedia Comons](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=500&user=Der-blaue-elefant&ilshowall=0) uploaded by user der-blaue-elefant in the category "Climate diagrams of Germany".
+All SVG files are provided on [Wikimedia Comons](https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=500&offset=0&profile=default&search=Klimadiagramm+*+DWD+Jahre*.svg+) uploaded by user der-blaue-elefant in the category "Climate diagrams of Germany".
