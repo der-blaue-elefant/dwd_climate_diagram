@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4484;   45.00; 53.6615; 10.2543;19580701;19710331;Schmalenbeck

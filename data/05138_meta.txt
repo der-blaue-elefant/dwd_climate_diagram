@@ -1,9 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5138;  440.00; 47.7747;  9.1751;19380801;19620110;Überlingen/Bodensee
-  5138;  450.00; 47.7669;  9.1743;19620111;19630327;Überlingen/Bodensee
-  5138;  424.00; 47.7685;  9.1618;19630328;19710913;Überlingen/Bodensee
-  5138;  465.00; 47.7755;  9.1496;19710914;19890531;Überlingen/Bodensee
-  5138;  440.00; 47.7730;  9.1632;19890601;19910924;Überlingen/Bodensee
-  5138;  490.00; 47.7688;  9.1854;19910925;20051231;Überlingen/Bodensee
-  5138;  477.00; 47.7702;  9.2040;20060101;20100331;Überlingen/Bodensee
-  5138;  446.00; 47.7713;  9.1562;20100401;20120630;Überlingen/Bodensee

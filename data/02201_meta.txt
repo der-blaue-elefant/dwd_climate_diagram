@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2201;   16.00; 54.5884; 13.1064;18861101;20050731;Hiddensee-Vitte
-  2201;    1.00; 54.5753; 13.1041;20050801;20110903;Hiddensee-Vitte
-  2201;    1.00; 54.5750; 13.1044;20110904;        ;Hiddensee-Vitte

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4479;  370.00; 50.3852;  9.5397;19531216;19600714;Schlüchtern-Kloster Gomfritz
-  4479;  375.00; 50.3849;  9.5358;19600715;19850930;Schlüchtern-Kloster Gomfritz

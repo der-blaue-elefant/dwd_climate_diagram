@@ -1,8 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5229;  706.00; 48.0614;  8.4568;18681201;19370731;Villingen-Schwenningen
-  5229;  710.00; 48.0535;  8.4472;19370801;19550531;Villingen-Schwenningen
-  5229;  710.00; 48.0535;  8.4472;19550601;19561231;Villingen-Schwenningen
-  5229;  710.00; 48.0535;  8.4472;19570101;19720229;Villingen-Schwenningen
-  5229;  710.00; 48.0535;  8.4472;19720301;19790109;Villingen-Schwenningen
-  5229;  698.00; 48.0424;  8.4683;19790110;19850630;Villingen-Schwenningen
-  5229;  720.00; 48.0453;  8.4608;19850701;        ;Villingen-Schwenningen

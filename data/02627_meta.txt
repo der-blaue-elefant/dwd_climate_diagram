@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2627;  128.00; 51.5555; 13.8845;19960501;        ;Klettwitz

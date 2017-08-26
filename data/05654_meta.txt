@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5654;  465.00; 49.2228; 10.2282;19480607;19590416;Wörnitz-Bottenweiler
-  5654;  464.00; 49.2178; 10.2296;19590417;20071231;Wörnitz-Bottenweiler

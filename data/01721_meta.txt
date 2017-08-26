@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1721;  506.00; 49.6639; 11.2236;19900801;20060930;Gräfenberg-Kasberg
-  1721;  506.00; 49.6640; 11.2239;20061001;        ;Gräfenberg-Kasberg

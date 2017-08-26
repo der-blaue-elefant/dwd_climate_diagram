@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5728;   35.00; 52.8039; 12.8714;19500401;19961231;Wustrau-Ziethenhorst

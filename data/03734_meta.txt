@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3734;  290.00; 49.1157;  9.4075;19371101;19730228;Obersulm-Willsbach
-  3734;  290.00; 49.1190;  9.4064;19730301;19940531;Obersulm-Willsbach
-  3734;  226.00; 49.1287;  9.3533;19940601;20040630;Obersulm-Willsbach
-  3734;  230.00; 49.1280;  9.3525;20040701;        ;Obersulm-Willsbach

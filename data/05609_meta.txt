@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5609;  255.00; 48.8000;  9.5300;18980101;19940731;Winterbach, Rems-Murr-Kreis
-  5609;  280.00; 48.7962;  9.4739;19940801;20020331;Winterbach, Rems-Murr-Kreis
-  5609;  240.00; 48.8032;  9.4697;20041220;20110930;Winterbach, Rems-Murr-Kreis
-  5609;  240.00; 48.8031;  9.4699;20111001;        ;Winterbach, Rems-Murr-Kreis

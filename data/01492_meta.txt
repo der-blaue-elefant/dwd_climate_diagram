@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1492;  879.00; 47.7802;  7.7270;19521121;19541101;Malsburg-Marzell-Friedrichsheim
-  1492;  825.00; 47.7783;  7.7325;19541102;19760427;Malsburg-Marzell-Friedrichsheim
-  1492;  852.00; 47.7819;  7.7348;19760428;20050831;Malsburg-Marzell-Friedrichsheim

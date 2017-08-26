@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1957;   93.00; 51.5073; 11.9410;19510101;19710506;Halle-Kröllwitz
-  1957;   93.00; 51.5138; 11.9499;19710507;20150326;Halle-Kröllwitz

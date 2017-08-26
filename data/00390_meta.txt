@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   390;  610.00; 50.9837;  8.3683;19861126;        ;Berleburg, Bad-Stünzel

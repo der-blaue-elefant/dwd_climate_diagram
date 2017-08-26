@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   429;   32.00; 52.5667; 13.1694;19861001;19870930;Berlin-Spandau

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1107;  340.00; 49.8500; 10.5000;18990201;19621031;Ebrach
-  1107;  360.00; 49.8495; 10.4906;19621101;19660630;Ebrach
-  1107;  360.00; 49.8495; 10.4901;19660701;19980430;Ebrach
-  1107;  346.00; 49.8520; 10.4990;19980501;        ;Ebrach

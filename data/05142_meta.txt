@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5142;    2.00; 53.7167; 14.0500;18900601;19461004;Ueckermünde
-  5142;    2.00; 53.7167; 14.0500;19461005;19470412;Ueckermünde
-  5142;    1.00; 53.7446; 14.0720;19470413;20060426;Ueckermünde
-  5142;    1.20; 53.7444; 14.0697;20060427;20110903;Ueckermünde
-  5142;    1.20; 53.7444; 14.0697;20110904;        ;Ueckermünde

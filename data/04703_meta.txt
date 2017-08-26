@@ -1,9 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4703;  585.00; 48.0824;  9.2156;18880101;19501016;Sigmaringen-Laiz
-  4703;  575.00; 48.0891;  9.1992;19501017;19670731;Sigmaringen-Laiz
-  4703;  636.00; 48.0952;  9.2281;19670801;19760930;Sigmaringen-Laiz
-  4703;  565.00; 48.0769;  9.2281;19761001;19761115;Sigmaringen-Laiz
-  4703;  645.00; 48.0905;  9.1970;19780101;19801201;Sigmaringen-Laiz
-  4703;  650.00; 48.0841;  9.1897;19801202;19901218;Sigmaringen-Laiz
-  4703;  580.00; 48.0724;  9.1947;19901219;20021031;Sigmaringen-Laiz
-  4703;  580.00; 48.0719;  9.1942;20021101;        ;Sigmaringen-Laiz

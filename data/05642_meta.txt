@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5642;   72.00; 53.1833; 12.5167;19941001;20010930;Wittstock

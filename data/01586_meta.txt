@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1586;  610.00; 47.8774; 12.6279;19610301;19680430;Traunstein-Geiﬂing

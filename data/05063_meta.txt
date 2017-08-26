@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5063;  654.00; 47.7594; 11.5539;19390401;19751130;Tölz, Bad
-  5063;  640.00; 47.7785; 11.5422;19820101;20070531;Tölz, Bad
-  5063;  724.00; 47.7566; 11.5819;20070601;20070630;Tölz, Bad

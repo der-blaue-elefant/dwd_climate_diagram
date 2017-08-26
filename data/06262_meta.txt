@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6262;  413.00; 48.7695;  9.8737;20000508;        ;Schwäbisch Gmünd-Weiler

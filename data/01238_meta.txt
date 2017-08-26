@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1238;  121.00; 50.9881;  7.4034;19491001;19521031;Engelskirchen
-  1238;  125.00; 50.9879;  7.4081;19521101;19620114;Engelskirchen
-  1238;  125.00; 50.9879;  7.4109;19620115;19670402;Engelskirchen
-  1238;  140.00; 50.9815;  7.4142;19670403;19910630;Engelskirchen
-  1238;  144.00; 50.9884;  7.4250;19910701;19961020;Engelskirchen

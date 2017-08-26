@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2360;  438.00; 48.6018; 11.6769;19260701;19780430;Hüll

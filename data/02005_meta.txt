@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2005;   85.00; 52.7273; 10.6114;19370101;19600531;Hankensbüttel
-  2005;   84.00; 52.7268; 10.6118;19600601;19880930;Hankensbüttel
-  2005;   79.00; 52.7327; 10.6173;19881001;19941231;Hankensbüttel
-  2005;  108.00; 52.7199; 10.5987;20091101;        ;Hankensbüttel

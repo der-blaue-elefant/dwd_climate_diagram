@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4977;   45.00; 52.5447; 11.9724;19930101;20020430;Tangermünde

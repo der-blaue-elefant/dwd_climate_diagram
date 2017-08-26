@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   555;   81.00; 51.5000;  7.2167;19310101;19701231;Bochum
-   555;   81.00; 51.5000;  7.2167;19790101;19940430;Bochum
-   555;  101.00; 51.4789;  7.2697;20070319;        ;Bochum

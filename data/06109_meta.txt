@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6109;   50.00; 53.3841; 14.3725;19981001;20110903;Grambow-Schwennenz
-  6109;   50.00; 53.3837; 14.3728;20110904;        ;Grambow-Schwennenz

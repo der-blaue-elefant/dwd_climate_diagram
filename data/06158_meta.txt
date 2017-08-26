@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6158;  455.00; 49.2247; 10.6084;19990701;        ;Weidenbach-Weiherschneidbach

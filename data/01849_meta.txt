@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1849;  409.00; 48.8167; 11.5667;19380501;19540731;Groﬂmehring-Theiﬂing
-  1849;  409.00; 48.8167; 11.5667;19540801;19780331;Groﬂmehring-Theiﬂing
-  1849;  403.00; 48.8167; 11.5833;19780401;19800630;Groﬂmehring-Theiﬂing
-  1849;  402.00; 48.8126; 11.5769;19800701;19991205;Groﬂmehring-Theiﬂing
-  1849;  408.00; 48.8126; 11.5728;19991206;20061231;Groﬂmehring-Theiﬂing

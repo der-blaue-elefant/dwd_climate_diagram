@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4597;  796.00; 47.5694; 10.7215;19330921;19830331;Schwangau-Horn
-  4597;  796.00; 47.5680; 10.7198;19830401;19881101;Schwangau-Horn
-  4597;  792.00; 47.5769; 10.7181;19881102;20101231;Schwangau-Horn

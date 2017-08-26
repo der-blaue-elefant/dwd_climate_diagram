@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   617;   45.00; 51.8667;  6.8333;19830701;20040531;Borken in Westfalen
-   617;   48.00; 51.8728;  6.8862;20040601;        ;Borken in Westfalen

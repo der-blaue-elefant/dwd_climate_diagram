@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
- 15444;  592.60; 48.4418;  9.9216;20140515;        ;Ulm-Mähringen

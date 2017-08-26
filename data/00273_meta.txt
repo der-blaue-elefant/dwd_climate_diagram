@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   273;  467.00; 47.8413;  9.6606;19861201;19900430;Baindt

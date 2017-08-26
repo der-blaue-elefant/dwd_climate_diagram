@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
- 13776;   85.00; 52.1789;  9.9524;20071203;20110104;Hildesheim-Drispenstedt

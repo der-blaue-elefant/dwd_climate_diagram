@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3300;  155.00; 50.2285;  9.1064;19740501;19930531;Mittel-Gründau

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3018;  435.00; 49.7072;  8.7807;19730322;19821201;Lindenfels-Winterkasten
-  3018;  445.00; 49.7117;  8.7804;19821202;20051231;Lindenfels-Winterkasten

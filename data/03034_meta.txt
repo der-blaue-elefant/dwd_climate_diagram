@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3034;  505.00; 50.4484; 11.6388;19000601;19531231;Lobenstein, Bad
-  3034;  513.00; 50.4519; 11.6489;19540101;19600331;Lobenstein, Bad
-  3034;  516.00; 50.4502; 11.6519;19610401;19670728;Lobenstein, Bad
-  3034;  510.00; 50.4444; 11.6497;19670729;19690529;Lobenstein, Bad
-  3034;  500.00; 50.4505; 11.6350;19690530;        ;Lobenstein, Bad

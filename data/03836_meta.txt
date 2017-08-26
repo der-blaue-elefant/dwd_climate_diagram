@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3836;  292.00; 50.4600; 10.2300;19010101;19720430;Ostheim v.d. Rhön
-  3836;  315.00; 50.4607; 10.2299;19720501;19880426;Ostheim v.d. Rhön
-  3836;  315.00; 50.4616; 10.2221;19880427;19980630;Ostheim v.d. Rhön
-  3836;  314.00; 50.4485; 10.2238;19980701;20000831;Ostheim v.d. Rhön
-  3836;  305.00; 50.4588; 10.2785;20000901;20010703;Ostheim v.d. Rhön
-  3836;  312.00; 50.4538; 10.2211;20051110;        ;Ostheim v.d. Rhön

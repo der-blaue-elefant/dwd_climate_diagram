@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5971;  510.00; 48.8787;  9.6342;19500701;19630301;Welzheim (A)

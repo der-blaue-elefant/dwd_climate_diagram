@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2167;  302.00; 49.7775;  7.3353;19470901;19700930;Niederwörresbach
-  2167;  345.00; 49.7797;  7.3395;19701001;20050228;Niederwörresbach
-  2167;  302.00; 49.7672;  7.3356;20050301;20120401;Niederwörresbach

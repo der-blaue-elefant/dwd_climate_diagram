@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3640;   22.00; 52.4300;  7.0700;19160801;19350630;Nordhorn-Blanke
-  3640;   22.00; 52.4280;  7.0514;19350701;19621113;Nordhorn-Blanke
-  3640;   24.00; 52.4397;  7.1048;19621114;20061231;Nordhorn-Blanke
-  3640;   24.00; 52.4124;  7.0640;20150317;        ;Nordhorn-Blanke

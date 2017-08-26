@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7394;  622.30; 50.0306; 11.9729;20060301;20060531;Wunsiedel-Schönbrunn
-  7394;  622.30; 50.0315; 11.9745;20060601;        ;Wunsiedel-Schönbrunn

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1052;   80.00; 52.2172; 12.1635;19930501;20070630;Drewitz bei Burg
-  1052;   80.00; 52.2174; 12.1641;20070701;        ;Drewitz bei Burg

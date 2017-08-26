@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
- 13777;  110.00; 52.2467; 10.9592;20071203;        ;Helmstedt-Emmerstedt

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1254;  203.00; 49.1365;  8.9054;19470701;19530508;Eppingen
-  1254;  190.00; 49.1357;  8.9190;19530509;19760622;Eppingen
-  1254;  188.00; 49.1315;  8.9154;19760623;19810126;Eppingen
-  1254;  210.00; 49.1307;  8.9165;19810127;20021130;Eppingen

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3390;  526.00; 48.1391; 11.6903;19471001;19690415;München-Riem
-  3390;  529.00; 48.1369; 11.7094;19690416;19920517;München-Riem

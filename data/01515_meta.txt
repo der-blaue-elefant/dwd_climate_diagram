@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1515;  519.00; 48.2000; 11.2667;19571214;20031001;Fürstenfeldbruck

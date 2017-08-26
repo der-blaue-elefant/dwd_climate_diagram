@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5821;   34.00; 52.8468;  8.7190;19580301;19660531;Bassum (A)
-  5821;   42.00; 52.8488;  8.7154;19660601;19740401;Bassum (A)
-  5821;   36.00; 52.8479;  8.7190;19740402;19741031;Bassum (A)
-  5821;   36.00; 52.8482;  8.7190;19741101;19761231;Bassum (A)

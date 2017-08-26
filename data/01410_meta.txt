@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1410;  140.00; 51.3590; 11.1042;19540601;19701104;Frankenhausen/Kyffhäuser, Bad
-  1410;  130.00; 51.3512; 11.0958;19701105;19970331;Frankenhausen/Kyffhäuser, Bad

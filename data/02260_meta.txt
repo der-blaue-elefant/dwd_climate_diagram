@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2260;  474.00; 50.3230; 11.9077;18810101;19481231;Hof (Stadt)
-  2260;  474.00; 50.3230; 11.9077;19490101;20061231;Hof (Stadt)

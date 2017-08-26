@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5068;   80.00; 51.5833; 13.0000;18480101;19901231;Torgau

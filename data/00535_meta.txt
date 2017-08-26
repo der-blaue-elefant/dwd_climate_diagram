@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   535;  400.00; 50.0394;  7.3003;19460801;19941231;Blankenrath
-   535;  420.00; 50.0416;  7.3056;19950101;20040531;Blankenrath
-   535;  417.00; 50.0372;  7.3079;20040601;        ;Blankenrath

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2879;  193.00; 49.5797;  9.7158;19471210;19591005;Lauda-Königshofen-Gerlachsheim
-  2879;  199.00; 49.5781;  9.7142;19591006;19851231;Lauda-Königshofen-Gerlachsheim

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3271;  313.00; 48.8545; 12.9184;18790101;20041031;Metten
-  3271;  313.00; 48.8548; 12.9189;20041101;        ;Metten

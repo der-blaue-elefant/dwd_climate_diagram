@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3857;  885.00; 47.6362; 10.3892;19931001;        ;Oy-Mittelberg-Petersthal

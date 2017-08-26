@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3578;  332.00; 48.9845; 12.2068;19810101;19810930;Regensburg-Burgweinting
-  3578;  332.00; 48.9854; 12.2071;19811001;20070630;Regensburg-Burgweinting
-  3578;  341.00; 48.9832; 12.1443;20070701;        ;Regensburg-Burgweinting

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5158;  162.00; 52.1603; 11.1753;19871201;20070630;Ummendorf
-  5158;  162.00; 52.1601; 11.1759;20070701;        ;Ummendorf

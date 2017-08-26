@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   760;   77.00; 53.3552;  9.9355;19760601;20040531;Rosengarten-Klecken
-   760;   82.00; 53.3635;  9.9434;20150701;        ;Rosengarten-Klecken

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2252;  245.00; 50.9005; 14.8153;18810101;19600630;Bertsdorf-Hörnitz
-  2252;  270.00; 50.8994; 14.7456;19941124;20080731;Bertsdorf-Hörnitz
-  2252;  270.00; 50.8990; 14.7457;20080801;        ;Bertsdorf-Hörnitz

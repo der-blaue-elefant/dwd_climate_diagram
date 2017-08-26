@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1759;   10.00; 54.2500; 13.9167;19470801;19990630;Greifswalder Oie
-  1759;   12.00; 54.2442; 13.9106;19990701;20001031;Greifswalder Oie
-  1759;   12.00; 54.2437; 13.9102;20001101;20110903;Greifswalder Oie
-  1759;   12.00; 54.2437; 13.9102;20110904;        ;Greifswalder Oie

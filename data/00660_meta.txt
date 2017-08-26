@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   660;   83.00; 52.2744; 10.5656;19480101;20021231;Braunschweig-Gliesmarode

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5369;  443.00; 48.0572; 12.2202;19471201;19931231;Wasserburg

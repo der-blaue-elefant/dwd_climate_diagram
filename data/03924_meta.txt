@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3924;  256.00; 48.8968;  8.7326;19320101;19601231;Pforzheim-Eutingen
-  3924;  243.00; 48.8990;  8.7279;19610101;19711231;Pforzheim-Eutingen
-  3924;  245.00; 48.8965;  8.7254;19720101;19900831;Pforzheim-Eutingen
-  3924;  246.00; 48.9059;  8.7412;19900901;20050831;Pforzheim-Eutingen

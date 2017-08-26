@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1380;   19.00; 54.8147;  9.4580;19410101;19561231;Flensburg-Mürwik

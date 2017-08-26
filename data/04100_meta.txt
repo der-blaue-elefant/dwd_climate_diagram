@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4100;  109.00; 51.6243;  7.1820;19530701;19731231;Recklinghausen

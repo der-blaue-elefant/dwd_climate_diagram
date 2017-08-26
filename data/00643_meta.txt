@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   643;     .00; 53.2960;  8.4529;19931101;19941231;Brake-Süderfeld

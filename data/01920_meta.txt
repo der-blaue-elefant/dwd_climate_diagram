@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1920;  100.00; 51.3945;  7.5023;19780601;20010122;Hagen-Fley
-  1920;  100.00; 51.3940;  7.5014;20010123;20020514;Hagen-Fley
-  1920;  100.00; 51.4129;  7.4895;20020515;20071231;Hagen-Fley

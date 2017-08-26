@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4548;  690.00; 50.2000; 12.0900;19090716;19930321;Selb/Oberfranken-Lauterbach
-  4548;  629.00; 50.1955; 12.0891;19930322;20070630;Selb/Oberfranken-Lauterbach
-  4548;  609.00; 50.2046; 12.1435;20070701;        ;Selb/Oberfranken-Lauterbach

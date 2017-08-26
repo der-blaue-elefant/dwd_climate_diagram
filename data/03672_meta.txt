@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3672;  455.00; 48.6226;  8.8901;19480501;19660630;Nufringen
-  3672;  457.00; 48.6229;  8.8912;19660701;19820628;Nufringen
-  3672;  457.00; 48.6207;  8.8962;19820629;19980131;Nufringen

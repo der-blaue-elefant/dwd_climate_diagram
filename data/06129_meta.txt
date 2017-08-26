@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6129;  290.00; 51.0593; 14.4266;19990501;        ;Sohland/Spree

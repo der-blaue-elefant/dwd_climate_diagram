@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1091;  258.00; 51.2801; 10.7354;19511001;19890331;Ebeleben
-  1091;  258.00; 51.2806; 10.7362;19890401;20071231;Ebeleben

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4629;   37.00; 54.5166;  9.1420;19740701;19991130;Schwesing

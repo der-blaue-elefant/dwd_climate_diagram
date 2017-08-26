@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   186;  204.00; 51.3940;  8.0705;19410101;19460430;Arnsberg
-   186;  188.00; 51.3940;  8.0705;19460501;19580106;Arnsberg
-   186;  191.00; 51.4029;  8.0647;19580107;19611031;Arnsberg
-   186;  189.10; 51.3948;  8.0710;19611101;19650430;Arnsberg
-   186;  217.90; 51.3773;  8.0713;19650501;19980930;Arnsberg

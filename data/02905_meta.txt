@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2905;  550.00; 48.1833; 10.8500;19580723;20070924;Lechfeld
-  2905;  550.00; 48.1849; 10.8507;20070925;        ;Lechfeld

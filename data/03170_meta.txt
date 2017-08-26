@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3170;   10.00; 54.5000; 11.2500;19190101;19461031;Marienleuchte
-  3170;   10.00; 54.5000; 11.2500;19461101;19790131;Marienleuchte
-  3170;    5.00; 54.4937; 11.2405;19790201;        ;Marienleuchte

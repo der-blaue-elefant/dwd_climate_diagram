@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2289;   28.00; 52.6667; 12.3333;19530701;19661231;Hohennauen

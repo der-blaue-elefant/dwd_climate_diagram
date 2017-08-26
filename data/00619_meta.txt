@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   619;   12.00; 53.5795;  6.6654;19290101;19720630;Borkum-Süderstraße
-   619;    5.00; 53.5609;  6.7462;19720701;20060228;Borkum-Süderstraße
-   619;   11.60; 53.5788;  6.6703;20060301;        ;Borkum-Süderstraße

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1960;  102.00; 51.4831; 11.9671;18510101;19901231;Halle (Stadt)

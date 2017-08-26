@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3565;  307.00; 49.5789; 10.6134;19471022;19480630;Neustadt/Aisch
-  3565;  307.00; 49.5789; 10.6134;19480701;19561205;Neustadt/Aisch
-  3565;  300.00; 49.5750; 10.6001;19561206;19620930;Neustadt/Aisch
-  3565;  305.00; 49.5745; 10.6070;19621001;19671020;Neustadt/Aisch
-  3565;  333.00; 49.5717; 10.6079;19671021;19921007;Neustadt/Aisch
-  3565;  315.00; 49.5728; 10.6001;19921008;20020203;Neustadt/Aisch

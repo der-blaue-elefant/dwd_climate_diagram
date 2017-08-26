@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1374;  415.00; 50.5200; 10.1500;19040101;19490110;Fladungen-Heufurt
-  1374;  415.00; 50.5196; 10.1474;19490111;19740331;Fladungen-Heufurt
-  1374;  420.00; 50.5174; 10.1471;19740401;20060131;Fladungen-Heufurt
-  1374;  363.00; 50.5049; 10.1671;20060201;        ;Fladungen-Heufurt

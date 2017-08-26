@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1425;  103.00; 50.1213;  8.6601;17570101;19460531;Frankfurt/Main (Feldbergstr.)
-  1425;  109.00; 50.1213;  8.6601;19460601;19611130;Frankfurt/Main (Feldbergstr.)

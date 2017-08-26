@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4401;   80.00; 51.6337;  8.1899;19480301;19621022;Sassendorf, Bad-Ostinghausen
-  4401;   80.00; 51.6340;  8.1880;19621023;19730503;Sassendorf, Bad-Ostinghausen
-  4401;   81.00; 51.6334;  8.1872;19730504;19800630;Sassendorf, Bad-Ostinghausen

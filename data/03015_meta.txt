@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3015;  106.00; 52.2094; 14.1193;19060401;19561022;Lindenberg
-  3015;   98.00; 52.2089; 14.1171;19561023;19671231;Lindenberg
-  3015;   98.00; 52.2089; 14.1171;19680101;19711017;Lindenberg
-  3015;   98.00; 52.2083; 14.1185;19711018;19780430;Lindenberg
-  3015;   98.00; 52.2083; 14.1185;19780501;19930331;Lindenberg
-  3015;   98.00; 52.2085; 14.1180;19930401;        ;Lindenberg

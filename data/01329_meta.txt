@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1329;   49.00; 54.1373; 10.6062;19310101;19780831;Eutin
-  1329;   50.00; 54.1340; 10.5865;19780901;20031231;Eutin

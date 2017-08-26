@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1441;  380.00; 50.9271; 13.3372;19450701;19490731;Freiberg
-  1441;  380.00; 50.9271; 13.3372;19490801;19930430;Freiberg
-  1441;  416.00; 50.9263; 13.2711;20141218;        ;Freiberg

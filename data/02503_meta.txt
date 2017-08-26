@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2503;  456.00; 50.6230; 10.1588;19460501;19520630;Kaltennordheim
-  2503;  487.00; 50.6266; 10.1455;19520701;20030505;Kaltennordheim

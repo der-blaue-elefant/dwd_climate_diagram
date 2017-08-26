@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1006;   16.00; 53.1333; 11.2500;18920101;19620514;Dömitz
-  1006;   15.00; 53.1399; 11.2544;19620515;19920131;Dömitz
-  1006;   15.00; 53.1399; 11.2544;19920201;20051231;Dömitz

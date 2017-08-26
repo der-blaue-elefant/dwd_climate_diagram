@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3668;  310.40; 49.4947; 11.0806;19490101;19550406;Nürnberg
-  3668;  310.40; 49.4947; 11.0806;19550407;19951204;Nürnberg
-  3668;  314.00; 49.5030; 11.0549;19951205;        ;Nürnberg

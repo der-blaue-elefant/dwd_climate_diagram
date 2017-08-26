@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5562;  518.00; 48.6226;  8.7107;19950401;20001231;Neubulach-Oberhaugstett
-  5562;  570.00; 48.6504;  8.6787;20011010;20020917;Neubulach-Oberhaugstett
-  5562;  570.00; 48.6516;  8.6801;20020918;        ;Neubulach-Oberhaugstett

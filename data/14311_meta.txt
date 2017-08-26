@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
- 14311;  531.00; 50.1488;  6.5526;19580101;19690930;Hersdorf-Weiﬂenseifen
- 14311;  530.00; 50.1505;  6.5526;19691001;        ;Hersdorf-Weiﬂenseifen

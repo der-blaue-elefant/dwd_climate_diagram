@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2151;  218.00; 51.0081; 10.1669;19381101;19660321;Herleshausen
-  2151;  210.00; 51.0048; 10.1677;19660322;19700630;Herleshausen
-  2151;  200.00; 51.0037; 10.1713;19700701;19751130;Herleshausen
-  2151;  215.00; 51.0048; 10.1705;19751201;19910831;Herleshausen

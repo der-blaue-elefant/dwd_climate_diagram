@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   661;   75.00; 52.2708; 10.5334;18910101;19531231;Braunschweig (T.H.)

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2290;  977.00; 47.8002; 11.0143;17810101;19400419;Hohenpeiﬂenberg
-  2290;  977.00; 47.8013; 11.0093;19400420;19480430;Hohenpeiﬂenberg
-  2290;  977.00; 47.8009; 11.0108;19480501;        ;Hohenpeiﬂenberg

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1172;  105.00; 51.8139;  9.8894;19480101;19890620;Einbeck
-  1172;  135.00; 51.8239;  9.8791;19890621;19891017;Einbeck
-  1172;  123.00; 51.8189;  9.8871;19891018;19891130;Einbeck

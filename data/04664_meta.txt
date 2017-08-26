@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4664;  540.00; 50.1683; 12.1246;19460601;19540412;Selb/Oberfranken-Wildenau
-  4664;  555.00; 50.1661; 12.1296;19540413;19581028;Selb/Oberfranken-Wildenau
-  4664;  558.00; 50.1664; 12.1327;19581029;19840409;Selb/Oberfranken-Wildenau
-  4664;  583.00; 50.1592; 12.1549;19840410;19930430;Selb/Oberfranken-Wildenau
-  4664;  611.00; 50.1969; 12.1727;19930501;20000630;Selb/Oberfranken-Wildenau

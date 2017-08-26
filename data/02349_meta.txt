@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2349; 1140.00; 48.6140;  8.2035;19521007;19740919;Hornisgrinde
-  2349; 1125.00; 48.6107;  8.2016;19740920;20091130;Hornisgrinde
-  2349; 1119.00; 48.6136;  8.2034;20091201;        ;Hornisgrinde

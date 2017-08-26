@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2641;   85.00; 51.5190; 12.9062;19940926;20080731;Klitzschen bei Torgau
-  2641;   85.00; 51.5185; 12.9065;20080801;        ;Klitzschen bei Torgau

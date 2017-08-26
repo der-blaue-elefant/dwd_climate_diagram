@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6314;  308.00; 51.0507; 13.3008;18910101;19831231;Nossen
-  6314;  308.00; 51.0507; 13.3003;20041207;        ;Nossen

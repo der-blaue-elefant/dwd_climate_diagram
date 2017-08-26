@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2226;  668.00; 50.4707; 10.9106;19600101;20031231;Eisfeld-Waffenrod-Hinterrod

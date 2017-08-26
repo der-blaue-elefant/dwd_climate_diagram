@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5335;  350.00; 50.8896; 10.5656;19411001;19760331;Waltershausen
-  5335;  338.00; 50.8905; 10.5765;19760401;19990930;Waltershausen
-  5335;  348.00; 50.8963; 10.5484;20060509;        ;Waltershausen

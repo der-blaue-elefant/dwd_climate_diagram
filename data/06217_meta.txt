@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6217;  190.00; 49.2406;  6.9351;20010401;        ;Saarbrücken-Burbach

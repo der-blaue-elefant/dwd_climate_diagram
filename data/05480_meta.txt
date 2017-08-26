@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5480;   82.00; 51.5667;  7.9167;19750101;19941231;Werl
-  5480;   84.80; 51.5765;  7.8880;20030910;20060827;Werl
-  5480;   84.80; 51.5763;  7.8879;20060828;        ;Werl

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3382;  521.00; 48.1441; 11.6000;19120801;19510930;München-Bogenhausen
-  3382;  521.00; 48.1441; 11.6000;19511001;19540531;München-Bogenhausen

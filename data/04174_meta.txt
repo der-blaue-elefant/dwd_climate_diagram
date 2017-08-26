@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4174;   40.00; 52.3000;  7.3833;19601118;20071127;Rheine-Bentlage
-  4174;   40.00; 52.2887;  7.3866;20071128;        ;Rheine-Bentlage

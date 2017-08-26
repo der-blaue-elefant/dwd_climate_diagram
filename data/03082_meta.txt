@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3082;   56.00; 51.9333; 13.8833;19670101;19721231;Lübben
-  3082;   56.00; 51.9333; 13.8833;19730101;19741231;Lübben

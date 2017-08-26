@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1736;   25.00; 53.5752; 10.6769;19370401;19600531;Grambek
-  1736;   33.00; 53.5657; 10.6423;19600601;19750630;Grambek
-  1736;   27.00; 53.5731; 10.6797;19841010;        ;Grambek

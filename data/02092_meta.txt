@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2092;  532.00; 50.1671;  8.0152;19520118;19590602;Heidenrod-Mappershain
-  2092;  496.00; 50.1691;  7.9949;19590603;19901231;Heidenrod-Mappershain

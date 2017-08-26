@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3605;  451.00; 48.5262; 10.2388;19510101;19970228;Niederstotzingen
-  3605;  451.00; 48.5334; 10.2430;19970301;        ;Niederstotzingen

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   474;  538.00; 48.1108;  9.8039;19580701;19870228;Warthausen-Birkenhard
-   474;  581.00; 48.0841;  9.7775;19870301;19981031;Warthausen-Birkenhard
-   474;  535.00; 48.0930;  9.7750;19981101;20031015;Warthausen-Birkenhard
-   474;  599.00; 48.1252;  9.7639;20031016;20080331;Warthausen-Birkenhard

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1964;  300.00; 49.9292;  6.3735;19510601;19910630;Olsdorf
-  1964;  305.00; 49.9314;  6.3751;19910701;20050308;Olsdorf
-  1964;  328.00; 49.9445;  6.3821;20050309;        ;Olsdorf

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6157;    2.00; 53.6315;  8.0205;19990201;20070821;Wangerland-Hooksiel
-  6157;    8.00; 53.6410;  8.0808;20070822;        ;Wangerland-Hooksiel

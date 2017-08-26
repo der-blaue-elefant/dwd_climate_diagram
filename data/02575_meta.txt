@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2575;  398.00; 49.2000;  9.9800;19361111;19810930;Kirchberg/Jagst-Herboldshausen
-  2575;  417.00; 49.1964;  9.9794;19811001;19921231;Kirchberg/Jagst-Herboldshausen
-  2575;  418.00; 49.1956;  9.9780;19930101;20060831;Kirchberg/Jagst-Herboldshausen
-  2575;  426.00; 49.1804;  9.9800;20060901;        ;Kirchberg/Jagst-Herboldshausen

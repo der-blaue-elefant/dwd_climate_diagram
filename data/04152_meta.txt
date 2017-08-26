@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4152;  760.00; 47.6783;  8.1527;19650701;19771231;Remetschwiel

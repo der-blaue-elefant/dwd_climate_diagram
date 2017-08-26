@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7075;  425.00; 48.7020; 11.8493;20031219;        ;Elsendorf-Horneck

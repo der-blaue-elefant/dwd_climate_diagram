@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5546;  187.00; 52.1207; 12.4585;19850415;        ;Wiesenburg

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4560;  305.00; 50.5049;  9.1222;19340101;19740421;Schotten
-  4560;  315.00; 50.5066;  9.1345;19740422;20050131;Schotten
-  4560;  265.00; 50.4925;  9.1226;20050201;        ;Schotten

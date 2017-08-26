@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5064;   39.00; 51.3248;  6.5124;19521017;19551031;Tönisvorst
-  5064;   39.00; 51.3248;  6.5124;19551101;19710731;Tönisvorst
-  5064;   39.00; 51.3137;  6.5115;19710801;20041130;Tönisvorst
-  5064;   37.00; 51.2897;  6.4437;20041201;        ;Tönisvorst

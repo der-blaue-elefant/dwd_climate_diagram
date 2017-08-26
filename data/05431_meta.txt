@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5431;   24.00; 53.0333; 11.8000;19470101;19760930;Weisen bei Wittenberge

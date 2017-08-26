@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5165;  110.00; 52.8346; 10.2937;19471117;19700428;Unterlüß
-  5165;   98.00; 52.8507; 10.2890;19700429;19981216;Unterlüß
-  5165;   95.00; 52.8499; 10.2898;19981217;20061231;Unterlüß

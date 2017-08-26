@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5920;  108.00; 50.4721;  7.5034;19490515;19790930;Neuwied
-  5920;  119.00; 50.4530;  7.4225;19791001;19811116;Neuwied
-  5920;  121.00; 50.4552;  7.4275;19811117;19940630;Neuwied
-  5920;   91.00; 50.4485;  7.4275;19940701;19970731;Neuwied

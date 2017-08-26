@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4606;  116.00; 51.5167; 14.3500;19600101;19821231;Schwarze Pumpe

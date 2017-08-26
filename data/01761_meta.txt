@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1761;  284.00; 50.6500; 12.2000;19470101;19581231;Greiz

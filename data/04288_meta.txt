@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4288;   95.00; 52.1075;  8.1622;19360701;19550331;Rothenfelde, Bad
-  4288;   95.00; 52.1078;  8.1674;19550401;19780808;Rothenfelde, Bad
-  4288;   87.00; 52.1014;  8.1594;19780809;20051130;Rothenfelde, Bad
-  4288;   95.00; 52.1039;  8.1809;20051201;        ;Rothenfelde, Bad

@@ -1,8 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   863;  566.00; 51.8065; 10.3398;18770101;19460731;Clausthal-Zellerfeld
-   863;  566.00; 51.8065; 10.3398;19460801;19720502;Clausthal-Zellerfeld
-   863;  563.00; 51.8065; 10.3393;19720503;19890905;Clausthal-Zellerfeld
-   863;  590.00; 51.7998; 10.3401;19890906;19950626;Clausthal-Zellerfeld
-   863;  563.00; 51.8065; 10.3393;19950627;20010925;Clausthal-Zellerfeld
-   863;  563.00; 51.8001; 10.3454;20010926;20070930;Clausthal-Zellerfeld
-   863;  585.00; 51.7904; 10.3470;20071001;20120405;Clausthal-Zellerfeld

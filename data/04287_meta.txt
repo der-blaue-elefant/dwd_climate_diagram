@@ -1,8 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4287;  425.00; 49.3800; 10.1800;18941001;19470606;Rothenburg ob der Tauber
-  4287;  438.00; 49.3800; 10.1841;19470607;19550620;Rothenburg ob der Tauber
-  4287;  425.00; 49.3717; 10.1863;19550621;19740630;Rothenburg ob der Tauber
-  4287;  421.00; 49.3758; 10.1946;19740701;19820930;Rothenburg ob der Tauber
-  4287;  406.00; 49.3828; 10.1746;19821001;20041231;Rothenburg ob der Tauber
-  4287;  412.00; 49.3833; 10.1780;20050101;20081111;Rothenburg ob der Tauber
-  4287;  415.00; 49.3848; 10.1732;20081112;        ;Rothenburg ob der Tauber

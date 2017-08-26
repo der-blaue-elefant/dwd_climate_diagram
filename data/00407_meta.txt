@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   407;   48.00; 52.6461; 13.2858;19580101;19780331;Berlin-Frohnau

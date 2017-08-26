@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   727;  290.00; 49.7345;  8.9557;19571001;20040630;Brombachtal-Kirch-Brombach

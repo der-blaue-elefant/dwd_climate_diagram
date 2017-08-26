@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4505;  708.00; 50.5000; 12.4500;18810101;19870131;Schnarrtanne-Vogelsgrün

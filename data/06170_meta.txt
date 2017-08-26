@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6170;   42.00; 52.0206; 14.7195;19390101;20040531;Coschen
-  6170;   40.00; 52.0192; 14.7254;20040601;        ;Coschen

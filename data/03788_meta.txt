@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3788;  269.00; 50.8667; 14.7667;19580101;19600630;Olbersdorf
-  3788;  269.00; 50.8799; 14.7939;19600701;19861117;Olbersdorf
-  3788;  305.00; 50.8646; 14.7628;19861118;20021231;Olbersdorf

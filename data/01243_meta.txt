@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1243;  705.00; 48.4734;  9.3028;19760101;19850930;Eningen

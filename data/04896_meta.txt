@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4896;   27.00; 54.6927;  9.8763;19741201;19810731;Wagersrott
-  4896;   27.00; 54.6930;  9.8763;19810801;19840331;Wagersrott
-  4896;   28.00; 54.6927;  9.8760;19840401;19890630;Wagersrott
-  4896;   43.00; 54.6914;  9.8377;19890701;19970228;Wagersrott
-  4896;   30.00; 54.6922;  9.8580;19990101;20050630;Wagersrott
-  4896;   40.00; 54.6654;  9.8050;20050701;        ;Wagersrott

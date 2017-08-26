@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5398;  445.00; 49.2068; 10.6584;19470601;19611108;Weidenbach, Kr.Ansbach
-  5398;  443.00; 49.2057; 10.6593;19611109;19690312;Weidenbach, Kr.Ansbach
-  5398;  430.00; 49.1976; 10.6426;19690313;19710630;Weidenbach, Kr.Ansbach
-  5398;  425.00; 49.1965; 10.6487;19791024;20051231;Weidenbach, Kr.Ansbach

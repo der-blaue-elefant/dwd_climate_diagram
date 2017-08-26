@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7424;  458.00; 47.7724; 12.9073;20060628;        ;Piding

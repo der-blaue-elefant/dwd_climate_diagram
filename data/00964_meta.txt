@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   964;  413.00; 50.0832;  6.8904;19510508;19621231;Dierfeld

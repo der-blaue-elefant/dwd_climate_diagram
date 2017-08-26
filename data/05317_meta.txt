@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5317;  472.00; 50.0034; 12.3120;19371120;19480930;Waldsassen
-  5317;  473.00; 50.0031; 12.3113;19481001;19820831;Waldsassen
-  5317;  473.00; 49.9903; 12.2841;19820901;19960630;Waldsassen
-  5317;  509.00; 50.0097; 12.2979;19960701;20170502;Waldsassen

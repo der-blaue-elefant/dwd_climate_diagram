@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4719;  169.00; 49.2447;  8.8787;19721027;20070831;Sinsheim

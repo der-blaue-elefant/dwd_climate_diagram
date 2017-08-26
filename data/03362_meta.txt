@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3362;  244.00; 48.9667;  8.8667;19790101;20060626;Mühlacker
-  3362;  244.00; 48.9721;  8.8734;20060627;        ;Mühlacker

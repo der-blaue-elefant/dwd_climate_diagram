@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   807;  340.00; 49.7281; 10.6390;19471103;19600307;Schlüsselfeld (Kläranlage)
-   807;  315.00; 49.7353; 10.5995;19600308;19601009;Schlüsselfeld (Kläranlage)
-   807;  307.00; 49.7347; 10.5998;19601010;19781031;Schlüsselfeld (Kläranlage)
-   807;  310.00; 49.7342; 10.6043;19781101;20061231;Schlüsselfeld (Kläranlage)
-   807;  290.00; 49.7450; 10.6434;20070101;        ;Schlüsselfeld (Kläranlage)

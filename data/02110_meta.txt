@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2110;   39.00; 51.0623;  6.0947;18920601;19370106;Heinsberg-Schleiden
-  2110;   38.00; 51.0571;  6.0975;19370107;19520331;Heinsberg-Schleiden
-  2110;   45.00; 51.1080;  6.0630;19520401;19590930;Heinsberg-Schleiden
-  2110;   36.00; 51.0604;  6.0904;19591001;19621010;Heinsberg-Schleiden
-  2110;   60.00; 51.0412;  6.1391;19621011;19770331;Heinsberg-Schleiden
-  2110;   57.00; 51.0411;  6.1042;19770401;        ;Heinsberg-Schleiden

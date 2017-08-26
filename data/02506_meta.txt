@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2506;  200.00; 51.2750; 14.1025;18940714;19461231;Kamenz
-  2506;  270.00; 51.2667; 14.0833;19470101;19631231;Kamenz
-  2506;  270.00; 51.2667; 14.0833;19650101;19920630;Kamenz

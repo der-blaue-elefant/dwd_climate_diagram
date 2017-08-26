@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1833; 1307.00; 49.0851; 13.2801;19460711;19821031;Grosser Falkenstein

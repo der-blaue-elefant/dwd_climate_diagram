@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2323;  100.00; 51.8297;  9.4631;19510101;19781031;Bevern, Kr. Holzminden
-  2323;  128.00; 51.8167;  9.4581;19781101;19910731;Bevern, Kr. Holzminden
-  2323;  110.00; 51.8529;  9.4953;20060405;        ;Bevern, Kr. Holzminden

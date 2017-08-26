@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1003;  201.00; 51.1333; 13.1167;19470101;19751231;Döbeln

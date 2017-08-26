@@ -1,9 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   526;  226.00; 50.6800; 11.2700;18820201;19490630;Blankenburg, Bad
-   526;  222.00; 50.6838; 11.2669;19490701;19580515;Blankenburg, Bad
-   526;  227.00; 50.6777; 11.2655;19580516;19610930;Blankenburg, Bad
-   526;  225.00; 50.6769; 11.2655;19611001;19691222;Blankenburg, Bad
-   526;  225.00; 50.6771; 11.2700;19691223;19771031;Blankenburg, Bad
-   526;  225.00; 50.6777; 11.2753;19771101;19800210;Blankenburg, Bad
-   526;  245.00; 50.6846; 11.2686;19800211;20071231;Blankenburg, Bad
-   526;  254.00; 50.6738; 11.2805;20090501;        ;Blankenburg, Bad

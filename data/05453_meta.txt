@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5453;  173.00; 48.1880;  7.6977;19920520;        ;Weisweil-Waldeckhof

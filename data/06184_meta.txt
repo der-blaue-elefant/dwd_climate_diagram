@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6184;    6.00; 53.5333;  8.1667;19880801;        ;Wilhelmshaven (Flugplatz)

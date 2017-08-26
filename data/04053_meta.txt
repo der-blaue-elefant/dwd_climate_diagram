@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4053;  409.00; 47.7370;  8.9780;19400401;19500930;Radolfzell-Markelfingen
-  4053;  411.00; 47.7363;  8.9779;19501001;19641221;Radolfzell-Markelfingen
-  4053;  400.00; 47.7358;  8.9826;19641222;19730731;Radolfzell-Markelfingen
-  4053;  400.00; 47.7274;  8.9976;19730801;19961231;Radolfzell-Markelfingen
-  4053;  407.00; 47.7458;  9.0007;20040301;        ;Radolfzell-Markelfingen

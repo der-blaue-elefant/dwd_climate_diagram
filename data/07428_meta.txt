@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7428;  397.00; 50.4167; 10.8156;20060801;        ;Veilsdorf

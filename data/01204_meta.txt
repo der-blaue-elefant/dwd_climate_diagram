@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1204;    1.00; 53.2379;  8.4618;19480201;19490331;Elsfleth
-  1204;    1.00; 53.2379;  8.4618;19490401;19550930;Elsfleth
-  1204;    2.00; 53.2407;  8.4629;19551001;19580831;Elsfleth
-  1204;    2.00; 53.2407;  8.4629;19580901;19610416;Elsfleth
-  1204;    1.00; 53.2346;  8.4612;19610417;19651231;Elsfleth

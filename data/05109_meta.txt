@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5109;   69.00; 53.6022; 13.3061;19700101;20110903;Trollenhagen
-  5109;   69.00; 53.5998; 13.3039;20110904;20130930;Trollenhagen
-  5109;   69.00; 53.5997; 13.3039;20131001;        ;Trollenhagen

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5514;   12.00; 54.9239;  8.3087;19360101;19621231;Westerland
-  5514;    4.00; 54.9167;  8.3000;19630101;19750430;Westerland
-  5514;    6.00; 54.9167;  8.3167;19750501;20020630;Westerland
-  5514;    3.00; 54.8991;  8.3123;20020701;20061231;Westerland

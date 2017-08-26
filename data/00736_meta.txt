@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   736;  410.00; 49.6442;  7.1723;19210806;19630930;Brücken
-   736;  395.00; 49.6525;  7.1525;19631001;19911231;Brücken
-   736;  390.00; 49.6303;  7.1148;19941109;19991231;Brücken

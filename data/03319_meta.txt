@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3319;  248.00; 49.7906;  9.2621;19360401;19670514;Röllbach
-  3319;  243.00; 49.7950;  9.2645;19670515;20051231;Röllbach
-  3319;  239.00; 49.7644;  9.2530;20060427;        ;Röllbach

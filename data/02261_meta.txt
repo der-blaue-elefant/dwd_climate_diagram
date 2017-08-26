@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2261;  565.10; 50.3121; 11.8760;19461201;20080928;Hof
-  2261;  565.10; 50.3121; 11.8760;20080929;20100811;Hof
-  2261;  565.10; 50.3122; 11.8761;20100812;        ;Hof

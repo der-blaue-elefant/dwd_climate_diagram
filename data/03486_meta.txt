@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3486;  210.00; 49.2931;  9.2722;19471209;19590422;Neudenau
-  3486;  212.00; 49.2931;  9.2722;19590423;20041231;Neudenau

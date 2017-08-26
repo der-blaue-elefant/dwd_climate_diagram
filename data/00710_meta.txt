@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   710;  188.00; 49.0300;  8.7000;18810101;19831026;Bretten
-   710;  162.00; 49.0323;  8.6834;19831027;19900331;Bretten
-   710;  185.00; 49.0254;  8.6990;19900401;20140714;Bretten
-   710;  181.00; 49.0250;  8.6991;20140715;        ;Bretten

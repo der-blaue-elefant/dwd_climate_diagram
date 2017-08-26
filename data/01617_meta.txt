@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1617;  210.00; 51.7259; 11.1317;19510401;20070630;Gernrode
-  1617;  210.00; 51.7259; 11.1317;20070701;20071231;Gernrode

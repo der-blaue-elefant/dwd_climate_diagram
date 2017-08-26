@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   211;  160.00; 50.5916;  8.4554;19810807;19991231;Aßlar Klein-Altenstädten
-   211;  200.00; 50.5800;  8.4685;20000101;        ;Aßlar Klein-Altenstädten

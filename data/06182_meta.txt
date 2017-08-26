@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6182;  404.00; 48.7757; 12.1743;20000401;20120328;Mallersdorf-Pfaffenberg

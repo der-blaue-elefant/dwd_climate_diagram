@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1266;   18.00; 54.3067;  9.3006;19640413;19931231;Erfde
-  1266;   18.00; 54.2992;  9.3162;19940101;        ;Erfde

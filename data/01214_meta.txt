@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1214;  360.00; 48.1744;  8.0724;19871111;19990930;Elzach-Fisnacht
-  1214;  440.00; 48.2012;  8.1089;20010926;        ;Elzach-Fisnacht

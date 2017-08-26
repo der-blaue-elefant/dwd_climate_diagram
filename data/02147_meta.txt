@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2147;   77.00; 52.1264;  8.6865;19280701;20071231;Herford

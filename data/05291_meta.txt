@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5291; 1005.00; 47.9760;  8.1558;19471001;19620131;Waldau-Jostal

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1440;  430.00; 48.1824;  7.8825;19361113;19690521;Freiamt-Ottoschwanden
-  1440;  442.00; 48.1888;  7.8697;19690522;19940531;Freiamt-Ottoschwanden
-  1440;  481.00; 48.2018;  7.9336;19940601;        ;Freiamt-Ottoschwanden

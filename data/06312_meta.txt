@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6312;  362.00; 49.5314; 10.6418;20030601;        ;Markt Erlbach-Mosbach

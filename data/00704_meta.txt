@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   704;    3.00; 53.4974;  9.1720;19790401;20020529;Bremervörde
-   704;   10.00; 53.4451;  9.1390;20020530;        ;Bremervörde

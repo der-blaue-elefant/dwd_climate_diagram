@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1130;   19.00; 54.6333;  9.3500;19601013;20050701;Eggebek
-  1130;   17.00; 54.6282;  9.3648;20090403;        ;Eggebek

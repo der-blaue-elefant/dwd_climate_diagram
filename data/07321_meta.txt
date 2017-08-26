@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7321;  160.00; 51.1507; 11.3321;20050401;        ;Olbersleben

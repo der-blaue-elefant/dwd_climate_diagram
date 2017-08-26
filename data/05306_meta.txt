@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5306;  940.00; 48.9293; 13.4641;19711117;20040117;Waldhäuser (National Park)

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4581;  323.00; 48.7957;  9.7908;19491101;19550722;Schwäbisch Gmünd-Strassdorf
-  4581;  345.00; 48.7957;  9.8050;19550723;19821031;Schwäbisch Gmünd-Strassdorf
-  4581;  415.00; 48.7768;  9.8025;19821101;20021031;Schwäbisch Gmünd-Strassdorf

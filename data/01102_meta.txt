@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1102;  300.00; 48.7201;  9.5328;19871101;20030723;Ebersbach/Fils

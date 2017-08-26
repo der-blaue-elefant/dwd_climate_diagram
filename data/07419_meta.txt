@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7419;  390.00; 50.6610; 12.0757;20060509;        ;Langenwetzendorf-Göttendorf

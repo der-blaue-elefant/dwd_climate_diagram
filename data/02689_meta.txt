@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2689;   42.00; 53.2300;  9.6500;19160101;19310731;Königsmoor
-  2689;   40.00; 53.2333;  9.6667;19310801;19790630;Königsmoor
-  2689;   40.00; 53.2279;  9.6527;19790701;        ;Königsmoor

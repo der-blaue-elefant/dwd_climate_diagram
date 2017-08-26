@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3856; 1050.00; 47.6352; 10.4355;19490101;19570930;Oy-Mittelberg
-  3856; 1010.00; 47.6408; 10.4374;19571001;19711019;Oy-Mittelberg
-  3856; 1010.00; 47.6383; 10.4313;19711020;19930630;Oy-Mittelberg

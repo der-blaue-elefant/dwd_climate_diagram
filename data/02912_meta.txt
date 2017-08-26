@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2912;    9.00; 54.7419;  9.8791;19560301;19741130;Lehbek

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5640;    8.00; 53.5504;  7.6672;19611120;        ;Wittmundhafen

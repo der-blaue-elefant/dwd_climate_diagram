@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7396;  743.30; 50.5084;  9.2247;20060301;        ;Hoherodskopf/Vogelsberg

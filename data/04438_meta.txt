@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4438;  317.00; 49.9750; 11.0395;19921105;20061231;Scheﬂlitz

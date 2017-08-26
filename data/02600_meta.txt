@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2600;  191.00; 49.7300; 10.1700;18970201;19821031;Kitzingen
-  2600;  220.00; 49.7253; 10.1924;19821101;19910331;Kitzingen
-  2600;  230.00; 49.7242; 10.1921;19910401;19980630;Kitzingen
-  2600;  188.00; 49.7361; 10.1791;19980701;20050228;Kitzingen
-  2600;  188.00; 49.7363; 10.1781;20050301;        ;Kitzingen

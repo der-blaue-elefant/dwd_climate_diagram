@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4233;  397.00; 50.3833;  9.5167;19360401;19531231;Röhrigshof bei Schlüchtern

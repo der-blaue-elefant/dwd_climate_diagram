@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3825;  338.00; 49.5033;  7.2773;19610301;19771231;Osterhof

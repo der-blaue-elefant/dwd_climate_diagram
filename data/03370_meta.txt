@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3370;  300.00; 51.2076; 10.3956;19900101;20041130;Mühlhausen

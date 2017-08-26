@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2354;  135.00; 51.4333; 14.2500;18870510;19620217;Hoyerswerda (Ph)
-  2354;  118.00; 51.4362; 14.2399;19620218;19861231;Hoyerswerda (Ph)
-  2354;  118.00; 51.4379; 14.2426;19870101;        ;Hoyerswerda (Ph)

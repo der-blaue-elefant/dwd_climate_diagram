@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1378;   45.00; 54.8086;  9.4182;19850701;20061231;Flensburg

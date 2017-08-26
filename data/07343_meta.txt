@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7343;  688.00; 50.6199; 13.4816;20060401;20080731;Deutschneudorf-Brüderwiese
-  7343;  688.00; 50.6199; 13.4816;20080801;        ;Deutschneudorf-Brüderwiese

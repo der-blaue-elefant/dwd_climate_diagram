@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1863;  188.00; 50.2632;  9.1797;19950217;20030930;Gründau-Breitenborn
-  1863;  258.00; 50.2667;  9.1854;20070614;        ;Gründau-Breitenborn

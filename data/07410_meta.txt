@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7410;  350.30; 50.7513;  9.0224;20101129;        ;Neu-Ulrichstein

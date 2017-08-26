@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7373;    3.00; 53.5984;  6.7024;20051001;        ;Borkum-Flugplatz

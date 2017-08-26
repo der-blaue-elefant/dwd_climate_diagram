@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2083;  110.00; 49.4192;  8.6051;19490101;19591001;Heidelberg-Grenzhof

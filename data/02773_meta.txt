@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2773;  417.00; 49.4283; 11.9016;19740101;        ;Kümmersbruck

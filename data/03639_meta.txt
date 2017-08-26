@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3639;   25.00; 53.7667;  8.6667;19630402;20070529;Nordholz (Flugplatz)
-  3639;   25.00; 53.7647;  8.6583;20070530;        ;Nordholz (Flugplatz)

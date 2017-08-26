@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6346;  530.00; 48.2070; 11.2035;20031101;        ;Maisach-Galgen

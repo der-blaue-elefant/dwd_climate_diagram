@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7106;  105.00; 52.0714;  8.4565;20060401;        ;Bielefeld-Deppendorf

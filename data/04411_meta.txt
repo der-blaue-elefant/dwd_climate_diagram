@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4411;  148.00; 49.9258;  9.0001;19791201;19810430;Schaafheim-Schlierbach
-  4411;  155.00; 49.9200;  8.9668;19810501;20040430;Schaafheim-Schlierbach
-  4411;  155.00; 49.9195;  8.9671;20040501;        ;Schaafheim-Schlierbach

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5244;  205.00; 49.2531;  6.8574;19580211;19760331;Völklingen-Stadt
-  5244;  220.00; 49.2581;  6.8612;19760401;19820301;Völklingen-Stadt

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   268;  573.00; 48.5034;  8.3744;19530901;19720131;Baiersbronn-Obertal
-   268;  622.00; 48.5293;  8.2727;19940701;20101231;Baiersbronn-Obertal

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7432;   71.50; 52.6423; 10.6627;20060901;        ;Wittingen-Vorhop

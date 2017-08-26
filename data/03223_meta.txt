@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3223;  434.00; 47.6930;  9.2756;19461212;19700420;Meersburg
-  3223;  463.00; 47.6988;  9.2672;19700421;19751031;Meersburg
-  3223;  460.00; 47.6985;  9.2753;19751101;19770930;Meersburg

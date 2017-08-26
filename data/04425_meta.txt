@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4425;  569.00; 49.4864;  7.0290;19500501;19660930;Schaumberg-Tholey

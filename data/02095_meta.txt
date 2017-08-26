@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2095;  173.00; 49.1348;  9.2220;19470701;19580128;Heilbronn
-  2095;  167.00; 49.1448;  9.2333;19580129;20031031;Heilbronn

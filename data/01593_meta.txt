@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1593;  160.00; 50.2057;  9.1847;19350101;19560514;Gelnhausen
-  1593;  155.00; 50.2074;  9.1822;19560515;19611214;Gelnhausen
-  1593;  190.00; 50.2027;  9.1989;19611215;19740430;Gelnhausen

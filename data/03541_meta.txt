@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3541;  185.00; 50.8956;  7.3081;19620801;19920229;Neunkirchen-Seelscheid-Meisenbach

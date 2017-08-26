@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2160;  375.00; 50.8335; 10.7101;19490101;19531231;Herrenhof
-  2160;  350.00; 50.8469; 10.7079;19540101;19850930;Herrenhof
-  2160;  360.00; 50.8444; 10.6904;19851001;20001231;Herrenhof

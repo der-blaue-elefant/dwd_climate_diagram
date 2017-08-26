@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1000;    3.00; 54.1442; 11.8454;19570501;19970831;Doberan, Bad-Heiligendamm

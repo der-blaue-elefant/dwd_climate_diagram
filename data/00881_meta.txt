@@ -1,9 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   881;  413.00; 49.1200; 10.0700;18980101;19490831;Crailsheim-Alexandersreut
-   881;  422.00; 49.1384; 10.0805;19490901;19650331;Crailsheim-Alexandersreut
-   881;  415.00; 49.1440; 10.0538;19650401;19750630;Crailsheim-Alexandersreut
-   881;  420.00; 49.1140; 10.0366;19750701;19761031;Crailsheim-Alexandersreut
-   881;  418.00; 49.1368; 10.0857;19761101;19891130;Crailsheim-Alexandersreut
-   881;  417.00; 49.1248; 10.0805;19891201;20050711;Crailsheim-Alexandersreut
-   881;  417.00; 49.1248; 10.0805;20050712;20070430;Crailsheim-Alexandersreut
-   881;  423.00; 49.0985; 10.0979;20070501;        ;Crailsheim-Alexandersreut

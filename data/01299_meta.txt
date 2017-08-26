@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1299;    4.00; 53.6431;  7.6055;19790901;19791023;Esens
-  1299;    3.00; 53.6476;  7.6085;19791024;19991031;Esens

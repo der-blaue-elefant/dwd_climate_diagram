@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3135;  482.00; 49.0687;  9.5978;19550501;19790331;Mainhardt-Ziegelbronn
-  3135;  473.00; 49.0643;  9.5820;19790401;19830331;Mainhardt-Ziegelbronn
-  3135;  479.00; 49.0898;  9.5778;19870901;19890721;Mainhardt-Ziegelbronn
-  3135;  473.00; 49.0643;  9.5820;19890722;20031231;Mainhardt-Ziegelbronn

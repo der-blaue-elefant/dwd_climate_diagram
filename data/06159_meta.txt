@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6159;    6.00; 52.9829;  7.3578;19590227;19990927;Dörpen
-  6159;    6.00; 52.9829;  7.3586;19990928;20081130;Dörpen
-  6159;    8.00; 52.9542;  7.3196;20081201;        ;Dörpen

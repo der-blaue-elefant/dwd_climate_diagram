@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3196;   81.00; 53.3229; 11.9321;18650101;19461031;Marnitz
-  3196;   81.00; 53.3229; 11.9321;19461101;19480731;Marnitz
-  3196;   81.00; 53.3229; 11.9321;19480801;19730430;Marnitz
-  3196;   81.00; 53.3223; 11.9319;19730501;20110903;Marnitz
-  3196;   81.00; 53.3223; 11.9319;20110904;        ;Marnitz

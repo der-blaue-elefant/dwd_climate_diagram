@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4373;   26.00; 52.8485; 11.1486;18860401;18901231;Salzwedel
-  4373;   21.00; 52.8524; 11.1511;18910101;19471231;Salzwedel
-  4373;   25.00; 52.8399; 11.1480;19480101;19720630;Salzwedel
-  4373;   23.00; 52.8568; 11.1430;19720701;20070630;Salzwedel
-  4373;   23.00; 52.8568; 11.1430;20070701;        ;Salzwedel

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   231;  490.00; 48.3723; 10.8948;18790101;20051231;Augsburg (Sankt Stephan)

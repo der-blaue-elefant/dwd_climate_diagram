@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   502;  411.00; 49.8745;  9.4881;19670801;19950630;Bischbrunn
-   502;  412.00; 49.8747;  9.4883;19950701;20061231;Bischbrunn

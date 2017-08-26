@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7135;  575.00; 47.9580;  9.6422;19500901;19541130;Aulendorf-Haslach
-  7135;  571.00; 47.9580;  9.6422;19541201;19811021;Aulendorf-Haslach
-  7135;  571.00; 47.9591;  9.6420;19811022;19930531;Aulendorf-Haslach
-  7135;  560.00; 47.9699;  9.6672;19930601;20041231;Aulendorf-Haslach
-  7135;  565.00; 47.9655;  9.6804;20050101;20160517;Aulendorf-Haslach

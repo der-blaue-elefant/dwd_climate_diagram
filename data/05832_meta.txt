@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5832;   50.00; 53.1007; 11.0455;19460501;19541101;Dannenberg

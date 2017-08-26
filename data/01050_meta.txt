@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1050;  120.00; 51.0096; 13.8732;19230501;19481231;Dresden-Hosterwitz
-  1050;  120.00; 51.0096; 13.8732;19490101;19730930;Dresden-Hosterwitz
-  1050;  120.00; 51.0016; 13.8774;19731001;19960116;Dresden-Hosterwitz
-  1050;  113.00; 51.0202; 13.8519;19990701;20050809;Dresden-Hosterwitz
-  1050;  114.00; 51.0221; 13.8470;20050810;        ;Dresden-Hosterwitz

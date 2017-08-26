@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4371;   98.00; 52.0905;  8.7459;19350101;19490831;Salzuflen, Bad
-  4371;   98.00; 52.0905;  8.7459;19490901;19920616;Salzuflen, Bad
-  4371;  134.60; 52.1042;  8.7521;19920617;        ;Salzuflen, Bad

@@ -1,8 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   320;  339.00; 49.9439; 11.5821;18140101;19461031;Heinersreuth-Vollhof
-   320;  341.00; 49.9408; 11.5772;19461101;19520122;Heinersreuth-Vollhof
-   320;  358.00; 49.9583; 11.5764;19520123;19561126;Heinersreuth-Vollhof
-   320;  358.00; 49.9339; 11.5558;19561127;19570409;Heinersreuth-Vollhof
-   320;  370.00; 49.9711; 11.5969;19570410;19620401;Heinersreuth-Vollhof
-   320;  330.00; 49.9561; 11.5519;19620402;20060630;Heinersreuth-Vollhof
-   320;  350.00; 49.9667; 11.5197;20060701;        ;Heinersreuth-Vollhof

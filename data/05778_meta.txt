@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5778;    2.00; 54.0801; 13.8989;19671101;20040731;Zinnowitz

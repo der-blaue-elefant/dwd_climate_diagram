@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3204;  427.00; 50.7334; 10.8815;19821101;        ;Martinroda

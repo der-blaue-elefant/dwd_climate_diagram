@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   931;  708.00; 47.8008;  9.4108;19890801;20031231;Deggenhausertal-Azenweiler
-   931;  708.00; 47.8007;  9.4108;20040101;        ;Deggenhausertal-Azenweiler

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1221;     .00; 53.3707;  7.2236;19460101;19550430;Emden-Wolthusen
-  1221;     .00; 53.3707;  7.2236;19550501;19740304;Emden-Wolthusen

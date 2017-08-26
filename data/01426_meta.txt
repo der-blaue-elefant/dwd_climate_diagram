@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1426;   52.80; 52.3500; 14.5333;18510101;19621231;Frankfurt/Oder
-  1426;   48.00; 52.3639; 14.5359;19630101;19851231;Frankfurt/Oder
-  1426;   48.00; 52.3625; 14.5367;19860101;19970930;Frankfurt/Oder
-  1426;   48.00; 52.3639; 14.5359;19971001;20130630;Frankfurt/Oder
-  1426;   65.00; 52.3397; 14.5080;20130701;        ;Frankfurt/Oder

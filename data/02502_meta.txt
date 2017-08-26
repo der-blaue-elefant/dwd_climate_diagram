@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2502;  430.00; 51.3181; 10.1331;19460601;19560731;Heiligenstadt, Heilbad-Kalteneber
-  2502;  440.00; 51.3172; 10.1350;19560801;19910430;Heiligenstadt, Heilbad-Kalteneber
-  2502;  447.00; 51.3180; 10.1348;19910501;19910630;Heiligenstadt, Heilbad-Kalteneber
-  2502;  447.00; 51.3180; 10.1348;19910701;        ;Heiligenstadt, Heilbad-Kalteneber

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3519;  746.00; 47.9853;  8.9841;19931201;20050228;Neuhausen ob Eck-Unterschwandorf
-  3519;  663.00; 47.9519;  8.9932;20050301;        ;Neuhausen ob Eck-Unterschwandorf

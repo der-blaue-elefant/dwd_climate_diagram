@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   435;   45.00; 52.4289; 13.2327;19631101;20061231;Berlin-Zehlendorf

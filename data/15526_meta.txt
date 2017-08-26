@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
- 15526;   26.26; 53.5472;  9.9683;18671201;18711231;Hamburg (Deutsche Seewarte)
- 15526;   26.26; 53.5472;  9.9683;18720101;18751231;Hamburg (Deutsche Seewarte)
- 15526;   26.26; 53.5472;  9.9683;18760101;18810731;Hamburg (Deutsche Seewarte)
- 15526;   31.80; 53.5467;  9.9716;18810801;19210731;Hamburg (Deutsche Seewarte)
- 15526;   31.80; 53.5467;  9.9716;19210801;19271231;Hamburg (Deutsche Seewarte)
- 15526;   29.00; 53.5467;  9.9716;19280101;19351231;Hamburg (Deutsche Seewarte)

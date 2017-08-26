@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3603;  473.00; 49.3833;  9.9667;19610808;20070624;Niederstetten
-  3603;  459.00; 49.3895;  9.9666;20070625;        ;Niederstetten

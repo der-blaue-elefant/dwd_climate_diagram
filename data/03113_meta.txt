@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3113;  528.00; 50.7663; 10.7201;19780101;        ;Luisenthal (Talsperre)

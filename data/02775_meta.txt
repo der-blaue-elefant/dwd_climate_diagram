@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2775;  220.00; 49.2808;  9.6972;19360101;19521031;Künzelsau
-  2775;  225.00; 49.2795;  9.6925;19521101;19800715;Künzelsau

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5105;  700.00; 48.3132;  9.2472;19460701;19730228;Trochtelfingen

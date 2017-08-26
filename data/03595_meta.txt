@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3595;  250.00; 50.4107;  7.8080;19651204;20030630;Niederelbert

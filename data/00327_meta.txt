@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   327;   27.00; 53.6234;  8.8323;19620816;19961031;Bederkesa

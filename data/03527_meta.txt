@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3527;  560.00; 50.9081;  9.4442;18900801;19281031;Neukirchen-Hauptschwenda
-  3527;  504.00; 50.8941;  9.4082;19281101;19771122;Neukirchen-Hauptschwenda
-  3527;  500.00; 50.8923;  9.4050;19771123;        ;Neukirchen-Hauptschwenda

@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5404;  467.00; 48.4029; 11.7305;19360701;19580831;Weihenstephan-Dürnast
-  5404;  467.00; 48.3974; 11.7272;19580901;19640731;Weihenstephan-Dürnast
-  5404;  469.00; 48.3988; 11.7189;19640801;19670531;Weihenstephan-Dürnast
-  5404;  467.00; 48.3994; 11.7167;19670601;19870131;Weihenstephan-Dürnast
-  5404;  470.00; 48.4043; 11.6947;19870201;20081116;Weihenstephan-Dürnast
-  5404;  477.10; 48.4025; 11.6946;20081117;        ;Weihenstephan-Dürnast

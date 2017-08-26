@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5675;   56.00; 52.4411; 10.7587;19590901;19810331;Wolfsburg

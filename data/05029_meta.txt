@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5029;  396.00; 49.4808;  7.0459;19490101;19750514;Tholey
-  5029;  396.00; 49.4808;  7.0459;19750515;20070531;Tholey
-  5029;  385.90; 49.4738;  7.0386;20070601;        ;Tholey

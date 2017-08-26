@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3513;  845.00; 50.5024; 11.1486;19530701;19610419;Neuhaus am Rennweg
-  3513;  845.00; 50.5021; 11.1492;19610420;19780710;Neuhaus am Rennweg
-  3513;  845.00; 50.5002; 11.1344;19870101;20060705;Neuhaus am Rennweg
-  3513;  845.00; 50.5002; 11.1344;20060706;        ;Neuhaus am Rennweg

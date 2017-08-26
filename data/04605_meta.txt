@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4605;  274.00; 50.6469; 11.1930;19490705;19630807;Schwarzburg
-  4605;  277.00; 50.6421; 11.1955;19630808;19680213;Schwarzburg
-  4605;  277.00; 50.6440; 11.1937;19680214;        ;Schwarzburg

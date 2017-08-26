@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   460;  363.00; 49.2642;  6.6871;19490101;19500727;Berus
-   460;  363.00; 49.2642;  6.6871;19500728;20060629;Berus
-   460;  363.00; 49.2640;  6.6868;20060630;        ;Berus

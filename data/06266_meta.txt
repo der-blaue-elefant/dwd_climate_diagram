@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6266;  112.00; 52.0304; 10.9626;20030228;20070630;Huy-Pabstorf
-  6266;  112.00; 52.0304; 10.9626;20070701;        ;Huy-Pabstorf

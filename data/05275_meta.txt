@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5275;  104.00; 49.2514;  8.5065;19361213;19850930;Waghäusel-Kirrlach
-  5275;  105.00; 49.2445;  8.5374;19851001;        ;Waghäusel-Kirrlach

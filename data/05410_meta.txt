@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5410;  225.00; 50.4799;  8.2747;19350101;19630331;Weilburg (Kläranlage)
-  5410;  197.00; 50.4930;  8.2630;19630401;19700630;Weilburg (Kläranlage)
-  5410;  183.00; 50.4919;  8.2624;19700701;19930630;Weilburg (Kläranlage)
-  5410;  135.00; 50.4732;  8.2594;19930701;20041231;Weilburg (Kläranlage)
-  5410;  150.00; 50.4732;  8.2588;20061025;        ;Weilburg (Kläranlage)

@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7374;   45.50; 52.0814;  6.9410;20051201;20060228;Ahaus
-  7374;   45.50; 52.0814;  6.9410;20060301;        ;Ahaus

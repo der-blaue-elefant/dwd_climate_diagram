@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3211; 1000.00; 48.9296; 13.5779;19110316;19340416;Mauth-Finsterau
-  3211; 1004.00; 48.9333; 13.5833;19340417;19750305;Mauth-Finsterau
-  3211; 1004.00; 48.9368; 13.5755;19750306;19871102;Mauth-Finsterau
-  3211; 1004.00; 48.9359; 13.5766;19871103;20101231;Mauth-Finsterau
-  3211; 1011.00; 48.9359; 13.5747;20120529;        ;Mauth-Finsterau

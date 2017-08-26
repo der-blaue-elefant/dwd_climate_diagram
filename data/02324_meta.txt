@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2324;  365.00; 51.7490;  9.5133;19710801;19780716;Holzminden-Silberborn
-  2324;  390.00; 51.7576;  9.5200;19780717;19830630;Holzminden-Silberborn
-  2324;  440.00; 51.7659;  9.5447;19830701;20080930;Holzminden-Silberborn

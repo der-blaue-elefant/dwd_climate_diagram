@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3875;  533.00; 49.1600; 11.7175;19491029;19521010;Parsberg/Oberpfalz-Eglwang
-  3875;  542.00; 49.1612; 11.7133;19521011;19860930;Parsberg/Oberpfalz-Eglwang
-  3875;  516.00; 49.1576; 11.7228;19861001;20041231;Parsberg/Oberpfalz-Eglwang
-  3875;  549.00; 49.1510; 11.6896;20050101;        ;Parsberg/Oberpfalz-Eglwang

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   361;  542.00; 47.6252; 13.0001;19471101;19590430;Berchtesgaden (KKst)
-   361;  542.00; 47.6374; 13.0103;19590501;19751231;Berchtesgaden (KKst)
-   361;  550.00; 47.6344; 13.0109;19811201;19981231;Berchtesgaden (KKst)

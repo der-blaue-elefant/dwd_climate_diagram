@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3735;  463.00; 48.2627; 12.2760;19460601;19511231;Obertaufkirchen
-  3735;  455.00; 48.2635; 12.2760;19520101;19581231;Obertaufkirchen

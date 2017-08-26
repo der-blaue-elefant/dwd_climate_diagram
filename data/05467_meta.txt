@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5467; 1734.60; 47.7027; 12.0119;18840101;19500831;Wendelstein
-  5467; 1734.60; 47.7027; 12.0119;19500901;19630321;Wendelstein
-  5467; 1832.00; 47.7035; 12.0119;19630322;20061018;Wendelstein
-  5467; 1832.00; 47.7035; 12.0119;20061019;20120930;Wendelstein

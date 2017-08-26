@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2444;  155.00; 50.9255; 11.5828;18240101;20040731;Jena (Sternwarte)
-  2444;  155.00; 50.9251; 11.5830;20040801;        ;Jena (Sternwarte)

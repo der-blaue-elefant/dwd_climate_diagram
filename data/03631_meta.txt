@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3631;   13.20; 53.7119;  7.1486;19470501;19810831;Norderney
-  3631;   11.40; 53.7123;  7.1519;19810901;20110430;Norderney
-  3631;   11.00; 53.7123;  7.1519;20110501;        ;Norderney

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1201;   85.00; 50.9293;  6.5654;19470701;19601130;Elsdorf/Erftkreis
-  1201;   85.00; 50.9287;  6.5621;19601201;19680327;Elsdorf/Erftkreis
-  1201;   85.00; 50.9281;  6.5646;19680328;20061231;Elsdorf/Erftkreis

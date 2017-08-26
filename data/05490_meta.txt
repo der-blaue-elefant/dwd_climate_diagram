@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5490;  305.00; 51.8281; 10.7837;19460610;19460731;Wernigerode
-  5490;  234.00; 51.8465; 10.7684;19460801;19500930;Wernigerode
-  5490;  234.00; 51.8465; 10.7684;19501001;19991031;Wernigerode
-  5490;  234.00; 51.8465; 10.7684;19991101;20070630;Wernigerode
-  5490;  234.00; 51.8454; 10.7686;20070701;20161109;Wernigerode
-  5490;  233.10; 51.8454; 10.7686;20161110;        ;Wernigerode

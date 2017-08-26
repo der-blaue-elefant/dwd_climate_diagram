@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1066;  181.00; 51.5162; 10.2677;19630101;19660116;Duderstadt
-  1066;  180.00; 51.5040; 10.2613;19660117;19761231;Duderstadt

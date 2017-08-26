@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2564;   27.00; 54.3762; 10.1434;19740101;19860531;Kiel-Holtenau
-  2564;   27.00; 54.3761; 10.1434;19860601;20130228;Kiel-Holtenau
-  2564;   27.00; 54.3761; 10.1433;20130301;        ;Kiel-Holtenau

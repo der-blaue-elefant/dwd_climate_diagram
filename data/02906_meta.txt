@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2906;    4.00; 54.7744;  8.9633;19510910;19531231;Leck (A)
-  2906;    5.00; 54.7741;  8.9731;19540101;19570331;Leck (A)
-  2906;    5.00; 54.7750;  8.9808;19570401;19750228;Leck (A)

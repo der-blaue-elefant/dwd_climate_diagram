@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4433;  519.00; 48.1994;  9.7700;19870101;20041231;Schemmerhofen-Ingerkingen

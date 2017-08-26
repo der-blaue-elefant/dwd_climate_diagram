@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1473;  407.00; 49.2045; 11.3268;19370216;19530615;Freystadt-Oberndorf
-  1473;  406.00; 49.2026; 11.3272;19530616;20051231;Freystadt-Oberndorf
-  1473;  436.00; 49.1780; 11.3735;20060101;        ;Freystadt-Oberndorf

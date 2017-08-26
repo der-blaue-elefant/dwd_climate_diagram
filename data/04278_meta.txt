@@ -1,8 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4278;  345.00; 49.2511; 11.0973;19490926;19631231;Roth bei Nürnberg
-  4278;  347.00; 49.2439; 11.0823;19640101;19660215;Roth bei Nürnberg
-  4278;  338.00; 49.2514; 11.0865;19660216;19690630;Roth bei Nürnberg
-  4278;  350.00; 49.2511; 11.1034;19690701;19700331;Roth bei Nürnberg
-  4278;  345.00; 49.2354; 11.0912;19700401;19750831;Roth bei Nürnberg
-  4278;  351.00; 49.2545; 11.0951;19750901;19800505;Roth bei Nürnberg
-  4278;  340.00; 49.2511; 11.0934;19800506;20081231;Roth bei Nürnberg

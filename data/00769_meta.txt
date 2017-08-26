@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   769;   68.00; 52.2825;  9.0870;19580922;19781231;Bückeburg
-   769;   68.00; 52.2825;  9.0870;19790101;20070613;Bückeburg
-   769;   68.00; 52.2817;  9.0889;20070614;        ;Bückeburg

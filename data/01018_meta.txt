@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1018;  689.00; 47.9694;  8.5062;19510413;19531009;Donaueschingen
-  1018;  713.00; 47.9541;  8.4840;19531010;19610928;Donaueschingen
-  1018;  710.00; 47.9547;  8.4833;19610929;19810831;Donaueschingen
-  1018;  735.00; 47.9547;  8.4785;19810901;19830829;Donaueschingen
-  1018;  677.00; 47.9424;  8.5046;19830830;19880613;Donaueschingen
-  1018;  677.00; 47.9422;  8.5046;19880614;20111129;Donaueschingen

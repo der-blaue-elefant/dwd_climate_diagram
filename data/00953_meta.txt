@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   953;  470.00; 49.7500;  7.0560;18980601;19480731;Deuselbach
-   953;  470.00; 49.7500;  7.0561;19480801;19500630;Deuselbach
-   953;  480.00; 49.7500;  7.0561;19500701;19511109;Deuselbach
-   953;  480.00; 49.7610;  7.0530;19511110;19731231;Deuselbach
-   953;  480.00; 49.7610;  7.0530;19740101;20060508;Deuselbach
-   953;  480.50; 49.7619;  7.0541;20060509;        ;Deuselbach

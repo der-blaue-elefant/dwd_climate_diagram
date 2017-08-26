@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1219;    6.00; 53.3446;  7.1906;19460101;19550509;Emden-Nesserland
-  1219;    5.00; 53.3449;  7.1909;19600401;19670414;Emden-Nesserland
-  1219;    5.00; 53.3449;  7.1909;19740304;19970630;Emden-Nesserland

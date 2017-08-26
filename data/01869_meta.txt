@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1869;   56.00; 53.3154; 13.9343;19670501;19690831;Grünow
-  1869;   55.90; 53.3154; 13.9343;19690901;20060516;Grünow
-  1869;   55.90; 53.3154; 13.9343;20060517;20090218;Grünow
-  1869;   55.90; 53.3153; 13.9338;20090219;        ;Grünow

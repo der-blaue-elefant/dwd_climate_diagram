@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7350;  588.00; 49.1088; 12.8231;20050726;        ;Prackenbach-Neuhäusl

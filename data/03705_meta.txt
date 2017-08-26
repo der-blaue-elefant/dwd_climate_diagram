@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3705;  464.00; 48.3201;  8.5876;19820701;20041231;Oberndorf/Neckar-Aistaig
-  3705;  480.00; 48.3147;  8.5735;20060801;        ;Oberndorf/Neckar-Aistaig

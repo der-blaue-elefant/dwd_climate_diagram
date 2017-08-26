@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4330;  440.00; 48.8076;  8.9451;19510801;19681001;Rutesheim
-  4330;  448.00; 48.8026;  8.9526;19681002;19720215;Rutesheim
-  4330;  449.00; 48.8026;  8.9557;19720216;19800331;Rutesheim

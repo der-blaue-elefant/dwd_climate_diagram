@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3425;  307.00; 48.9857;  9.5781;19490201;19530331;Murrhardt
-  3425;  297.00; 48.9843;  9.5845;19530401;19780930;Murrhardt
-  3425;  344.00; 48.9729;  9.5708;19781001;20041019;Murrhardt

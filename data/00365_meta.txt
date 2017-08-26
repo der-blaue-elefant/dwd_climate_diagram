@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   365;  412.00; 49.3253; 11.4378;19910909;19980930;Berg/Oberpfalz
-   365;  421.00; 49.3311; 11.4303;19981001;20020925;Berg/Oberpfalz

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2657;   66.00; 50.3496;  7.5984;19501201;19650131;Koblenz-Horchheim
-  2657;   74.00; 50.3519;  7.5825;19650201;19720210;Koblenz-Horchheim
-  2657;   72.00; 50.3416;  7.5859;19720211;19930930;Koblenz-Horchheim
-  2657;   85.00; 50.3369;  7.5992;19931001;20080131;Koblenz-Horchheim

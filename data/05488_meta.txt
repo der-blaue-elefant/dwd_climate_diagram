@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5488;  216.00; 49.9622; 10.0482;19480917;19860331;Mühlhausen, Kr. Schweinfurt

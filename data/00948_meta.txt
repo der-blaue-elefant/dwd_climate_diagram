@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   948;   63.00; 51.8000; 12.2500;19470101;19730831;Dessau
-   948;   60.00; 51.8512; 12.2515;19760714;20070630;Dessau
-   948;   60.00; 51.8512; 12.2515;20070701;20150101;Dessau

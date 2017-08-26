@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4621;  240.00; 50.0575; 10.2160;18910101;20040102;Schweinfurt-Gartenstadt

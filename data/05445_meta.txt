@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5445;  142.00; 51.2004; 11.0614;19830101;19870722;Weißensee-Ottenhausen
-  5445;  138.00; 51.2015; 11.0667;19870723;19990331;Weißensee-Ottenhausen
-  5445;  165.00; 51.2123; 10.9965;19990401;20071231;Weißensee-Ottenhausen
-  5445;  165.00; 51.2120; 10.9956;20090501;        ;Weißensee-Ottenhausen

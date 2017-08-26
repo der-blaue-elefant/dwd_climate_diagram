@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4705;  829.00; 49.7545; 12.3916;19460611;19470331;Silberhütte
-  4705;  829.00; 49.7545; 12.3916;19470401;19530731;Silberhütte
-  4705;  819.00; 49.7595; 12.3891;19530801;19531210;Silberhütte

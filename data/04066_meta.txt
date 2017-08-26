@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4066;  545.00; 47.9277; 11.1540;19861101;19920614;Raisting
-  4066;  553.00; 47.9091; 11.1048;19920615;19990131;Raisting

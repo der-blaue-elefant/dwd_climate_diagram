@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   970;  386.00; 49.3981; 10.6783;19850401;19990630;Dietenhofen
-   970;  405.00; 49.4158; 10.6734;19991001;        ;Dietenhofen

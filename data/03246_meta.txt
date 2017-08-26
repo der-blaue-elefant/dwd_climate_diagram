@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3246;  181.00; 50.3667;  7.3167;19570703;20070614;Mendig

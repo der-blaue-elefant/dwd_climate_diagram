@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7244;   62.00; 53.1424; 13.0319;19571001;20040930;Neuglobsow (HM)
-  7244;   62.00; 53.1424; 13.0319;20041001;20070201;Neuglobsow (HM)

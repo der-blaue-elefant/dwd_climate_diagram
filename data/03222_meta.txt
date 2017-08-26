@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3222;   64.00; 52.3417;  9.1589;19610101;19781231;Meerbeck
-  3222;   60.00; 52.3411;  9.1403;19790315;20061231;Meerbeck

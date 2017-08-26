@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3167;  547.00; 50.6621;  7.9588;19490101;19621130;Marienberg, Bad
-  3167;  547.00; 50.6621;  7.9588;19621201;20100518;Marienberg, Bad
-  3167;  547.00; 50.6621;  7.9588;20100519;20120709;Marienberg, Bad
-  3167;  546.60; 50.6620;  7.9602;20120710;        ;Marienberg, Bad

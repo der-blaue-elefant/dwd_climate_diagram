@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5280;   45.00; 53.9533; 10.2185;19810330;20070228;Wittenborn
-  5280;   35.00; 53.9224; 10.2267;20070301;        ;Wittenborn

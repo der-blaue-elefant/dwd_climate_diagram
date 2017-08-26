@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4490;  223.00; 49.4149;  6.8360;19651001;        ;Schmelz-Hüttersdorf

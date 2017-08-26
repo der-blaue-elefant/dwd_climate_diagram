@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3811;  150.00; 51.2959; 13.0930;19770301;19771231;Oschatz
-  3811;  150.00; 51.2959; 13.0930;19780101;20060504;Oschatz
-  3811;  150.00; 51.2960; 13.0928;20060505;20080731;Oschatz
-  3811;  150.00; 51.2960; 13.0928;20080801;        ;Oschatz

@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1602;  172.00; 48.4000;  8.0167;18871201;19520229;Ohlsbach
-  1602;  175.00; 48.4048;  8.0174;19520301;19700930;Ohlsbach
-  1602;  185.00; 48.4148;  8.0099;19701001;19880614;Ohlsbach
-  1602;  186.00; 48.4157;  8.0116;19880615;20001231;Ohlsbach
-  1602;  176.00; 48.4329;  7.9931;20030226;        ;Ohlsbach

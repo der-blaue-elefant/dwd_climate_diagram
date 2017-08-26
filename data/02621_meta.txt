@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2621;   41.00; 52.4044; 13.2225;19560101;19901231;Kleinmachnow
-  2621;   38.00; 52.3947; 13.2247;19950101;19990430;Kleinmachnow
-  2621;   42.00; 52.4036; 13.2319;19990501;        ;Kleinmachnow

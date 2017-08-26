@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5252;  100.00; 52.1030;  9.5845;19470101;19571231;Voldagsen

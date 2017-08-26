@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  7319;  434.00; 48.7351; 10.7415;20040713;        ;Donauwörth-Osterweiler

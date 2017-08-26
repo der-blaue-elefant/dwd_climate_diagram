@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1279;  281.00; 49.5986; 11.0064;18790101;19461031;Möhrendorf-Kleinseebach
-  1279;  280.00; 49.5958; 11.0145;19461101;19550608;Möhrendorf-Kleinseebach
-  1279;  280.00; 49.5822; 11.0184;19550609;19581202;Möhrendorf-Kleinseebach
-  1279;  270.00; 49.6150; 11.0001;19581203;20060630;Möhrendorf-Kleinseebach
-  1279;  268.00; 49.6497; 11.0074;20060701;        ;Möhrendorf-Kleinseebach

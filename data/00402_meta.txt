@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   402;   55.00; 52.4564; 13.2997;18760101;19630331;Berlin-Dahlem (LFAG)

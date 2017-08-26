@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2306;    8.00; 54.3193; 10.6731;19771101;19830913;Hohwacht
-  2306;    8.00; 54.3194; 10.6732;19830914;        ;Hohwacht

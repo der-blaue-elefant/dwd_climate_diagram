@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3404;   50.00; 51.9961;  7.6994;18910101;19470831;Münster
-  3404;   50.00; 51.9961;  7.6994;19470901;19520630;Münster
-  3404;   63.00; 51.9661;  7.5981;19520701;19811209;Münster
-  3404;   62.00; 51.9494;  7.5906;19811210;19911231;Münster

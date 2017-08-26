@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5377; 1923.00; 47.5714; 12.9337;19471201;19540930;Watzmannhaus

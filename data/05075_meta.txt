@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5075;  611.00; 47.8855; 12.6241;19711001;19870930;Traunstein-Axdorf
-  5075;  635.00; 47.8516; 12.6182;19871001;20040702;Traunstein-Axdorf

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2422;  230.00; 51.3768;  7.7644;19370201;19780630;Iserlohn-Westig

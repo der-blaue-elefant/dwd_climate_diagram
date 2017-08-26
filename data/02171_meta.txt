@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2171;  216.00; 50.8616;  9.7007;19520901;19610622;Hersfeld, Bad
-  2171;  212.00; 50.8719;  9.7157;19610623;19941220;Hersfeld, Bad
-  2171;  272.20; 50.8519;  9.7374;19941221;20060516;Hersfeld, Bad
-  2171;  272.20; 50.8519;  9.7378;20060517;        ;Hersfeld, Bad

@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3147;  420.00; 48.7800; 12.2400;19360211;19510215;Mallersdorf-Pfaffenberg/Niederbayern
-  3147;  430.00; 48.7751; 12.2382;19510216;19520831;Mallersdorf-Pfaffenberg/Niederbayern
-  3147;  420.00; 48.7751; 12.2396;19520901;19810331;Mallersdorf-Pfaffenberg/Niederbayern
-  3147;  410.00; 48.7771; 12.2532;19810401;20000331;Mallersdorf-Pfaffenberg/Niederbayern
-  3147;  418.00; 48.7726; 12.2177;20120913;        ;Mallersdorf-Pfaffenberg/Niederbayern

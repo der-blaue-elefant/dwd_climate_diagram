@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5707;  175.00; 49.7995;  9.9280;19010101;19210630;Würzburg (Physikalisches-Institut)
-  5707;  175.00; 49.7995;  9.9280;19210701;19530131;Würzburg (Physikalisches-Institut)

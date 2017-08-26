@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2985;  318.00; 50.9385; 14.2093;19910102;20071210;Lichtenhain-Mittelndorf
-  2985;  321.00; 50.9385; 14.2093;20071211;20091231;Lichtenhain-Mittelndorf
-  2985;  321.00; 50.9383; 14.2093;20100101;        ;Lichtenhain-Mittelndorf

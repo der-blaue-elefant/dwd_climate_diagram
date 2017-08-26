@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   445;   90.00; 51.7900; 11.7400;18630301;19510415;Bernburg/Saale (Nord)
-   445;   85.00; 51.8251; 11.7127;19510416;19591130;Bernburg/Saale (Nord)
-   445;   93.00; 51.8237; 11.7052;19591201;19710930;Bernburg/Saale (Nord)
-   445;   81.00; 51.8204; 11.7041;19711001;19941130;Bernburg/Saale (Nord)
-   445;   84.00; 51.8218; 11.7109;19941201;20070630;Bernburg/Saale (Nord)
-   445;   84.00; 51.8218; 11.7109;20070701;        ;Bernburg/Saale (Nord)

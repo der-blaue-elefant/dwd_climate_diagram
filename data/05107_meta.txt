@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5107;  769.00; 48.2813;  9.3136;19880601;20040324;Trochtelfingen-Wilsingen
-  5107;  769.00; 48.2814;  9.3137;20040325;        ;Trochtelfingen-Wilsingen

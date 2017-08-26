@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5575;    1.00; 53.5428;  8.1341;19521001;19881220;Wilhelmshaven
-  5575;    1.00; 53.5459;  8.1383;19881221;19890228;Wilhelmshaven
-  5575;    1.00; 53.5920;  8.1030;19890301;19920331;Wilhelmshaven
-  5575;    1.00; 53.5817;  8.1085;19920401;19920930;Wilhelmshaven
-  5575;    1.00; 53.5901;  8.1060;19921001;19980630;Wilhelmshaven

@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   685;  585.00; 49.9017;  9.4281;19720810;20061031;Breitsol

@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5361;  265.00; 50.6277;  9.4445;19480701;19500818;Wartenberg-Angersbach
-  5361;  276.00; 50.6269;  9.4389;19500819;19871110;Wartenberg-Angersbach
-  5361;  270.00; 50.6271;  9.4420;19871111;20051231;Wartenberg-Angersbach

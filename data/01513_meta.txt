@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1513;  653.00; 50.6588;  8.1027;19460901;19461031;Fuchskauten
-  1513;  653.00; 50.6588;  8.1027;19461101;19621130;Fuchskauten

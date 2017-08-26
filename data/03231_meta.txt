@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3231;  450.00; 50.5613; 10.3760;19650515;19781231;Meiningen
-  3231;  450.00; 50.5613; 10.3760;19790101;20100728;Meiningen
-  3231;  450.00; 50.5612; 10.3771;20100729;        ;Meiningen

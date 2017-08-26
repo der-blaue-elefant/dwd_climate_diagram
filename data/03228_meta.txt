@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3228;  506.00; 51.0976;  7.6670;19790801;19951231;Meinerzhagen (A)
-  3228;  506.00; 51.0976;  7.6670;20070301;20070918;Meinerzhagen (A)

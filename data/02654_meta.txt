@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2654;  200.00; 49.0265;  8.7554;19470801;19831027;Knittlingen

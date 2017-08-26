@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1047;  112.00; 51.0557; 13.7274;18820101;19920813;Dresden (Mitte)

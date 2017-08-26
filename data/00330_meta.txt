@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   330;  442.00; 49.5631;  8.9693;19000101;19360410;Beerfelden
-   330;  442.00; 49.5631;  8.9693;19360411;19721217;Beerfelden
-   330;  450.00; 49.5617;  8.9673;19721218;        ;Beerfelden

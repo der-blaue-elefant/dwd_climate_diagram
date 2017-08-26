@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2708;  734.00; 47.6652; 11.0807;19910801;20060630;Kohlgrub, Bad (Rosshof)
-  2708;  740.00; 47.6652; 11.0804;20060701;        ;Kohlgrub, Bad (Rosshof)

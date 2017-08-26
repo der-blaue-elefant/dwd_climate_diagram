@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2578;   12.00; 53.9995; 11.4341;18530101;        ;Kirchdorf/Poel

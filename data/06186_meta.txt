@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6186;  268.00; 50.1989;  7.8651;20000302;        ;Nastätten

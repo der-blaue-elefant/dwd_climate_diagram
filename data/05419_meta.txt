@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5419;  230.00; 50.9896; 11.3344;18820101;19490416;Weimar
-  5419;  264.00; 50.9744; 11.3080;19490417;19520430;Weimar
-  5419;  264.00; 50.9744; 11.3080;19520501;19950630;Weimar
-  5419;  264.00; 50.9751; 11.3076;19950701;20070630;Weimar

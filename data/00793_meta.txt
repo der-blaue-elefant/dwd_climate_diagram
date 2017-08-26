@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   793;  530.00; 49.6620;  7.1098;19920101;19941108;Buhlenberg

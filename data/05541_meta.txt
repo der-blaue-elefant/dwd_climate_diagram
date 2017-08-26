@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5541;  263.00; 50.1310;  8.3177;19870601;19930830;Wiesbaden-Auringen
-  5541;  263.00; 50.1314;  8.3168;19930831;20040731;Wiesbaden-Auringen
-  5541;  263.00; 50.1320;  8.3170;20040801;        ;Wiesbaden-Auringen

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1612;  300.00; 50.8744; 12.1016;19511001;19641231;Gera-Leumnitz
-  1612;  311.00; 50.8810; 12.1285;19650101;20060517;Gera-Leumnitz
-  1612;  311.00; 50.8813; 12.1289;20060518;20161120;Gera-Leumnitz
-  1612;  311.00; 50.8813; 12.1289;20161121;        ;Gera-Leumnitz

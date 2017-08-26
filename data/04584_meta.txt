@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4584;  444.00; 48.3667; 11.8000;19680201;19790531;Schwaigermoos

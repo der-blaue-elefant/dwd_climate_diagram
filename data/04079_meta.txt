@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4079;  200.00; 51.1743; 11.4005;19460101;19640915;Rastenberg
-  4079;  200.00; 51.1765; 11.4186;19640916;19650131;Rastenberg
-  4079;  200.00; 51.1765; 11.4183;19650201;        ;Rastenberg

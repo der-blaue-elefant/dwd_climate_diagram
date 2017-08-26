@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1276;  408.00; 47.6469;  9.5361;19800801;19860930;Eriskirch-Mariabrunn
-  1276;  400.00; 47.6299;  9.5267;19861001;19871130;Eriskirch-Mariabrunn
-  1276;  408.00; 47.6358;  9.5392;19871201;20021231;Eriskirch-Mariabrunn

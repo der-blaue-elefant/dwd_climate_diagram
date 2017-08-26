@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4468;   19.00; 54.5227;  9.5649;19520301;19730731;Schleswig-Stadtfeld

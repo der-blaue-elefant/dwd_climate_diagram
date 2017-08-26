@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   648;    9.00; 53.8551;  9.7152;19630501;20061231;Brande-Hörnerkirchen

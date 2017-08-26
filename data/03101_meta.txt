@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3101;   50.00; 51.7655;  7.4406;19340101;19680731;Lüdinghausen
-  3101;   50.00; 51.7667;  7.4611;19680801;19731216;Lüdinghausen
-  3101;   50.00; 51.7669;  7.4573;19731217;19810518;Lüdinghausen
-  3101;   58.00; 51.7694;  7.4128;19810519;19950930;Lüdinghausen

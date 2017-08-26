@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1619;   90.00; 49.7500;  8.4667;19001101;19551231;Gernsheim
-  1619;   90.00; 49.7464;  8.4864;19560101;19880229;Gernsheim
-  1619;   90.00; 49.7639;  8.5269;19880301;20051231;Gernsheim
-  1619;   96.00; 49.7725;  8.5308;20070701;20110430;Gernsheim
-  1619;   90.00; 49.7611;  8.4876;20110601;        ;Gernsheim

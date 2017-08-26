@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3478;   81.00; 53.5468; 13.1914;19270101;20050817;Neubrandenburg

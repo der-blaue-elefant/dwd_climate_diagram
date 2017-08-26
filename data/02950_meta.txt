@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2950;   12.00; 54.2190; 10.8872;19620401;19640331;Lensahn
-  2950;   12.00; 54.2131; 10.8825;19640401;19660710;Lensahn
-  2950;   14.00; 54.2190; 10.8875;19660711;19751130;Lensahn
-  2950;   14.00; 54.2190; 10.8844;19751201;20061231;Lensahn

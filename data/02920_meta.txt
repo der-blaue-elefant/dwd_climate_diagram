@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2920;  365.00; 48.7654; 12.5121;19780901;19971231;Leiblfing

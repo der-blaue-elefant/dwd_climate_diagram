@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5434;  315.00; 50.0845; 11.2369;19371201;19520229;Weismain
-  5434;  315.00; 50.0872; 11.2386;19520301;19730930;Weismain
-  5434;  317.00; 50.0858; 11.2364;19731001;19920602;Weismain

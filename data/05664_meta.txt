@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5664;  285.00; 48.3145;  8.2175;19360510;19571231;Wolfach
-  5664;  265.00; 48.3001;  8.2255;19580101;20010630;Wolfach
-  5664;  291.00; 48.2953;  8.2391;20010701;        ;Wolfach

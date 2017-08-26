@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1146;  487.00; 48.6593;  8.9121;19850701;19870731;Ehningen

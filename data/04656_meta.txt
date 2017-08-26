@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4656;   49.00; 53.9298; 10.3029;19490101;19590331;Segeberg, Bad
-  4656;   49.00; 53.9278; 10.2993;19590401;19730630;Segeberg, Bad

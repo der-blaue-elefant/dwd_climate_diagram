@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   650;   31.00; 52.4261; 12.5748;19460601;19461016;Brandenburg-Görden
-   650;   31.00; 52.4267; 12.5181;19461017;19500215;Brandenburg-Görden
-   650;   30.00; 52.4311; 12.5045;19500216;20010430;Brandenburg-Görden
-   650;   35.00; 52.4136; 12.5503;20010501;20080430;Brandenburg-Görden

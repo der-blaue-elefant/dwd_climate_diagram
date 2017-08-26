@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2923;  663.00; 47.9116; 10.6124;19540619;19700531;Leinau

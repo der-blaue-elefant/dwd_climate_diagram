@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4127;  350.00; 50.9912;  7.6958;19911001;20020630;Reichshof-Eckenhagen
-  4127;  350.00; 50.9906;  7.6958;20030709;        ;Reichshof-Eckenhagen

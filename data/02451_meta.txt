@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2451;   77.00; 51.7893; 12.9564;19540101;19690713;Jessen/Elster
-  2451;   77.00; 51.7954; 12.9583;19690714;20011130;Jessen/Elster

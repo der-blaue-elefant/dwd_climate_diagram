@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  6196;  576.00; 50.1500; 12.0554;20000901;20011130;Selb-Spielberg
-  6196;  610.00; 50.1587; 12.0386;20110407;        ;Selb-Spielberg

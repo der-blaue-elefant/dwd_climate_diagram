@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1087;   26.00; 51.4729;  6.7787;19500701;19810216;Duisburg-Laar
-  1087;   21.00; 51.4634;  6.7321;19810217;19931231;Duisburg-Laar

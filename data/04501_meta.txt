@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4501;  937.00; 50.6546; 10.7698;19470701;19920831;Schmücke
-  4501;  937.00; 50.6546; 10.7698;19920901;20070628;Schmücke
-  4501;  937.00; 50.6546; 10.7693;20070629;        ;Schmücke

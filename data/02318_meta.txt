@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2318;  397.00; 50.2182;  7.9133;19980801;20000131;Holzhausen a.d. Haide

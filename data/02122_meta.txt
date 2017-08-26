@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2122;    2.00; 53.9740;  9.0117;19691101;19730630;Helse, Kr. Dithmarschen
-  2122;    2.00; 53.9734;  9.0125;19730701;19900430;Helse, Kr. Dithmarschen
-  2122;    2.00; 53.9701;  9.0095;19900501;20020603;Helse, Kr. Dithmarschen

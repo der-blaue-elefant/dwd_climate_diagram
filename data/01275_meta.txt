@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1275;  340.00; 48.2997; 13.1392;19620727;19840306;Ering
-  1275;  340.00; 48.3008; 13.1398;19840307;20000930;Ering

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2044;  399.00; 51.6393; 11.1347;19450501;19770430;Harzgerode
-  2044;  404.00; 51.6520; 11.1361;19770501;19770731;Harzgerode
-  2044;  404.00; 51.6520; 11.1361;19770801;20070630;Harzgerode
-  2044;  404.00; 51.6520; 11.1367;20070701;        ;Harzgerode

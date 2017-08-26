@@ -1,4 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5424;  320.00; 51.0167; 11.3500;19490401;19680326;Weimar-Schöndorf
-  5424;  310.00; 51.0170; 11.3550;19680327;20070531;Weimar-Schöndorf
-  5424;  325.00; 51.0176; 11.3544;20070601;        ;Weimar-Schöndorf
