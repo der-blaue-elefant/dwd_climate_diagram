@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3388;  542.00; 48.0919; 11.6486;19940201;19970228;München-Perlach

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5074;  615.00; 47.8630; 12.6321;19260501;19530731;Traunstein-Sparz
+  5074;  580.00; 47.8672; 12.6468;19530801;19590401;Traunstein-Sparz
+  5074;  580.00; 47.8655; 12.6446;19590402;19601231;Traunstein-Sparz
+  5074;  626.00; 47.8663; 12.6566;19610101;20061231;Traunstein-Sparz

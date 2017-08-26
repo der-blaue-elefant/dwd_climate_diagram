@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5149;  330.00; 49.5500; 10.2300;18941001;19510217;Gollhofen
+  5149;  339.00; 49.5436; 10.2369;19510218;19781031;Gollhofen
+  5149;  337.00; 49.5414; 10.2349;19781101;19800831;Gollhofen
+  5149;  340.00; 49.5392; 10.2335;19800901;19911031;Gollhofen
+  5149;  308.00; 49.5741; 10.1916;20030612;        ;Gollhofen

@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4332;  255.00; 50.6457; 11.3519;19190101;19651231;Saalfeld
+  4332;  280.00; 50.6424; 11.3497;19660101;19810804;Saalfeld
+  4332;  250.00; 50.6641; 11.3833;19810805;19820310;Saalfeld
+  4332;  235.00; 50.6555; 11.3894;19820311;19851014;Saalfeld
+  4332;  235.00; 50.6563; 11.3894;19851015;        ;Saalfeld

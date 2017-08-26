@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   288;    3.00; 53.8409; 13.7549;19731010;19980831;Bargischow-Gnevezin

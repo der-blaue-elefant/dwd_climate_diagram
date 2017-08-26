@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2878;  119.00; 51.3900; 11.8700;18900901;18951231;Lauchstädt, Bad
+  2878;  119.00; 51.3912; 11.8785;18960101;20070430;Lauchstädt, Bad
+  2878;  118.00; 51.3910; 11.8788;20170308;        ;Lauchstädt, Bad

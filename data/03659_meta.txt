@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3659;  611.00; 50.3399;  6.9507;19461101;19490531;Nürburg
+  3659;  611.00; 50.3399;  6.9507;19490601;19560702;Nürburg
+  3659;  627.00; 50.3391;  6.9501;19560703;19950331;Nürburg

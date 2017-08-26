@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2533;  198.00; 51.3340;  9.4506;19460801;19770630;Kassel-Harleshausen

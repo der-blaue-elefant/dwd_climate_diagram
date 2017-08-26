@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5371;  921.00; 50.4966;  9.9427;19230801;19730331;Wasserkuppe
+  5371;  921.00; 50.4966;  9.9427;19730401;19800430;Wasserkuppe
+  5371;  921.00; 50.4966;  9.9427;19800501;19920731;Wasserkuppe
+  5371;  921.00; 50.4973;  9.9428;19920801;        ;Wasserkuppe

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3236;   81.00; 52.1986;  8.3324;18910601;19860630;Melle
+  3236;   72.00; 52.2003;  8.3440;19860701;19920715;Melle
+  3236;   87.00; 52.1936;  8.3979;19920716;20020102;Melle
+  3236;   89.00; 52.2044;  8.3382;20090201;        ;Melle

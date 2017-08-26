@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2996;  319.00; 48.7667;  8.7333;19370701;19640815;Liebenzell, Bad (LUBW)
+  2996;  350.00; 48.7833;  8.7333;19640816;19670424;Liebenzell, Bad (LUBW)
+  2996;  319.00; 48.7667;  8.7333;19670425;19720509;Liebenzell, Bad (LUBW)
+  2996;  319.00; 48.7718;  8.7323;19720510;19910701;Liebenzell, Bad (LUBW)
+  2996;  319.00; 48.7662;  8.7298;19910702;19920426;Liebenzell, Bad (LUBW)
+  2996;  350.00; 48.7726;  8.7284;19920427;19930921;Liebenzell, Bad (LUBW)
+  2996;  352.00; 48.7726;  8.7287;19930922;20161027;Liebenzell, Bad (LUBW)

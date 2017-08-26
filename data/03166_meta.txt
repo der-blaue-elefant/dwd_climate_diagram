@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3166;  595.00; 50.6496; 13.1669;19550801;19710906;Marienberg
+  3166;  625.00; 50.6521; 13.1494;19710907;19740430;Marienberg
+  3166;  639.00; 50.6510; 13.1469;19740501;19740930;Marienberg
+  3166;  639.00; 50.6510; 13.1469;19741001;20080731;Marienberg
+  3166;  639.00; 50.6510; 13.1469;20080801;        ;Marienberg

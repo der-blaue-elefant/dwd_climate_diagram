@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1758;    2.00; 54.1000; 13.4500;19390101;19771231;Greifswald-Wieck

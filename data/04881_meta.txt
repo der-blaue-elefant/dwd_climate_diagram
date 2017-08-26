@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4881;  469.00; 47.8460;  9.0062;19361107;19770930;Stockach
+  4881;  475.00; 47.8524;  9.0282;19771001;19940731;Stockach
+  4881;  532.00; 47.8591;  9.0152;20021201;        ;Stockach

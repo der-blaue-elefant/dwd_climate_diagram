@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1762;  284.00; 50.6532; 12.2032;18970101;19530910;Greiz-Dölau
+  1762;  284.00; 50.6532; 12.2032;19530911;19581231;Greiz-Dölau
+  1762;  270.00; 50.6299; 12.1818;19590101;19680630;Greiz-Dölau
+  1762;  270.00; 50.6249; 12.1777;19680701;20061231;Greiz-Dölau

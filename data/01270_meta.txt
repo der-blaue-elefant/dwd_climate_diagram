@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1270;  254.00; 50.9746; 10.9973;19460401;19470630;Erfurt-Weimar
+  1270;  254.00; 50.9746; 10.9973;19470701;19520229;Erfurt-Weimar
+  1270;  254.00; 50.9746; 10.9973;19520301;19570630;Erfurt-Weimar
+  1270;  314.00; 50.9757; 10.9606;19570701;19640831;Erfurt-Weimar
+  1270;  314.00; 50.9757; 10.9606;19640901;19950214;Erfurt-Weimar
+  1270;  316.00; 50.9829; 10.9608;19950215;        ;Erfurt-Weimar

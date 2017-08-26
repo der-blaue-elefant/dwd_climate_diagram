@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7427;   16.50; 54.0188;  9.9255;20060731;        ;Padenstedt (Pony-Park)

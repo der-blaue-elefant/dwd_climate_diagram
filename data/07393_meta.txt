@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7393;  115.90; 51.4493; 14.2533;20060301;        ;Hoyerswerda

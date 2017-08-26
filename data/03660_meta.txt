@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3660;  485.00; 50.3599;  6.8696;19950301;20091124;Nürburg-Barweiler
+  3660;  485.00; 50.3601;  6.8697;20091125;        ;Nürburg-Barweiler

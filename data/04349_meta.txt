@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4349;  247.00; 48.9572;  9.0603;19440701;19871031;Sachsenheim
+  4349;  248.00; 48.9598;  9.0729;19871101;19910925;Sachsenheim
+  4349;  248.00; 48.9576;  9.0723;19910926;20040531;Sachsenheim
+  4349;  248.00; 48.9569;  9.0710;20040601;        ;Sachsenheim

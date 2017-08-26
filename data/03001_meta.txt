@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3001;  284.00; 48.0674;  7.6770;19490501;19550104;Liliental
+  3001;  284.00; 48.0674;  7.6770;19640401;19900516;Liliental

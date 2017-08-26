@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1169;  264.00; 47.6288;  7.5959;19760114;19990930;Eimeldingen

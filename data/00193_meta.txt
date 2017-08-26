@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   193;  288.00; 51.3787;  9.0145;19460701;19570822;Arolsen-Neu Berich
+   193;  290.00; 51.3806;  9.0128;19570823;19641025;Arolsen-Neu Berich
+   193;  289.00; 51.3804;  9.0170;19641026;19650125;Arolsen-Neu Berich
+   193;  284.00; 51.3768;  9.0170;19650126;19671031;Arolsen-Neu Berich
+   193;  220.00; 51.3818;  9.0431;19671101;19960331;Arolsen-Neu Berich
+   193;  232.00; 51.3845;  9.0820;19960401;19971115;Arolsen-Neu Berich

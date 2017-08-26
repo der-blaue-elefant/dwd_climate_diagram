@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4557;  372.00; 47.6500;  7.8200;18691201;19521130;Schopfheim-Eichen
+  4557;  375.00; 47.6485;  7.8277;19521201;19700127;Schopfheim-Eichen
+  4557;  375.00; 47.6441;  7.8185;19700128;19740704;Schopfheim-Eichen
+  4557;  375.00; 47.6463;  7.8188;19740705;19810331;Schopfheim-Eichen
+  4557;  400.00; 47.6463;  7.8439;19810401;20021106;Schopfheim-Eichen
+  4557;  400.00; 47.6463;  7.8439;20050427;        ;Schopfheim-Eichen

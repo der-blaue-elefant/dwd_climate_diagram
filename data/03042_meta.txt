@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3042;  230.00; 50.5617;  8.2386;19930701;        ;Löhnberg-Obershausen

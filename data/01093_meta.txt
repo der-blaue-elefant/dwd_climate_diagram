@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1093;  173.00; 49.4561;  8.9862;19500602;19550427;Eberbach (LUBW)
+  1093;  134.00; 49.4575;  8.9879;19550428;19551010;Eberbach (LUBW)
+  1093;  145.00; 49.4739;  8.9946;19551011;19640930;Eberbach (LUBW)
+  1093;  176.00; 49.4550;  8.9784;19641001;20051031;Eberbach (LUBW)
+  1093;  131.00; 49.4600;  8.9584;20120705;        ;Eberbach (LUBW)

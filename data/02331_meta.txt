@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2331;  241.00; 49.3389;  7.3442;19580116;19791130;Homburg/Saar
+  2331;  235.00; 49.3272;  7.3534;19791201;19960415;Homburg/Saar
+  2331;  235.00; 49.3278;  7.3533;19960416;        ;Homburg/Saar

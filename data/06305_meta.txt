@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6305;  193.00; 51.2061; 10.4978;20021101;        ;Mühlhausen/Thüringen-Görmar

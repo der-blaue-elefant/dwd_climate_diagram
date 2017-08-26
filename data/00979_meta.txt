@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   979;  229.00; 50.7374;  8.2888;19470801;19700531;Dillenburg
+   979;  220.00; 50.7119;  8.3110;19700601;19830505;Dillenburg
+   979;  266.00; 50.7349;  8.2760;19830506;19940909;Dillenburg
+   979;  277.00; 50.7371;  8.2783;19940910;20040831;Dillenburg
+   979;  314.00; 50.7364;  8.2672;20040901;        ;Dillenburg

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   592;   10.00; 53.8634;  9.7344;19460101;19630501;Bokel

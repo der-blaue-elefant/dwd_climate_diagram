@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1503;   11.00; 53.0810;  7.9355;19270101;19600511;Friesoythe-Altenoythe
+  1503;    8.00; 53.0882;  7.9416;19600512;20061231;Friesoythe-Altenoythe
+  1503;    5.72; 53.0643;  7.9022;20120313;        ;Friesoythe-Altenoythe

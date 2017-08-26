@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3426;  137.00; 51.5453; 14.7162;18870601;19901231;Muskau, Bad
+  3426;  125.00; 51.5543; 14.7097;19941220;20031130;Muskau, Bad
+  3426;  125.00; 51.5662; 14.6989;20031201;20080731;Muskau, Bad
+  3426;  125.00; 51.5660; 14.7009;20080801;        ;Muskau, Bad

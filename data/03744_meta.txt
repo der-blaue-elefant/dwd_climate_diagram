@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3744;  125.00; 51.6018;  9.5383;19711201;19750717;Oberweser-Gieselwerder

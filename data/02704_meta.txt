@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2704;   76.00; 51.7515; 12.0079;19910401;20070630;Köthen (Anhalt)
+  2704;   76.00; 51.7511; 12.0094;20070701;        ;Köthen (Anhalt)

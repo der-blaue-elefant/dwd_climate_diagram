@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4419;  209.00; 47.9687;  7.6982;19460901;19510731;Schallstadt-Mengen
+  4419;  213.00; 47.9591;  7.7092;19510801;19640722;Schallstadt-Mengen
+  4419;  210.00; 47.9563;  7.7109;19640723;19730301;Schallstadt-Mengen
+  4419;  220.00; 47.9580;  7.7150;19730302;19760921;Schallstadt-Mengen
+  4419;  215.00; 47.9602;  7.7117;19760922;20041231;Schallstadt-Mengen
+  4419;  212.00; 47.9556;  7.7134;20120403;        ;Schallstadt-Mengen

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1224;  205.00; 48.1220;  7.8531;19360201;19751031;Emmendingen-Mundingen
+  1224;  220.00; 48.1252;  7.8541;19751101;19800602;Emmendingen-Mundingen
+  1224;  201.00; 48.1380;  7.8358;19800603;19881116;Emmendingen-Mundingen
+  1224;  201.00; 48.1378;  7.8351;19881117;        ;Emmendingen-Mundingen

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4091; 1640.00; 47.7327; 12.6827;19620701;19980630;Rauschberg bei Ruhpolding

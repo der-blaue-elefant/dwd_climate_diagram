@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2327;  266.00; 50.7316;  9.0009;19500301;19501231;Homberg/Ohm
+  2327;  240.00; 50.7255;  9.0007;19510101;19530618;Homberg/Ohm
+  2327;  228.00; 50.7249;  9.0068;19530619;19720116;Homberg/Ohm
+  2327;  265.00; 50.7319;  9.0015;19720117;19730531;Homberg/Ohm
+  2327;  250.00; 50.7316;  9.0032;19730601;20000630;Homberg/Ohm

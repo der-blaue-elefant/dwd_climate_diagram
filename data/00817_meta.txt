@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   817;  318.00; 51.0593;  8.8057;19521001;19690513;Burgwald-Bottendorf
+   817;  280.00; 51.0609;  8.8007;19690514;19720531;Burgwald-Bottendorf
+   817;  270.00; 51.0640;  8.7990;19720601;19830831;Burgwald-Bottendorf
+   817;  290.00; 51.0526;  8.8201;19830901;19960831;Burgwald-Bottendorf
+   817;  293.00; 51.0306;  8.8146;19960901;        ;Burgwald-Bottendorf

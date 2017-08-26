@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7330;  159.00; 51.4631;  7.9777;20050515;20090915;Arnsberg-Neheim
+  7330;  159.00; 51.4634;  7.9780;20090916;        ;Arnsberg-Neheim

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   348;  127.00; 50.4135;  7.5886;19891215;19930430;Bendorf
+   348;  127.00; 50.4135;  7.5886;19930501;20110901;Bendorf

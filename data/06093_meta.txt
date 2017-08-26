@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6093;   62.00; 53.2139; 10.4704;19980201;        ;Wendisch Evern

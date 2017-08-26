@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   896;  173.00; 51.0768; 10.8581;19390101;19490531;Dachwig
+   896;  173.00; 51.0776; 10.8609;19490601;19610314;Dachwig
+   896;  175.00; 51.0784; 10.8512;19610315;19680502;Dachwig
+   896;  173.00; 51.0776; 10.8609;19680503;19791218;Dachwig
+   896;  170.00; 51.0778; 10.8619;19791219;        ;Dachwig

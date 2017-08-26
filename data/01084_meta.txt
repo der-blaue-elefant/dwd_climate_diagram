@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1084;   31.00; 51.3940;  6.7026;19940501;20070531;Duisburg-Friemersheim

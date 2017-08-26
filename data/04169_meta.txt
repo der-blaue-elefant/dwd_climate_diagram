@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4169;  131.00; 48.6604;  7.9938;19570926;19690630;Rheinau-Memprechtshofen
+  4169;  130.00; 48.6857;  7.9769;19690701;19720921;Rheinau-Memprechtshofen
+  4169;  131.00; 48.6701;  7.9947;19720922;20021031;Rheinau-Memprechtshofen
+  4169;  131.00; 48.6703;  7.9939;20021101;        ;Rheinau-Memprechtshofen

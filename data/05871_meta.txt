@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5871;  497.00; 49.9462;  7.2645;19970701;        ;Hahn

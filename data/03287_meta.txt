@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3287;  402.00; 49.7104;  9.0991;19871001;19891217;Michelstadt-Vielbrunn
+  3287;  453.00; 49.7176;  9.0997;19891218;20150408;Michelstadt-Vielbrunn
+  3287;  453.00; 49.7176;  9.0997;20150409;        ;Michelstadt-Vielbrunn

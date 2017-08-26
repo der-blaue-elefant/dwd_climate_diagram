@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3518;  793.00; 47.9667;  8.9000;19710101;19810930;Neuhausen ob Eck
+  3518;  793.00; 47.9760;  8.9101;19811001;19940630;Neuhausen ob Eck

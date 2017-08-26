@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7369;  475.10; 49.1623; 10.3662;20051101;        ;Feuchtwangen-Heilbronn

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4847;  500.00; 51.3629;  9.6902;19370601;19751231;Steinberg

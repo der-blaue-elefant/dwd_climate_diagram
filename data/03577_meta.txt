@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3577;   64.00; 53.3685; 13.0705;18810101;19360131;Neustrelitz
+  3577;   64.00; 53.3624; 13.0677;19360201;19460430;Neustrelitz
+  3577;   64.00; 53.3282; 13.0725;19460501;19471031;Neustrelitz
+  3577;   64.00; 53.3493; 13.0819;19471101;19541122;Neustrelitz
+  3577;   64.00; 53.3585; 13.0502;19541123;20051231;Neustrelitz

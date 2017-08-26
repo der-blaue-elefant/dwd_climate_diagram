@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   918;  147.00; 49.8314;  8.6482;19871001;19900531;Darmstadt (A)
+   918;  122.00; 49.8453;  8.6240;19900601;19950731;Darmstadt (A)

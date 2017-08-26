@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   283;  382.00; 49.8808; 10.8695;19461124;19480930;Bamberg-Altenburg
+   283;  382.00; 49.8808; 10.8695;19481001;19600531;Bamberg-Altenburg

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 13675;   77.00; 52.0818;  9.4077;20070301;        ;Hameln-Hastenbeck

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   116;  213.00; 50.9833; 12.4333;19470101;19731031;Altenburg

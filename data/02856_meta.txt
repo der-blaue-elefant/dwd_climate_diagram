@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2856;   91.00; 51.9173; 13.0878;19930601;        ;Langenlipsdorf

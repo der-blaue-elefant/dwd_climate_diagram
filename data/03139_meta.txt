@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3139;  509.00; 48.2166; 11.2965;19831101;20041231;Maisach-Gernlinden

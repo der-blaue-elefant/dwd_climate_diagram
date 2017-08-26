@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   888;  272.00; 50.8121; 12.3816;19650101;19760409;Crimmitschau
+   888;  269.00; 50.8121; 12.3824;19760410;19911210;Crimmitschau
+   888;  269.00; 50.8149; 12.3821;19930427;19940301;Crimmitschau

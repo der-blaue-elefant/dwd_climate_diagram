@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3254;   19.00; 52.7156;  7.3176;19700101;        ;Meppen

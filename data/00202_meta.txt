@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   202;  127.00; 49.9800;  9.1400;18330301;19460630;Aschaffenburg
+   202;  202.00; 49.9739;  9.1628;19460701;19520331;Aschaffenburg
+   202;  130.00; 49.9667;  9.1667;19520401;19611210;Aschaffenburg
+   202;  140.00; 49.9667;  9.1667;19611211;19820414;Aschaffenburg
+   202;  128.00; 49.9667;  9.1500;19820415;19890630;Aschaffenburg
+   202;  110.00; 49.9778;  9.1120;19890701;19920902;Aschaffenburg
+   202;  110.00; 49.9778;  9.1114;19920903;        ;Aschaffenburg

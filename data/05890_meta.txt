@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5890;  904.00; 47.6644; 11.0470;19490701;19521231;Kohlgrub, Bad (A)
+  5890;  870.00; 47.6655; 11.0487;19530101;19561130;Kohlgrub, Bad (A)
+  5890;  904.00; 47.6638; 11.0493;19561201;19840816;Kohlgrub, Bad (A)
+  5890;  850.00; 47.6777; 11.0473;19840817;19910731;Kohlgrub, Bad (A)

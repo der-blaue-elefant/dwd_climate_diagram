@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2701;  136.00; 51.1329; 11.7252;19290101;20031231;Kösen, Bad
+  2701;  136.00; 51.1329; 11.7252;20040101;20070331;Kösen, Bad

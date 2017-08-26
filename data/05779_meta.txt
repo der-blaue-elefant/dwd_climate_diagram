@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5779;  877.00; 50.7314; 13.7516;19710101;20080731;Zinnwald-Georgenfeld
+  5779;  877.00; 50.7314; 13.7516;20080801;20160825;Zinnwald-Georgenfeld
+  5779;  877.00; 50.7314; 13.7516;20160826;        ;Zinnwald-Georgenfeld

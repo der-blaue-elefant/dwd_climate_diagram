@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3922;  417.00; 49.1368; 10.8490;19751101;19770125;Pfofeld-Langlau
+  3922;  435.00; 49.1196; 10.8448;19770126;19800229;Pfofeld-Langlau
+  3922;  435.00; 49.1162; 10.8598;19800301;        ;Pfofeld-Langlau

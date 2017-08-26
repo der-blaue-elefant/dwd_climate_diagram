@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4878;  495.00; 51.6625; 10.8850;18910101;19460331;Oberharz am Brocken-Stiege
+  4878;  496.00; 51.6679; 10.8815;19460401;20050131;Oberharz am Brocken-Stiege
+  4878;  494.00; 51.6681; 10.8823;20050201;20070630;Oberharz am Brocken-Stiege
+  4878;  494.00; 51.6681; 10.8823;20070701;20091231;Oberharz am Brocken-Stiege
+  4878;  494.00; 51.6681; 10.8823;20100101;20131212;Oberharz am Brocken-Stiege
+  4878;  504.00; 51.6646; 10.8811;20170425;        ;Oberharz am Brocken-Stiege

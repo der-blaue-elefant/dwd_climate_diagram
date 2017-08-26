@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1735;  655.00; 48.8101; 13.5489;19570501;19580331;Grainet-Rehberg
+  1735;  645.00; 48.8054; 13.5522;19580401;19590915;Grainet-Rehberg
+  1735;  645.00; 48.8043; 13.5536;19590916;19940831;Grainet-Rehberg
+  1735;  630.00; 48.8043; 13.5094;19940901;19950831;Grainet-Rehberg
+  1735;  645.00; 48.8043; 13.5536;19950901;19951115;Grainet-Rehberg
+  1735;  655.00; 48.7934; 13.6222;19951116;20050228;Grainet-Rehberg
+  1735;  628.00; 48.7893; 13.6291;20050301;        ;Grainet-Rehberg

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4782;   87.00; 51.6040; 12.1093;19650401;19911231;Spören-Prussendorf

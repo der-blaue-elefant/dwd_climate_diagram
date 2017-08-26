@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5282;  246.00; 51.1197; 13.6744;19170101;20001231;Wahnsdorf bei Dresden

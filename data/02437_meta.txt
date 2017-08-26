@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2437;   22.00; 54.4577;  9.5149;19581201;19590505;Schleswig-Jagel
+  2437;   22.00; 54.4577;  9.5149;19590506;20071217;Schleswig-Jagel
+  2437;   21.30; 54.4570;  9.5203;20071218;        ;Schleswig-Jagel

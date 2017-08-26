@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1280;  280.00; 49.5692; 10.9929;19470301;19561231;Erlangen-Bruck

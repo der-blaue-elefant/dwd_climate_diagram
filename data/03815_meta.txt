@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3815;   98.00; 52.2572;  8.0506;19490101;19520129;Osnabrück
+  3815;   97.92; 52.2531;  8.0483;19520130;19531218;Osnabrück
+  3815;   95.36; 52.2553;  8.0534;19531219;20101130;Osnabrück

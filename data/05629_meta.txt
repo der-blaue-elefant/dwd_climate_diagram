@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5629;   72.00; 51.8698; 12.6315;19360701;19460630;Wittenberg
+  5629;   72.00; 51.8698; 12.6315;19460701;19500430;Wittenberg
+  5629;  105.00; 51.8890; 12.6448;19500501;19530228;Wittenberg
+  5629;  105.00; 51.8890; 12.6448;19530301;19600831;Wittenberg
+  5629;  105.00; 51.8890; 12.6448;19600901;20031231;Wittenberg
+  5629;  105.00; 51.8892; 12.6445;20040101;        ;Wittenberg

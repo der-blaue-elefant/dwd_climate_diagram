@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4125;  468.00; 47.7249; 12.8695;19360323;19480930;Reichenhall, Bad
+  4125;  468.00; 47.7249; 12.8695;19481001;19551231;Reichenhall, Bad
+  4125;  464.00; 47.7322; 12.8776;19560101;19590131;Reichenhall, Bad
+  4125;  456.00; 47.7680; 12.9092;19590201;19600602;Reichenhall, Bad
+  4125;  455.00; 47.7438; 12.8995;19600603;19960630;Reichenhall, Bad
+  4125;  470.00; 47.7238; 12.8740;19970701;20061130;Reichenhall, Bad

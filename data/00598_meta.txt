@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   598;   62.00; 50.7285;  7.0839;19481201;19570917;Bonn

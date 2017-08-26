@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   865;   43.00; 52.8435;  8.0299;19591001;19670331;Cloppenburg
+   865;   42.00; 52.8441;  8.0624;19670401;19710630;Cloppenburg

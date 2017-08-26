@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5559;  425.00; 48.7516;  8.5493;18950601;19581010;Wildbad, Bad-Calmbach
+  5559;  420.00; 48.7604;  8.5518;19581011;19651006;Wildbad, Bad-Calmbach
+  5559;  415.00; 48.7593;  8.5515;19651007;19860630;Wildbad, Bad-Calmbach
+  5559;  421.00; 48.7854;  8.5737;19860701;19940125;Wildbad, Bad-Calmbach
+  5559;  400.00; 48.7704;  8.5829;19940126;20071130;Wildbad, Bad-Calmbach
+  5559;  385.00; 48.7848;  8.5764;20071201;        ;Wildbad, Bad-Calmbach

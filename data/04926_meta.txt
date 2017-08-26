@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4926;  223.00; 48.7898;  9.2195;19460101;20021031;Stuttgart (Neckartal)
+  4926;  223.00; 48.7904;  9.2195;20021101;20070917;Stuttgart (Neckartal)
+  4926;  224.00; 48.7896;  9.2167;20070918;20130517;Stuttgart (Neckartal)

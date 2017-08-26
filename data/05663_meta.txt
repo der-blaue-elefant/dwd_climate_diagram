@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5663;  130.00; 53.4667; 13.5833;19481112;19781231;Woldegk
+  5663;  118.00; 53.4618; 13.6099;19790101;19951231;Woldegk

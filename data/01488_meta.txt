@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1488;  523.00; 51.6884; 11.0394;19320101;20070630;Friedrichsbrunn
+  1488;  523.00; 51.6884; 11.0394;20070701;20071031;Friedrichsbrunn

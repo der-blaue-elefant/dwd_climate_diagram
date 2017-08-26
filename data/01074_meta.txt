@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1074;   94.00; 51.3031; 12.0585;18870101;19741203;Dürrenberg, Bad
+  1074;  103.00; 51.3043; 12.0810;19741204;20061231;Dürrenberg, Bad

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3056;  155.00; 50.0108;  9.6083;19360901;19520226;Lohr/Main-Steinbach
+  3056;  166.00; 50.0089;  9.6103;19520227;19641214;Lohr/Main-Steinbach
+  3056;  161.00; 50.0103;  9.6100;19641215;20051031;Lohr/Main-Steinbach

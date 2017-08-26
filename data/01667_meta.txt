@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1667;    2.00; 53.7925;  9.4331;18651201;19470131;Glückstadt
+  1667;    2.00; 53.7892;  9.4181;19470201;19671001;Glückstadt
+  1667;    1.00; 53.7948;  9.4475;19671002;19791130;Glückstadt
+  1667;    2.00; 53.7970;  9.4303;19791201;19830430;Glückstadt
+  1667;    1.00; 53.7970;  9.4295;19830501;        ;Glückstadt

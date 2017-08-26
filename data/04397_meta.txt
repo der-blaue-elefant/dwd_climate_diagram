@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4397;  420.00; 49.5008;  7.2064;19780201;20060630;Sankt Wendel-Urweiler
+  4397;  400.20; 49.5025;  7.2020;20060701;20060702;Sankt Wendel-Urweiler

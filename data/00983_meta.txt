@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   983;  416.00; 48.5730; 10.5923;19380101;19931130;Dillingen/Donau-Fristingen
+   983;  415.00; 48.5709; 10.5887;19931201;20051231;Dillingen/Donau-Fristingen
+   983;  419.00; 48.5562; 10.5599;20060802;        ;Dillingen/Donau-Fristingen

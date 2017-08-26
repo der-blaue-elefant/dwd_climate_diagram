@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2048;    3.00; 53.6342;  9.6038;19500401;19600322;Haseldorf

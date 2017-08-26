@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4160;  416.00; 48.7752;  8.9367;19360101;19750131;Renningen-Ihinger Hof
+  4160;  405.00; 48.7676;  8.9415;19750201;20020228;Renningen-Ihinger Hof
+  4160;  478.00; 48.7425;  8.9240;20020301;        ;Renningen-Ihinger Hof

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6258;  459.00; 47.6845;  9.4409;20020912;        ;Friedrichshafen-Unterraderach

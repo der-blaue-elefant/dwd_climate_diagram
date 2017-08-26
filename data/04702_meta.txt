@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4702;  645.00; 48.1000;  9.2500;19940703;20071116;Sigmaringen (Flugplatz)

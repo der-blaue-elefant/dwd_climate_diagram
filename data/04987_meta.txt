@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4987;  179.00; 49.6122;  9.6747;19860501;20040717;Tauberbischofsheim-Dittigheim

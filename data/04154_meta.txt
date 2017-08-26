@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4154;  310.00; 51.1800;  7.1900;18820101;18920630;Remscheid-Lennep
+  4154;  310.00; 51.1786;  7.2152;18920701;19451231;Remscheid-Lennep
+  4154;  266.00; 51.1873;  7.2828;19460101;19981231;Remscheid-Lennep
+  4154;  345.00; 51.1800;  7.2505;20101207;        ;Remscheid-Lennep

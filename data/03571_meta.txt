@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3571;  516.00; 49.8279; 11.8391;19510210;19641127;Neustadt am Kulm-Filchendorf
+  3571;  516.00; 49.8261; 11.8399;19641128;20080229;Neustadt am Kulm-Filchendorf
+  3571;  452.00; 49.8174; 11.8638;20080301;        ;Neustadt am Kulm-Filchendorf

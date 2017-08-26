@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4933;  401.00; 48.7137;  9.2092;18780101;19541231;Stuttgart-Hohenheim
+  4933;  401.00; 48.7137;  9.2092;19550101;19770630;Stuttgart-Hohenheim
+  4933;  401.00; 48.7091;  9.2147;19770701;        ;Stuttgart-Hohenheim

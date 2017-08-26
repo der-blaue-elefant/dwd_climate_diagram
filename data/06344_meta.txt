@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6344;  168.00; 50.3940;  8.1423;20031001;        ;Runkel-Ennerich

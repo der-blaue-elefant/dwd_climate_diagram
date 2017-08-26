@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5067;  491.00; 51.7643;  9.5628;19370101;19660930;Torfhaus im Solling

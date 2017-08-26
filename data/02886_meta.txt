@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2886;  539.00; 48.2167;  9.9167;19670701;20070902;Laupheim
+  2886;  539.00; 48.2176;  9.9097;20070903;        ;Laupheim

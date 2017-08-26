@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   284;  282.00; 49.8847; 10.8884;18790101;19441231;Bamberg (Sternwarte)
+   284;  282.00; 49.8800; 10.8800;19450101;19901201;Bamberg (Sternwarte)

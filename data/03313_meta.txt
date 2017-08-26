@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3313;  508.00; 49.7331;  8.7768;19360901;19910901;Modautal-Neunkirchen
+  3313;  508.00; 49.7328;  8.7771;19910902;20020131;Modautal-Neunkirchen

@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2080;  112.00; 49.4100;  8.6868;19361001;19770426;Heidelberg
+  2080;  111.00; 49.4170;  8.6693;19770427;19860430;Heidelberg
+  2080;  110.00; 49.4208;  8.6651;19860501;20040630;Heidelberg
+  2080;  110.00; 49.4195;  8.6657;20040701;20061107;Heidelberg
+  2080;  110.00; 49.4206;  8.6676;20061108;20120914;Heidelberg

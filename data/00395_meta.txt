@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   395;   38.00; 52.4167; 13.4833;19480701;19541231;Berlin-Adlershof

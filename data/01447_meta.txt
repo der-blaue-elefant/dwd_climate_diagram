@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1447;  259.00; 48.0091;  7.8569;19330101;19610802;Freiburg im Breisgau-Herdern
+  1447;  259.00; 48.0083;  7.8558;19610803;19690930;Freiburg im Breisgau-Herdern
+  1447;  255.00; 48.0130;  7.8588;19691001;19850630;Freiburg im Breisgau-Herdern

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2609;   40.00; 53.9587; 10.3293;19740901;19810331;Klein Rönnau

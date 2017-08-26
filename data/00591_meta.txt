@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   591;   18.00; 53.4299; 10.6776;19460301;19460831;Boizenburg
+   591;   18.00; 53.4299; 10.6776;19460901;19461213;Boizenburg
+   591;   45.00; 53.3911; 10.6878;19461214;20110903;Boizenburg
+   591;   45.00; 53.3911; 10.6878;20110904;        ;Boizenburg

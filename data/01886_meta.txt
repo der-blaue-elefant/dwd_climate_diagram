@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1886;  440.00; 48.4500; 10.2800;19210901;19990331;Günzburg
+  1886;  444.00; 48.4878; 10.2607;19990401;        ;Günzburg

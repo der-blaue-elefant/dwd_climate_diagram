@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5761;   66.00; 51.9664; 12.0941;18810701;19810331;Zerbst
+  5761;   69.00; 51.9636; 12.1016;19810401;19910331;Zerbst
+  5761;   69.00; 51.9642; 12.0996;19910401;20061231;Zerbst

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7364;   74.00; 51.6820; 12.3042;20070101;20070630;Jeﬂnitz
+  7364;   74.00; 51.6820; 12.3042;20070701;        ;Jeﬂnitz

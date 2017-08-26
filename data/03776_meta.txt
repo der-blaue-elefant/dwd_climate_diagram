@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3776;   99.00; 50.1035;  8.7473;19571101;19650930;Offenbach/M. (Stadt)
+  3776;   99.00; 50.1035;  8.7473;19651001;19771031;Offenbach/M. (Stadt)
+  3776;  110.00; 50.0946;  8.7546;19791201;19951031;Offenbach/M. (Stadt)

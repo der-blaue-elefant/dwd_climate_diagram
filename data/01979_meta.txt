@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1979;    3.00; 53.4379; 10.1968;19370701;19761130;Hamburg-Kirchwerder
+  1979;    2.00; 53.4213; 10.1462;19880501;20061231;Hamburg-Kirchwerder

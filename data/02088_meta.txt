@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2088;  494.00; 48.6815; 10.1513;19360101;19600430;Heidenheim/Brenz
+  2088;  503.00; 48.6762; 10.1424;19600501;19630430;Heidenheim/Brenz
+  2088;  532.00; 48.6926; 10.1527;19630501;19660930;Heidenheim/Brenz
+  2088;  515.00; 48.6890; 10.1524;19661001;19810531;Heidenheim/Brenz
+  2088;  500.00; 48.6723; 10.1319;19810601;20050512;Heidenheim/Brenz
+  2088;  511.00; 48.7057; 10.1677;20111101;20120402;Heidenheim/Brenz
+  2088;  498.40; 48.6765; 10.1307;20120510;20140402;Heidenheim/Brenz

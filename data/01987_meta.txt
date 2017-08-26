@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1987;   22.00; 53.5482;  9.9694;19461001;19550731;Hamburg-Sankt Pauli
+  1987;   22.00; 53.5482;  9.9694;19550801;19721218;Hamburg-Sankt Pauli
+  1987;   22.00; 53.5485;  9.9682;19721219;20000229;Hamburg-Sankt Pauli
+  1987;   47.24; 53.5467;  9.9662;20030101;        ;Hamburg-Sankt Pauli

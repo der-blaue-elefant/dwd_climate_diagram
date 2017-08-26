@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5320;  324.00; 47.6144;  8.2380;19520901;19670321;Waldshut
+  5320;  330.00; 47.6172;  8.2388;19670322;19910630;Waldshut

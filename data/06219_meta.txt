@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6219;  394.00; 48.8768; 11.1043;20010701;20011119;Dollnstein-Breitenfurt

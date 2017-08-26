@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3752; 1014.00; 50.0300; 11.8074;19590813;19820930;Ochsenkopf

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4364;  141.00; 52.0236; 10.3481;18870101;19460531;Salzgitter-Ringelheim
+  4364;  141.00; 52.0236; 10.3481;19460601;19691130;Salzgitter-Ringelheim
+  4364;  130.00; 52.0342; 10.3098;19691201;19991130;Salzgitter-Ringelheim
+  4364;  138.00; 52.0355; 10.3054;19991201;20000117;Salzgitter-Ringelheim

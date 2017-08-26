@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2814;  700.00; 48.5107;  9.7533;19490101;19810831;Merklingen
+  2814;  747.00; 48.4979;  9.6997;19810901;20021031;Merklingen
+  2814;  747.00; 48.4973;  9.7003;20021101;20090630;Merklingen
+  2814;  685.00; 48.5121;  9.7645;20090701;        ;Merklingen

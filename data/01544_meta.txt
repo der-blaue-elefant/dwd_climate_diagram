@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1544;   47.00; 52.5130; 11.3964;19460801;20060709;Gardelegen
+  1544;   47.00; 52.5130; 11.3964;20060710;20070630;Gardelegen
+  1544;   47.00; 52.5129; 11.3941;20070701;        ;Gardelegen

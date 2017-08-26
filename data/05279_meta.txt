@@ -1,0 +1,12 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5279;  135.00; 51.6266;  9.5345;18911201;19131231;Wahlsburg-Lippoldsberg
+  5279;  115.00; 51.6247;  9.5575;19140101;19480630;Wahlsburg-Lippoldsberg
+  5279;  216.00; 51.6172;  9.5907;19480701;19501004;Wahlsburg-Lippoldsberg
+  5279;  216.00; 51.6148;  9.5894;19501005;19550414;Wahlsburg-Lippoldsberg
+  5279;  113.00; 51.6218;  9.5569;19550415;19620731;Wahlsburg-Lippoldsberg
+  5279;  120.00; 51.6206;  9.5572;19620801;19630314;Wahlsburg-Lippoldsberg
+  5279;  111.00; 51.6230;  9.5541;19630315;19711130;Wahlsburg-Lippoldsberg
+  5279;  131.00; 51.6214;  9.5614;19750801;19800527;Wahlsburg-Lippoldsberg
+  5279;  180.00; 51.6192;  9.5755;19800528;19820502;Wahlsburg-Lippoldsberg
+  5279;  176.00; 51.6194;  9.5752;19820503;20040831;Wahlsburg-Lippoldsberg
+  5279;  176.00; 51.6194;  9.5749;20040901;        ;Wahlsburg-Lippoldsberg

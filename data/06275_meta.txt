@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6275;  325.00; 48.6705;  9.4627;20020501;        ;Notzingen

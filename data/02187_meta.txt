@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2187;  287.00; 49.9281;  9.2870;19521016;19630131;Hessenthal

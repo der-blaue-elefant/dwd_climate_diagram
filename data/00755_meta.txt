@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   755;  331.00; 49.5222;  9.3247;18681201;19341231;Buchen, Kr. Neckar-Odenwald
+   755;  350.00; 49.5253;  9.3256;19350101;19500531;Buchen, Kr. Neckar-Odenwald
+   755;  350.00; 49.5253;  9.3256;19500601;19721231;Buchen, Kr. Neckar-Odenwald
+   755;  350.00; 49.5253;  9.3256;19730101;19760430;Buchen, Kr. Neckar-Odenwald
+   755;  350.00; 49.5222;  9.3117;19760501;20040531;Buchen, Kr. Neckar-Odenwald
+   755;  340.00; 49.5182;  9.3213;20040601;        ;Buchen, Kr. Neckar-Odenwald

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2464;    1.00; 53.5318;  9.6822;19310101;19471031;Jork
+  2464;    1.00; 53.5327;  9.6769;19471101;19770628;Jork
+  2464;    1.00; 53.5316;  9.6752;19770629;19901101;Jork

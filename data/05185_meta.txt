@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5185;  291.00; 49.5933; 11.0704;19711101;20061231;Uttenreuth

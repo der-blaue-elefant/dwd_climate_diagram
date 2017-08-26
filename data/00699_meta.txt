@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   699;    4.00; 53.1004;  8.7834;19470701;19490630;Bremen-Seefahrtschule
+   699;    4.00; 53.1004;  8.7834;19490701;19581231;Bremen-Seefahrtschule

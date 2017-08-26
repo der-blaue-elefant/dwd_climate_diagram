@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4018;  550.00; 48.1877; 11.2206;19470501;19830831;Puch

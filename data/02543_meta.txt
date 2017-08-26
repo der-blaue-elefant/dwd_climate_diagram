@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2543;  586.00; 48.0888; 10.8598;19671117;19680531;Kaufering
+  2543;  611.00; 48.0877; 10.8795;19680601;19750331;Kaufering
+  2543;  588.00; 48.0869; 10.8487;19750401;19780202;Kaufering
+  2543;  585.00; 48.0916; 10.8609;19780203;20081231;Kaufering

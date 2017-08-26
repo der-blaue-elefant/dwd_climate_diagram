@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3385;  515.00; 48.1663; 11.4994;19540801;19910731;München-Nymphenburg
+  3385;  515.00; 48.1660; 11.5011;19910801;19990331;München-Nymphenburg

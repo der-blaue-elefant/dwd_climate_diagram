@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1303;  120.00; 51.4167;  6.9333;19270801;19450508;Essen-Bredeney
+  1303;  120.00; 51.4167;  6.9333;19450509;19470930;Essen-Bredeney
+  1303;  120.00; 51.4065;  6.9385;19471001;19650711;Essen-Bredeney
+  1303;  153.50; 51.4059;  6.9671;19650712;19850526;Essen-Bredeney
+  1303;  152.00; 51.4056;  6.9676;19850527;20000725;Essen-Bredeney
+  1303;  150.00; 51.4043;  6.9679;20000726;20051207;Essen-Bredeney
+  1303;  150.00; 51.4041;  6.9677;20051208;        ;Essen-Bredeney

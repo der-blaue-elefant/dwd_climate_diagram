@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   207;  144.00; 51.7500; 11.4667;18970501;19760713;Aschersleben
+   207;  105.00; 51.7473; 11.4689;19760714;19961104;Aschersleben
+   207;  105.00; 51.7498; 11.4667;19961105;20030930;Aschersleben

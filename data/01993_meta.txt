@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1993;   87.00; 52.1005;  9.3408;19260201;19680531;Hameln
+  1993;   64.00; 52.1094;  9.3436;19680601;19860624;Hameln
+  1993;   66.00; 52.1225;  9.3292;19860625;20071030;Hameln
+  1993;   68.00; 52.0848;  9.3896;20090804;        ;Hameln

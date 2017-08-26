@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   982;  434.00; 48.5773; 10.4996;19470415;19520313;Dillingen/Donau
+   982;  434.00; 48.5812; 10.4982;19520314;19641231;Dillingen/Donau
+   982;  433.00; 48.5807; 10.5071;19650101;19710531;Dillingen/Donau
+   982;  435.00; 48.5762; 10.4824;19710601;19960630;Dillingen/Donau
+   982;  420.00; 48.5701; 10.4985;19960701;20061130;Dillingen/Donau

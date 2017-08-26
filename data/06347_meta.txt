@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6347;  304.00; 50.0579; 10.2972;20031101;        ;Schonungen-Mainberg

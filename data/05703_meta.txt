@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5703;  174.00; 49.7828;  9.9327;19510110;19690831;Würzburg (Klärwerk)
+  5703;  170.00; 49.7756;  9.9285;19690901;19740421;Würzburg (Klärwerk)
+  5703;  200.00; 49.8111;  9.8669;19740422;19770731;Würzburg (Klärwerk)
+  5703;  170.00; 49.7964;  9.8949;19770801;19860131;Würzburg (Klärwerk)

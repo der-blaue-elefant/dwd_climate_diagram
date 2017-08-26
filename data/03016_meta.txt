@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3016;  794.00; 47.5991;  9.8770;19661115;19700531;Lindenberg/Allgäu
+  3016;  760.00; 47.5980;  9.8878;19700601;19880419;Lindenberg/Allgäu

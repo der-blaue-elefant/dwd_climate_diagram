@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   243;    6.00; 53.4621;  7.4670;19580901;19650627;Aurich
+   243;    4.00; 53.4488;  7.4659;19650628;19910630;Aurich
+   243;    4.00; 53.4621;  7.4670;19910701;20061231;Aurich

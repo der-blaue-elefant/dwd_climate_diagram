@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4336;  323.00; 49.2186;  7.1114;19490101;19550831;Saarbrücken-Ensheim
+  4336;  323.00; 49.2186;  7.1114;19550901;19890228;Saarbrücken-Ensheim
+  4336;  319.00; 49.2186;  7.1114;19890301;19891011;Saarbrücken-Ensheim
+  4336;  320.00; 49.2128;  7.1077;19891012;20150412;Saarbrücken-Ensheim
+  4336;  320.00; 49.2128;  7.1077;20150413;        ;Saarbrücken-Ensheim

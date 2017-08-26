@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2546;  135.00; 48.5722;  7.8225;19540901;19880930;Kehl-Odelshofen
+  2546;  137.00; 48.5668;  7.8135;19881001;19891017;Kehl-Odelshofen
+  2546;  137.00; 48.5757;  7.8135;19891018;20070430;Kehl-Odelshofen
+  2546;  141.00; 48.5576;  7.8800;20070501;        ;Kehl-Odelshofen

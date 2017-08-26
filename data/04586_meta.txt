@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4586;  320.00; 50.1394;  8.0627;19910101;19980630;Schwalbach, Bad

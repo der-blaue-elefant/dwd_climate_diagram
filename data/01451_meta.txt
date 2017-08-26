@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1451;    1.00; 53.8040;  9.2675;19701101;19800702;Freiburg/Elbe
+  1451;    2.00; 53.8277;  9.2493;19800703;        ;Freiburg/Elbe

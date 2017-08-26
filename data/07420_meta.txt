@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7420;  246.00; 51.1043; 11.7110;20060501;20070630;Naumburg/Saale-Kreipitzsch
+  7420;  246.00; 51.1044; 11.7112;20070701;20091231;Naumburg/Saale-Kreipitzsch
+  7420;  246.00; 51.1044; 11.7112;20100101;        ;Naumburg/Saale-Kreipitzsch

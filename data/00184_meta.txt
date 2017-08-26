@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   184;   55.00; 52.6833; 12.0167;19360401;19660630;Arneburg
+   184;   70.00; 52.6725; 12.0182;19660701;19880930;Arneburg
+   184;   59.00; 52.6750; 12.0096;19881001;19911130;Arneburg
+   184;   55.00; 52.6769; 12.0077;19911201;20021231;Arneburg

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3083;   57.00; 51.9270; 13.8804;19910901;20041231;Lübben-Blumenfelde
+  3083;   57.00; 51.9267; 13.8797;20050101;        ;Lübben-Blumenfelde

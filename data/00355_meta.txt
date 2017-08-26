@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   355;  117.00; 49.7053;  8.6196;19400401;19620719;Bensheim
+   355;  116.00; 49.7011;  8.6229;19620720;19700731;Bensheim
+   355;  130.00; 49.6950;  8.6257;19700801;19800430;Bensheim
+   355;  140.00; 49.6789;  8.6276;19800501;19891031;Bensheim

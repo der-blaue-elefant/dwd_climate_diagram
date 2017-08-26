@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1392;  611.00; 49.7311; 12.3459;19090507;19870930;Flossenbürg
+  1392;  695.00; 49.7353; 12.3543;19871001;20061231;Flossenbürg
+  1392;  668.00; 49.7217; 12.3724;20080701;20081231;Flossenbürg
+  1392;  622.00; 49.7317; 12.3491;20091221;        ;Flossenbürg

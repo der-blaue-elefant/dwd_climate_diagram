@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1694;   58.00; 53.6000; 12.1000;19460301;19910930;Goldberg
+  1694;   58.00; 53.6057; 12.1026;19911001;20060614;Goldberg
+  1694;   58.00; 53.6060; 12.1033;20060615;20110903;Goldberg
+  1694;   58.00; 53.6060; 12.1033;20110904;        ;Goldberg

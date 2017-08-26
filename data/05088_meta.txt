@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5088;    2.00; 54.5195; 13.2513;19590701;19960604;Trent
+  5088;    3.00; 54.5337; 13.2460;19960605;20001231;Trent

@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4323;  489.00; 49.6500;  7.8800;19020801;19191231;Ruppertsecken
+  4323;  465.00; 49.6471;  7.8824;19200101;19521231;Ruppertsecken
+  4323;  468.00; 49.6468;  7.8816;19530101;19681231;Ruppertsecken
+  4323;  488.00; 49.6445;  7.8791;19690101;19910514;Ruppertsecken
+  4323;  461.00; 49.6468;  7.8837;19910515;        ;Ruppertsecken

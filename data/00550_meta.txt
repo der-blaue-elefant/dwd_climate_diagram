@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   550;  344.00; 50.9041; 11.7985;19940417;        ;Bobeck

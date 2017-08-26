@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4837;  363.00; 47.9869;  7.9466;19851201;19900930;Stegen

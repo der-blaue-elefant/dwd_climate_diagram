@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1154;  470.00; 48.3416; 12.8820;19450101;19660930;Eiberg

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5127;  644.00; 47.9860;  8.8250;18880201;19900131;Tuttlingen
+  5127;  648.00; 48.0077;  8.8179;19900201;20060831;Tuttlingen
+  5127;  649.00; 48.0083;  8.8179;20060901;        ;Tuttlingen

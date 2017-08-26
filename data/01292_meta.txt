@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1292;  470.00; 49.7522; 11.8242;19480128;19520103;Eschenbach/Oberpfalz
+  1292;  470.00; 49.7522; 11.8222;19661003;20060430;Eschenbach/Oberpfalz

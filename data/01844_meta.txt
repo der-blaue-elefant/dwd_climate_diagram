@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1844;  605.00; 47.9276; 11.8957;19580507;19700911;Feldkirchen-Westerham-Lenzmühle
+  1844;  605.00; 47.9283; 11.8961;19700912;19811231;Feldkirchen-Westerham-Lenzmühle
+  1844;  605.00; 47.9167; 11.9000;19820408;19951231;Feldkirchen-Westerham-Lenzmühle
+  1844;  600.00; 47.9210; 11.9050;19960101;20010131;Feldkirchen-Westerham-Lenzmühle
+  1844;  549.00; 47.9374; 11.9403;20010201;20060725;Feldkirchen-Westerham-Lenzmühle
+  1844;  517.00; 47.9410; 11.9000;20060726;        ;Feldkirchen-Westerham-Lenzmühle

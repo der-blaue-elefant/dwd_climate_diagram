@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3096;  444.00; 51.2131;  7.6359;19400101;19450831;Lüdenscheid (Zeppelin-Gymnasium)
+  3096;  444.00; 51.2131;  7.6359;19450901;19530731;Lüdenscheid (Zeppelin-Gymnasium)
+  3096;  444.00; 51.2131;  7.6359;19530801;19540131;Lüdenscheid (Zeppelin-Gymnasium)
+  3096;  444.00; 51.2131;  7.6359;19540201;19850531;Lüdenscheid (Zeppelin-Gymnasium)
+  3096;  444.00; 51.2131;  7.6359;19850601;20071231;Lüdenscheid (Zeppelin-Gymnasium)

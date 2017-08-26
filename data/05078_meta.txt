@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5078;    3.00; 53.9495; 10.8822;19360101;19600430;Travemünde
+  5078;    2.00; 53.9612; 10.8805;19600501;19601208;Travemünde
+  5078;    3.00; 53.9492; 10.8817;19601209;19810430;Travemünde
+  5078;    2.30; 53.9619; 10.8892;19810501;        ;Travemünde

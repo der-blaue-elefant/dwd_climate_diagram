@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2559;  705.00; 47.7235; 10.3352;19490101;19510930;Kempten
+  2559;  705.00; 47.7235; 10.3352;19511001;20061126;Kempten
+  2559;  705.20; 47.7233; 10.3348;20061127;20140406;Kempten
+  2559;  705.20; 47.7233; 10.3348;20140407;        ;Kempten

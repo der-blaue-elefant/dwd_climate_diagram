@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6112;    2.00; 54.2670; 13.1430;19981001;20000131;Stralsund-Devin

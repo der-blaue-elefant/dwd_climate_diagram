@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3028;  151.00; 51.7850;  8.8326;19710401;19811214;Lippspringe, Bad
+  3028;  157.00; 51.7853;  8.8390;19811215;20060801;Lippspringe, Bad
+  3028;  157.00; 51.7855;  8.8388;20060802;        ;Lippspringe, Bad

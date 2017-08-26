@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4175;  280.00; 47.5600;  7.7900;19370520;19530831;Rheinfelden
+  4175;  286.00; 47.5674;  7.7997;19530901;19720628;Rheinfelden
+  4175;  287.00; 47.5649;  7.7955;19720629;19920630;Rheinfelden
+  4175;  287.00; 47.5627;  7.7936;19920701;20150106;Rheinfelden
+  4175;  282.00; 47.5590;  7.7721;20150910;        ;Rheinfelden

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4706;  340.00; 48.2628; 13.0327;19161001;19801231;Simbach/Inn
+  4706;  360.00; 48.2722; 13.0273;19810101;20050228;Simbach/Inn
+  4706;  360.00; 48.2719; 13.0273;20050301;        ;Simbach/Inn

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1990;   21.00; 53.5853; 10.0791;19510801;19850916;Hamburg-Wandsbek
+  1990;   18.00; 53.5853; 10.1293;19850917;20061231;Hamburg-Wandsbek

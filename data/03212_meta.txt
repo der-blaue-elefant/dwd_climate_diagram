@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3212;  270.00; 50.3182;  7.2264;19591006;19630930;Mayen
+  3212;  270.00; 50.3327;  7.2311;19631001;19900531;Mayen
+  3212;  230.00; 50.3249;  7.2300;19900601;20021231;Mayen

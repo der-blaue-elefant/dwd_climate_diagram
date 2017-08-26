@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   702;   10.00; 53.5981;  8.6109;19460923;19600630;Bremerhaven-Speckenbüttel
+   702;    8.00; 53.5876;  8.6015;19600701;19620430;Bremerhaven-Speckenbüttel

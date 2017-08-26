@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2931;  128.00; 51.3920; 12.3962;19081231;19720430;Leipzig-Mockau

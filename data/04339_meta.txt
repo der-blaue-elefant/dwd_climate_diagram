@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4339;  189.00; 49.2170;  7.0199;19460701;19550831;Saarbrücken-Sankt Johann
+  4339;  191.00; 49.2203;  7.0171;19570901;19830622;Saarbrücken-Sankt Johann
+  4339;  193.00; 49.2242;  7.0137;19830623;19870831;Saarbrücken-Sankt Johann
+  4339;  193.00; 49.2231;  7.0168;19870901;20010331;Saarbrücken-Sankt Johann

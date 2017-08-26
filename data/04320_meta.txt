@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4320;   36.00; 54.0934; 10.2223;19880601;19920930;Ruhwinkel

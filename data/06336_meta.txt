@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6336;  285.00; 50.0132;  9.6540;20051101;        ;Lohr/Main-Halsbach

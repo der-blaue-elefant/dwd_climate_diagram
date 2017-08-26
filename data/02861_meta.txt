@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2861;    4.00; 53.7440;  7.4728;19490401;19561121;Langeoog
+  2861;   12.00; 53.7459;  7.4764;19561122;19660425;Langeoog
+  2861;    3.00; 53.7481;  7.4898;19660426;19661023;Langeoog
+  2861;   12.00; 53.7459;  7.4764;19661024;19750226;Langeoog
+  2861;    5.00; 53.7445;  7.4775;19750227;19940930;Langeoog

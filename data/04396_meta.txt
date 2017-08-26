@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4396;  400.00; 49.4672;  7.2036;19490201;19601231;Sankt Wendel-Hof

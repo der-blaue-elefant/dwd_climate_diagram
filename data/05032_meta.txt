@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5032;  166.00; 49.8572;  9.8549;19860501;19861124;Thüngersheim
+  5032;  165.00; 49.8570;  9.8544;19861125;20040117;Thüngersheim
+  5032;  185.00; 49.8811;  9.8452;20061001;20110430;Thüngersheim
+  5032;  195.00; 49.8850;  9.8463;20110701;20170314;Thüngersheim
+  5032;  197.00; 49.8850;  9.8469;20170315;        ;Thüngersheim

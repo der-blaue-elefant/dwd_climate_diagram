@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5498;  146.00; 49.7606;  9.5125;19331001;19470630;Wertheim-Eichel
+  5498;  146.00; 49.7606;  9.5125;19470701;19650427;Wertheim-Eichel
+  5498;  175.00; 49.7542;  9.5131;19650428;19680218;Wertheim-Eichel
+  5498;  157.00; 49.7589;  9.5131;19680219;19690930;Wertheim-Eichel
+  5498;  153.00; 49.7628;  9.5353;19691001;19761130;Wertheim-Eichel
+  5498;  140.00; 49.7814;  9.5097;19761201;19831031;Wertheim-Eichel
+  5498;  140.00; 49.7667;  9.5428;19831101;20041130;Wertheim-Eichel

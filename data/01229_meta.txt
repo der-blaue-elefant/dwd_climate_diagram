@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1229;   77.00; 50.3305;  7.7158;19461001;19910630;Ems, Bad
+  1229;   90.00; 50.3324;  7.6975;19910701;19970331;Ems, Bad

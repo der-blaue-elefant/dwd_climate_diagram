@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5277;  349.00; 50.8119;  9.1280;19790101;20090630;Wahlen

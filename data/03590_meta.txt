@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3590;  155.00; 50.2263;  8.8865;19580501;19730117;Nidderau-Windecken
+  3590;  135.00; 50.2224;  8.8804;19730118;19981125;Nidderau-Windecken
+  3590;  180.00; 50.2335;  8.8923;19981126;20050930;Nidderau-Windecken

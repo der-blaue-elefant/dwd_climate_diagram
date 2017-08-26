@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 13904;    3.00; 55.0000;  6.3333;20080401;20100831;Nordseeboje 2

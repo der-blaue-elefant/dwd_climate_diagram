@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1972;   35.00; 53.4793; 10.2415;19100101;19620930;Hamburg-Bergedorf

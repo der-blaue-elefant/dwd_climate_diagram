@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2638;  985.00; 48.0833;  8.6500;19460301;19490630;Klippeneck
+  2638;  973.00; 48.1049;  8.7546;19490701;19510430;Klippeneck
+  2638;  973.40; 48.1054;  8.7549;19510501;        ;Klippeneck

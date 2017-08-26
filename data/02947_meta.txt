@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2947;  278.00; 51.1200;  8.0700;18911211;19310430;Lennestadt-Theten
+  2947;  302.00; 51.1072;  8.0697;19310501;19620331;Lennestadt-Theten
+  2947;  303.00; 51.1077;  8.0876;19620401;20060930;Lennestadt-Theten
+  2947;  286.00; 51.1333;  8.0348;20061001;        ;Lennestadt-Theten

@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4592;  358.00; 49.3189; 12.1043;19370801;19551018;Schwandorf
+  4592;  357.00; 49.3192; 12.1043;19551019;19680822;Schwandorf
+  4592;  355.00; 49.3311; 12.0896;19680823;19710630;Schwandorf
+  4592;  353.00; 49.2998; 12.0816;19710701;19721130;Schwandorf
+  4592;  372.00; 49.3314; 12.1093;19721201;19991130;Schwandorf
+  4592;  356.00; 49.3278; 12.0870;19991201;        ;Schwandorf

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1583;  823.00; 50.7719; 13.7732;19470101;19701231;Geisingberg

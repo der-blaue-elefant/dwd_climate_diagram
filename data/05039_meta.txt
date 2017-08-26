@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5039;  240.00; 50.8244; 10.1382;19680401;19911130;Tiefenort
+  5039;  236.00; 50.8430; 10.1613;19911201;19981231;Tiefenort

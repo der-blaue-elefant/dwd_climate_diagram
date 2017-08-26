@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5568;  280.00; 51.1115;  9.1117;19460701;19480731;Wildungen, Bad
+  5568;  280.00; 51.1115;  9.1117;19480801;19541130;Wildungen, Bad
+  5568;  292.00; 51.1154;  9.1100;19541201;19640331;Wildungen, Bad
+  5568;  270.00; 51.1081;  9.1125;19640401;19660619;Wildungen, Bad
+  5568;  312.00; 51.1056;  9.1070;19660620;19930916;Wildungen, Bad
+  5568;  310.00; 51.1056;  9.1081;19930917;20010401;Wildungen, Bad

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1239;  533.00; 47.8516;  8.7673;19860801;19980731;Engen/Hegau
+  1239;  540.00; 47.8516;  8.7673;20030625;20080930;Engen/Hegau

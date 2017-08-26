@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   717;  455.00; 51.3959;  8.5665;19360521;19520609;Brilon
+   717;  465.00; 51.3918;  8.5757;19520610;19590102;Brilon
+   717;  443.00; 51.3873;  8.5737;19590103;        ;Brilon

@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3137;   90.60; 50.0000;  8.2667;18630101;19001231;Mainz-Lerchenberg (ZDF)
+  3137;   86.70; 50.0000;  8.2833;19010101;19370120;Mainz-Lerchenberg (ZDF)
+  3137;   88.00; 49.9864;  8.2994;19370121;19710331;Mainz-Lerchenberg (ZDF)
+  3137;  110.00; 49.9836;  8.3022;19710401;19710930;Mainz-Lerchenberg (ZDF)
+  3137;  125.00; 49.9881;  8.2614;19711001;20080331;Mainz-Lerchenberg (ZDF)
+  3137;  195.00; 49.9656;  8.2139;20080401;        ;Mainz-Lerchenberg (ZDF)

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   840;  897.00; 50.4310; 12.6112;19891101;20060703;Carlsfeld
+   840;  897.00; 50.4310; 12.6112;20060704;20080731;Carlsfeld
+   840;  897.00; 50.4313; 12.6114;20080801;        ;Carlsfeld

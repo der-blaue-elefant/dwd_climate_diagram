@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1345;   90.00; 53.3333; 13.4333;18800101;19740103;Feldberg
+  1345;   92.00; 53.3333; 13.4333;19740104;19840630;Feldberg
+  1345;   92.00; 53.3346; 13.4371;19840701;20051231;Feldberg

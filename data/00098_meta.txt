@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+    98;  780.00; 51.1890;  8.4671;19450901;19541206;Altastenberg

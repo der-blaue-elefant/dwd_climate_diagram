@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1200;    3.00; 54.0691;  9.0106;19861101;        ;Elpersbüttel

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1973;   14.00; 53.5598;  9.9874;19461001;19490731;Hamburg-Botanischer Garten
+  1973;   14.00; 53.5598;  9.9874;19490801;19550731;Hamburg-Botanischer Garten

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5250;  211.00; 48.0905;  7.6264;19510101;19530920;Vogtsburg-Oberrotweil
+  5250;  230.00; 48.0888;  7.6275;19530921;19680320;Vogtsburg-Oberrotweil
+  5250;  210.00; 48.0916;  7.6253;19680321;19820825;Vogtsburg-Oberrotweil
+  5250;  223.00; 48.0908;  7.6353;19820826;        ;Vogtsburg-Oberrotweil

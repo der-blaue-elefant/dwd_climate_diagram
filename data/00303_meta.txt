@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   303;   54.60; 52.0608; 13.5011;19930901;20060531;Baruth
+   303;   54.60; 52.0614; 13.4996;20060601;        ;Baruth

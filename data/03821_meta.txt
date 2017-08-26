@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3821;  262.00; 51.0770; 11.9385;19840801;19991130;Osterfeld
+  3821;  246.00; 51.0873; 11.9299;19991201;20031231;Osterfeld
+  3821;  246.00; 51.0873; 11.9292;20040101;        ;Osterfeld

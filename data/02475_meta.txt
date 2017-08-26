@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2475;   70.00; 51.9948; 13.0744;19460501;19911031;Jüterbog
+  2475;   80.00; 51.9956; 13.0505;19911101;19950630;Jüterbog
+  2475;   75.00; 52.0000; 13.1009;19950701;        ;Jüterbog

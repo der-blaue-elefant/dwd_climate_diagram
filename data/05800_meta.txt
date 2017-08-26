@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5800;  581.00; 49.0146; 13.2490;19751003;19860531;Zwiesel
+  5800;  612.00; 49.0259; 13.2381;19860601;19970930;Zwiesel
+  5800;  615.00; 49.0280; 13.2385;19971001;        ;Zwiesel

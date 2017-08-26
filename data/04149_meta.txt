@@ -1,0 +1,9 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4149;  755.00; 50.5616; 13.2227;18620101;19550905;Marienberg-Reitzenhain
+  4149;  775.00; 50.5594; 13.2189;19550906;19641015;Marienberg-Reitzenhain
+  4149;  775.00; 50.5577; 13.2183;19641016;19650630;Marienberg-Reitzenhain
+  4149;  755.00; 50.5616; 13.2227;19650701;19950630;Marienberg-Reitzenhain
+  4149;  777.00; 50.5652; 13.2200;19950701;19960614;Marienberg-Reitzenhain
+  4149;  755.00; 50.5616; 13.2227;19960615;20080615;Marienberg-Reitzenhain
+  4149;  764.00; 50.5602; 13.2222;20080616;20080731;Marienberg-Reitzenhain
+  4149;  764.00; 50.5602; 13.2222;20080801;        ;Marienberg-Reitzenhain

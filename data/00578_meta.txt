@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   578;  379.00; 48.9451; 11.3667;19510301;19661231;Böhming

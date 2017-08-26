@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4741;  252.00; 51.1609;  7.1048;19340401;19560620;Solingen-Hohenscheid
+  4741;  180.00; 51.1343;  7.0573;19560621;19591130;Solingen-Hohenscheid
+  4741;  209.00; 51.1501;  7.0761;19591201;20021231;Solingen-Hohenscheid
+  4741;  209.00; 51.1501;  7.0761;20031126;20041130;Solingen-Hohenscheid
+  4741;  154.00; 51.1400;  7.0930;20041201;        ;Solingen-Hohenscheid

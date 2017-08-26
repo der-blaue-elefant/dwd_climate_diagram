@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   424;   36.00; 52.5000; 13.4667;19540101;19801231;Berlin-Ostkreuz

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2173;   60.00; 51.5890;  7.1548;19760101;20071231;Herten

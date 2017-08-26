@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5429;  219.00; 49.1512;  9.2920;19520401;19840630;Weinsberg

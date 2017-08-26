@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3878;  301.00; 48.5768; 13.4050;18790101;19960930;Passau-Maierhof
+  3878;  327.00; 48.5807; 13.4152;19961001;        ;Passau-Maierhof

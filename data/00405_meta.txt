@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   405;   37.00; 52.4500; 13.6500;19510401;19541231;Berlin-Friedrichshagen

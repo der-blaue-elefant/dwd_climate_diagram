@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3777;  155.00; 48.4587;  7.9458;19570730;19920922;Offenburg
+  3777;  153.00; 48.4593;  7.9255;19920923;20051231;Offenburg

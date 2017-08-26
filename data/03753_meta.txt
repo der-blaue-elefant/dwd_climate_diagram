@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3753;   58.00; 52.2075;  7.1945;19640101;19860723;Ochtrup
+  3753;   56.00; 52.2042;  7.1784;19860724;19930331;Ochtrup

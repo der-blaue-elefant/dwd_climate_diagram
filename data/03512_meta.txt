@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3512;  820.00; 50.5000; 11.1500;19550101;19780630;Neuhaus

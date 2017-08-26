@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1834;  913.00; 50.8519; 10.4665;18820108;19460331;Grosser Inselsberg
+  1834;  913.00; 50.8519; 10.4665;19460401;19510731;Grosser Inselsberg
+  1834;  913.00; 50.8519; 10.4665;19510801;19530531;Grosser Inselsberg
+  1834;  913.00; 50.8519; 10.4665;19530601;19560630;Grosser Inselsberg
+  1834;  913.00; 50.8519; 10.4665;19560701;19780630;Grosser Inselsberg

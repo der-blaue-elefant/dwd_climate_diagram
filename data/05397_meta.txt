@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5397;  396.00; 49.6770; 12.1818;19490101;19500321;Weiden
+  5397;  396.00; 49.6770; 12.1818;19500322;19600630;Weiden
+  5397;  438.00; 49.6667; 12.1838;19600701;20060628;Weiden
+  5397;  439.60; 49.6663; 12.1845;20060629;        ;Weiden

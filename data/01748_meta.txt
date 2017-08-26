@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1748;  645.00; 50.4802;  9.2703;19330401;19591015;Grebenhain-Herchenhain
+  1748;  608.00; 50.4788;  9.2620;19591016;20050331;Grebenhain-Herchenhain

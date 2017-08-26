@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2338;   39.00; 52.3333;  7.5500;19610904;20051223;Hopsten (Flugplatz)

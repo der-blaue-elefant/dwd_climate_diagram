@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1638;  158.00; 50.5910;  8.6551;19510601;19840430;Gieﬂen (Lahntal)

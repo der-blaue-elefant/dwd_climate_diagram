@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2069;  648.00; 48.8629; 13.0670;19160101;19750531;Hausstein

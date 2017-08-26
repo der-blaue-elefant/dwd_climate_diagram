@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   326;  100.00; 51.7167;  8.1167;19810203;19961231;Beckum-Unterberg
+   326;  120.00; 51.7204;  8.0577;20030812;20130708;Beckum-Unterberg

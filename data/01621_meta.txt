@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1621;  515.00; 50.2757;  9.9088;19480319;19530330;Geroda-Platz
+  1621;  542.00; 50.2782;  9.9113;19530331;19711125;Geroda-Platz
+  1621;  550.00; 50.2766;  9.9146;19711126;20161231;Geroda-Platz

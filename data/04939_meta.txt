@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4939;  235.00; 51.7333; 11.1167;19470101;19581231;Suderode, Bad

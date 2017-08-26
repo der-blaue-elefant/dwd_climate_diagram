@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2078;   14.00; 54.1970;  9.0961;19370101;19481031;Weddingstedt
+  2078;   14.00; 54.1970;  9.0961;19481101;19561209;Weddingstedt
+  2078;   15.00; 54.2017;  9.1022;19561210;19570102;Weddingstedt
+  2078;   15.00; 54.2023;  9.1028;19570103;19650126;Weddingstedt
+  2078;   12.00; 54.2106;  9.1056;19650127;20020703;Weddingstedt
+  2078;   10.00; 54.2181;  9.0853;20080401;20080430;Weddingstedt

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3671;  280.00; 48.6321;  9.3264;19520601;19530630;Nürtingen
+  3671;  280.00; 48.6321;  9.3261;19530701;19910331;Nürtingen

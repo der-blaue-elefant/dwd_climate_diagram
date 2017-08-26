@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5885;  289.00; 48.6562;  9.4236;19470401;19511031;Kirchheim/Teck-Ötlingen
+  5885;  289.00; 48.6582;  9.4203;19511101;19540731;Kirchheim/Teck-Ötlingen
+  5885;  291.00; 48.6551;  9.4286;19540801;19570228;Kirchheim/Teck-Ötlingen
+  5885;  291.00; 48.6546;  9.4283;19570301;19720531;Kirchheim/Teck-Ötlingen
+  5885;  289.00; 48.6582;  9.4203;19720601;19770531;Kirchheim/Teck-Ötlingen

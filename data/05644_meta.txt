@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5644;  139.00; 51.3451;  9.8610;19210101;19630717;Witzenhausen
+  5644;  148.00; 51.3429;  9.8391;19630718;19770331;Witzenhausen
+  5644;  133.00; 51.3493;  9.8438;19770401;19991016;Witzenhausen

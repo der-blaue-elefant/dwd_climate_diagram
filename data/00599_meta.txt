@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   599;   62.00; 50.7049;  7.1439;19320101;19691014;Bonn-Friesdorf
+   599;   62.00; 50.7055;  7.1467;19691015;19990302;Bonn-Friesdorf

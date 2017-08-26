@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1891;   79.00; 51.9000;  8.4000;19380101;19470831;Rheda-Wiedenbrück-Lintel
+  1891;   75.00; 51.9155;  8.3693;19470901;19580630;Rheda-Wiedenbrück-Lintel
+  1891;   75.00; 51.8875;  8.3543;19580701;19610501;Rheda-Wiedenbrück-Lintel
+  1891;   79.00; 51.9183;  8.3904;19610502;19640430;Rheda-Wiedenbrück-Lintel
+  1891;   79.00; 51.9183;  8.3904;19640501;19680229;Rheda-Wiedenbrück-Lintel
+  1891;   72.00; 51.8875;  8.3543;19680301;20020331;Rheda-Wiedenbrück-Lintel
+  1891;   72.50; 51.8771;  8.3577;20151209;        ;Rheda-Wiedenbrück-Lintel

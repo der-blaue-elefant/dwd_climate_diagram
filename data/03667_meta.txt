@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3667;  347.00; 49.4205; 11.2030;19480101;19741231;Nürnberg-Netzstall
+  3667;  345.00; 49.4158; 11.1919;19750101;19780731;Nürnberg-Netzstall
+  3667;  348.00; 49.4195; 11.2022;19780801;20000831;Nürnberg-Netzstall
+  3667;  341.00; 49.4192; 11.1900;20000901;20050228;Nürnberg-Netzstall
+  3667;  368.00; 49.4258; 11.2538;20050301;        ;Nürnberg-Netzstall

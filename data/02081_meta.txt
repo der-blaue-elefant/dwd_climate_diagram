@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2081;  561.00; 49.3981;  8.7251;19460714;19630216;Königstuhl

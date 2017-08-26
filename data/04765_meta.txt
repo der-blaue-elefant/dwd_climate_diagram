@@ -1,0 +1,9 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4765;  145.00; 51.2717;  9.9647;18910801;19500531;Sooden-Allendorf, Bad
+  4765;  157.00; 51.2701;  9.9615;19500601;19660630;Sooden-Allendorf, Bad
+  4765;  150.00; 51.2691;  9.9791;19660701;19720114;Sooden-Allendorf, Bad
+  4765;  160.00; 51.2668;  9.9828;19720115;19721130;Sooden-Allendorf, Bad
+  4765;  145.00; 51.2717;  9.9647;19721201;19760731;Sooden-Allendorf, Bad
+  4765;  145.00; 51.2717;  9.9647;19760801;19801231;Sooden-Allendorf, Bad
+  4765;  147.00; 51.2757;  9.9626;19830422;20050630;Sooden-Allendorf, Bad
+  4765;  199.00; 51.2801;  9.9849;20070501;        ;Sooden-Allendorf, Bad

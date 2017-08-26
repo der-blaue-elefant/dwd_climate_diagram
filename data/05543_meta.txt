@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5543;  235.00; 50.0863;  8.1872;19590401;19860731;Wiesbaden-Dotzheim

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   706;  212.00; 47.9024;  7.6256;19691001;19920930;Eschbach
+   706;  208.00; 47.9205;  7.6306;19921001;19950509;Eschbach
+   706;  236.00; 47.8863;  7.6581;19950510;19990425;Eschbach
+   706;  234.00; 47.8858;  7.6611;19990426;20041231;Eschbach

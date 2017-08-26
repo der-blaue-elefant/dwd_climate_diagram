@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4625;   59.00; 53.6426; 11.3871;18870801;19480930;Schwerin
+  4625;   59.00; 53.6426; 11.3871;19481001;19530630;Schwerin
+  4625;   59.00; 53.6426; 11.3871;19530701;20130212;Schwerin
+  4625;   59.00; 53.6425; 11.3872;20130213;        ;Schwerin

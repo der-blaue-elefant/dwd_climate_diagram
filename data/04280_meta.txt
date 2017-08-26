@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4280;  385.00; 49.2167; 11.1000;19601026;20071028;Roth
+  4280;  385.00; 49.2163; 11.1036;20071029;20131211;Roth
+  4280;  385.00; 49.2164; 11.1036;20131212;        ;Roth

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2166;  344.00; 51.0167; 14.7500;19450501;19910630;Herrnhut

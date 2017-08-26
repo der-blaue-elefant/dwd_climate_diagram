@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5732;    7.00; 54.6814;  8.5390;18870101;19720331;Wrixum/Föhr
+  5732;    8.00; 54.6964;  8.5473;19720401;19760630;Wrixum/Föhr
+  5732;    1.00; 54.6969;  8.5737;19760701;20030630;Wrixum/Föhr
+  5732;    8.00; 54.6928;  8.5271;20050409;        ;Wrixum/Föhr

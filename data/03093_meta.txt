@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3093;   18.00; 52.9668; 11.1847;19490101;19541130;Lüchow
+  3093;   21.00; 52.9656; 11.1843;19541201;19711124;Lüchow
+  3093;   17.00; 52.9724; 11.1384;19711125;20070806;Lüchow
+  3093;   17.00; 52.9724; 11.1374;20070807;        ;Lüchow

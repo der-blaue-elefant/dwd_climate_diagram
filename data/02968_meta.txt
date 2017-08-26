@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2968;   44.00; 51.0145;  6.9762;19020101;19501231;Köln-Stammheim
+  2968;   44.00; 51.0145;  6.9762;19510101;19661031;Köln-Stammheim
+  2968;   44.00; 51.0145;  6.9762;19661101;19730228;Köln-Stammheim
+  2968;   44.00; 51.0145;  6.9762;19730301;20000131;Köln-Stammheim
+  2968;   44.00; 51.0131;  6.9768;20000201;20080229;Köln-Stammheim
+  2968;   43.00; 50.9894;  6.9777;20080724;        ;Köln-Stammheim

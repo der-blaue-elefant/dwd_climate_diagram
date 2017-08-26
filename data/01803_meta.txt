@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1803;   45.00; 54.0723; 12.3312;19470701;19530409;Groß Lüsewitz
+  1803;   34.00; 54.0715; 12.3240;19530410;19920131;Groß Lüsewitz
+  1803;   34.00; 54.0715; 12.3240;19920201;20110903;Groß Lüsewitz
+  1803;   34.00; 54.0714; 12.3238;20110904;        ;Groß Lüsewitz

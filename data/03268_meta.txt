@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3268;  920.00; 48.1833;  9.0000;19740401;20070730;Meﬂstetten
+  3268;  920.00; 48.1875;  8.9938;20070731;20130930;Meﬂstetten
+  3268;  920.00; 48.1875;  8.9938;20131001;        ;Meﬂstetten

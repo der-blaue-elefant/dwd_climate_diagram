@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2618;  732.00; 50.8458; 10.4803;19580101;        ;Kleiner Inselsberg

@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4275;   23.00; 53.1152;  9.4155;18910501;19451231;Rotenburg (Wümme)
+  4275;   32.00; 53.1307;  9.3642;19460101;19500228;Rotenburg (Wümme)
+  4275;   32.00; 53.1307;  9.3642;19500301;19580630;Rotenburg (Wümme)
+  4275;   21.00; 53.1110;  9.3903;19580701;19631130;Rotenburg (Wümme)
+  4275;   21.00; 53.1107;  9.3895;19631201;19680531;Rotenburg (Wümme)
+  4275;   24.00; 53.1038;  9.4225;19680601;20041130;Rotenburg (Wümme)
+  4275;   32.00; 53.1288;  9.3398;20041201;        ;Rotenburg (Wümme)

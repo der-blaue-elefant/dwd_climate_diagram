@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5296;  360.00; 51.2037;  9.0639;19350701;19550928;Waldeck
+  5296;  355.00; 51.2073;  9.0681;19550929;19691031;Waldeck
+  5296;  376.00; 51.2070;  9.0658;19691101;19890531;Waldeck

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   416;   47.00; 52.4069; 13.4127;19820701;19961231;Berlin-Lichtenrade

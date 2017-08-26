@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4729;  342.00; 50.2694;  9.4295;19890701;19980131;Steinau-Seidenroth
+  4729;  383.00; 50.2846;  9.4547;19980201;19980416;Steinau-Seidenroth
+  4729;  342.00; 50.2882;  9.4583;19980417;20040229;Steinau-Seidenroth

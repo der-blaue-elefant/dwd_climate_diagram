@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   400;   63.00; 52.6322; 13.5024;19510101;19521231;Berlin-Buch
+   400;   63.00; 52.6322; 13.5024;19530101;19611002;Berlin-Buch
+   400;   60.00; 52.6311; 13.5021;19611003;20041031;Berlin-Buch
+   400;   60.00; 52.6309; 13.5022;20041101;        ;Berlin-Buch

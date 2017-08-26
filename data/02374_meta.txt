@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2374;   13.00; 54.4833;  9.0667;18910101;19451231;Husum
+  2374;   13.20; 54.5000;  9.0667;19460101;19480316;Husum
+  2374;   12.00; 54.4752;  9.0564;19480317;19530617;Husum
+  2374;    3.00; 54.4752;  9.0564;19530618;19740630;Husum

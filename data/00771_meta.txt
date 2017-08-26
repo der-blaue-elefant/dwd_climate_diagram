@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   771;  140.00; 50.2949;  9.1217;19461203;19510314;Büdingen
+   771;  134.00; 50.2880;  9.1120;19510315;19560430;Büdingen
+   771;  134.00; 50.2833;  9.1167;19580401;20000331;Büdingen
+   771;  148.00; 50.2769;  9.1167;20000401;20041231;Büdingen

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4489;  198.00; 51.8833; 10.7667;18970901;19911031;Schmatzfeld

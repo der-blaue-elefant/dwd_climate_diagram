@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4156;    8.00; 54.2878;  9.6732;19731001;19881130;Rendsburg
+  4156;    8.00; 54.2878;  9.6749;19881201;19980228;Rendsburg

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 13674;  236.60; 49.2942;  8.9054;20070308;        ;Waibstadt

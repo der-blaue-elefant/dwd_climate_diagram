@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   282;  239.00; 49.8795; 10.9137;19490101;19600531;Bamberg
+   282;  239.00; 49.8795; 10.9137;19600601;19940531;Bamberg
+   282;  239.00; 49.8795; 10.9137;19940601;19950308;Bamberg
+   282;  239.00; 49.8803; 10.9140;19950309;20081125;Bamberg
+   282;  240.00; 49.8742; 10.9206;20081126;        ;Bamberg

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1522;  311.00; 49.4845; 10.9565;19470601;19540228;Fürth/Bayern (A)
+  1522;  313.00; 49.4811; 10.9640;19540301;19550406;Fürth/Bayern (A)

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   833;  615.00; 50.6952; 13.4972;19720101;20010430;Neuhausen/Erzgeb.-Rauschenbach (Talsp.)
+   833;  615.00; 50.6951; 13.4975;20050129;        ;Neuhausen/Erzgeb.-Rauschenbach (Talsp.)

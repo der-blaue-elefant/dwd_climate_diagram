@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2409;  367.00; 48.7451; 11.4297;19251001;19481031;Ingolstadt (Flussmeisterstelle)
+  2409;  367.00; 48.7451; 11.4297;19481101;19540731;Ingolstadt (Flussmeisterstelle)
+  2409;  370.00; 48.7465; 11.4333;19540801;19570331;Ingolstadt (Flussmeisterstelle)
+  2409;  370.00; 48.7679; 11.4186;19570401;19760912;Ingolstadt (Flussmeisterstelle)
+  2409;  367.00; 48.7429; 11.4233;19760913;20050605;Ingolstadt (Flussmeisterstelle)
+  2409;  367.00; 48.7429; 11.4233;20050606;20081231;Ingolstadt (Flussmeisterstelle)
+  2409;  360.00; 48.7662; 11.4539;20090101;        ;Ingolstadt (Flussmeisterstelle)

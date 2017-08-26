@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2907;    7.00; 54.7908;  8.9481;19741101;19940731;Leck
+  2907;    7.00; 54.7903;  8.9514;19940801;        ;Leck

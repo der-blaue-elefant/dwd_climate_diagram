@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5460;  655.00; 48.1477;  8.6954;19781201;19840808;Wellendingen

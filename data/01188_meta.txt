@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1188;  518.00; 50.7041; 10.8576;19470101;20011231;Elgersburg

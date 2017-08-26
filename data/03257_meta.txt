@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3257;  221.00; 49.4885;  9.7704;18360101;19460930;Mergentheim, Bad-Neunkirchen
+  3257;  258.00; 49.4953;  9.7792;19461001;19510630;Mergentheim, Bad-Neunkirchen
+  3257;  204.00; 49.4931;  9.7778;19510701;19590531;Mergentheim, Bad-Neunkirchen
+  3257;  212.00; 49.4867;  9.7836;19590601;19620430;Mergentheim, Bad-Neunkirchen
+  3257;  203.00; 49.4892;  9.7833;19620501;19731003;Mergentheim, Bad-Neunkirchen
+  3257;  225.00; 49.4917;  9.7606;19731004;19781231;Mergentheim, Bad-Neunkirchen
+  3257;  250.00; 49.4773;  9.7622;19790101;        ;Mergentheim, Bad-Neunkirchen

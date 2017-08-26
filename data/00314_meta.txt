@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   314;  208.00; 51.1833; 14.4333;18631201;19230228;Kubschütz, Kr. Bautzen
+   314;  210.00; 51.1833; 14.4333;19450606;19530528;Kubschütz, Kr. Bautzen
+   314;  208.00; 51.1771; 14.4381;19550301;19560715;Kubschütz, Kr. Bautzen
+   314;  208.00; 51.1771; 14.4382;19560716;19620731;Kubschütz, Kr. Bautzen
+   314;  210.00; 51.1866; 14.4353;19620801;19800731;Kubschütz, Kr. Bautzen
+   314;  207.00; 51.1621; 14.4573;19800801;19981130;Kubschütz, Kr. Bautzen
+   314;  232.00; 51.1604; 14.5042;19981201;        ;Kubschütz, Kr. Bautzen

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   738;  314.00; 50.3100;  9.7900;18990101;19710430;Brückenau, Bad (A)
+   738;  350.00; 50.3102;  9.7838;19710501;19770331;Brückenau, Bad (A)
+   738;  287.00; 50.2891;  9.7363;19770401;19790409;Brückenau, Bad (A)
+   738;  310.00; 50.3080;  9.7835;19790410;19840831;Brückenau, Bad (A)

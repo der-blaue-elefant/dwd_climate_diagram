@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   221;  483.00; 48.5515; 11.7117;19850801;19900531;Au i.d.Hallertau-Günzenhausen

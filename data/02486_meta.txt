@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2486;  280.00; 49.4325;  7.7697;18790101;19650315;Kaiserslautern
+  2486;  250.00; 49.4481;  7.7960;19650316;19650630;Kaiserslautern
+  2486;  250.00; 49.4453;  7.7510;19650701;19650831;Kaiserslautern
+  2486;  249.00; 49.4270;  7.6550;19650901;19700824;Kaiserslautern
+  2486;  248.00; 49.4506;  7.7810;19700825;19940630;Kaiserslautern
+  2486;  281.00; 49.4242;  7.7360;19980901;20000131;Kaiserslautern
+  2486;  271.00; 49.4262;  7.7557;20030612;        ;Kaiserslautern

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4485;  292.00; 50.7239; 10.4493;18900701;19691231;Schmalkalden, Kurort
+  4485;  340.00; 50.7235; 10.4629;19700101;20050131;Schmalkalden, Kurort
+  4485;  296.00; 50.7250; 10.4539;20050201;20170306;Schmalkalden, Kurort

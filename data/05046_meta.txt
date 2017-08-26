@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5046;  500.00; 49.8777; 12.3367;18930101;19660914;Tirschenreuth-Lodermühl
+  5046;  515.00; 49.8858; 12.3293;19660915;19770630;Tirschenreuth-Lodermühl
+  5046;  526.00; 49.8853; 12.3335;19770701;19771031;Tirschenreuth-Lodermühl
+  5046;  521.00; 49.8864; 12.3424;19771101;19830930;Tirschenreuth-Lodermühl
+  5046;  515.00; 49.8842; 12.3416;19831001;20021031;Tirschenreuth-Lodermühl
+  5046;  500.00; 49.8576; 12.3542;20071030;        ;Tirschenreuth-Lodermühl

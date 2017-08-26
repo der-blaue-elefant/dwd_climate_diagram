@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3244;  599.00; 47.9800; 10.1800;18790101;19580331;Memmingen
+  3244;  595.00; 47.9924; 10.1894;19580401;20000131;Memmingen
+  3244;  610.00; 47.9830; 10.1396;20000201;20090731;Memmingen
+  3244;  615.00; 47.9820; 10.1384;20090801;        ;Memmingen

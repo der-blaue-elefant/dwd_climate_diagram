@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 15555;  816.00; 47.8761; 10.5848;20160405;        ;Kaufbeuren-Oberbeuren

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2206;   91.00; 52.1378;  9.9271;19310101;19670228;Hildesheim
+  2206;  100.00; 52.1372;  9.9241;19670301;19860331;Hildesheim
+  2206;  117.00; 52.1408;  9.8838;19860401;20080229;Hildesheim

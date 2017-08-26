@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3383;  515.00; 48.1635; 11.5019;18790101;19541231;München-Botanischer Garten

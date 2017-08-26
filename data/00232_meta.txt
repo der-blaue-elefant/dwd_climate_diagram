@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   232;  477.00; 48.3809; 10.8512;19461101;19790531;Augsburg
+   232;  461.00; 48.4268; 10.9290;19790601;19980318;Augsburg
+   232;  462.00; 48.4254; 10.9418;19980319;20061214;Augsburg
+   232;  461.40; 48.4251; 10.9418;20061215;20100309;Augsburg
+   232;  461.40; 48.4254; 10.9420;20100310;        ;Augsburg

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5014;    4.00; 53.2652;  8.8990;19510501;19580331;Worpswede-Hüttenbusch
+  5014;    3.00; 53.2738;  8.9111;19580401;19640915;Worpswede-Hüttenbusch
+  5014;    6.00; 53.2810;  8.9106;19640916;20040630;Worpswede-Hüttenbusch
+  5014;    7.00; 53.2758;  8.9857;20040701;        ;Worpswede-Hüttenbusch

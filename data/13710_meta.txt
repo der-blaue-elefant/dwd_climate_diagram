@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 13710;  490.00; 48.5734; 12.2576;20070901;        ;Landshut-Reithof

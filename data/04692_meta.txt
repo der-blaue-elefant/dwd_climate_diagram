@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4692;  267.00; 50.8696;  8.0191;19370101;19660511;Siegen (Kläranlage)
+  4692;  274.00; 50.8557;  8.0197;19660512;19671025;Siegen (Kläranlage)
+  4692;  229.00; 50.8669;  8.0138;19671026;20080229;Siegen (Kläranlage)
+  4692;  229.00; 50.8534;  7.9966;20080301;        ;Siegen (Kläranlage)

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2250;  403.00; 49.1279; 12.8645;19410101;20060731;Höllenstein (Kraftwerk)

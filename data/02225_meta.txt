@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2225;  385.00; 50.9167; 14.3667;18810101;19840930;Hinterhermsdorf

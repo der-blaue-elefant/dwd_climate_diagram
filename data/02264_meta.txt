@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2264;  325.00; 51.5445;  9.5358;19471001;19580703;Hofgeismar-Beberbeck
+  2264;  242.00; 51.5340;  9.4733;19580704;19810716;Hofgeismar-Beberbeck
+  2264;  242.00; 51.5340;  9.4789;19810717;20021130;Hofgeismar-Beberbeck
+  2264;  242.00; 51.5337;  9.4786;20070213;        ;Hofgeismar-Beberbeck

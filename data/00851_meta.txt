@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   851;  376.00; 49.2213; 12.6612;18790101;19480130;Pemfling-Pitzling
+   851;  411.00; 49.2248; 12.6637;19480131;19701130;Pemfling-Pitzling
+   851;  420.00; 49.2257; 12.6623;19701201;19860430;Pemfling-Pitzling
+   851;  396.00; 49.2229; 12.6673;19860501;20050930;Pemfling-Pitzling
+   851;  387.00; 49.2359; 12.6209;20051001;20080630;Pemfling-Pitzling
+   851;  389.00; 49.2504; 12.6040;20080701;        ;Pemfling-Pitzling

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3883;  442.00; 50.5999; 11.9966;19690101;19980131;Pausa-Unterreichenau

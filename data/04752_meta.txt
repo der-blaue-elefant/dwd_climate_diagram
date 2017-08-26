@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4752;  636.00; 50.3780; 11.1886;19460501;19530515;Sonneberg-Neufang
+  4752;  523.00; 50.3682; 11.1805;19530516;19540131;Sonneberg-Neufang
+  4752;  626.00; 50.3746; 11.1828;19540201;20080701;Sonneberg-Neufang

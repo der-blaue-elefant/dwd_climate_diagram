@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1332;  490.00; 48.4623; 12.7337;19360609;19660630;Falkenberg,Kr.Rottal-Inn
+  1332;  490.00; 48.4622; 12.7340;19660701;19990418;Falkenberg,Kr.Rottal-Inn
+  1332;  472.00; 48.4832; 12.7240;19990419;20050228;Falkenberg,Kr.Rottal-Inn
+  1332;  472.00; 48.4832; 12.7241;20050301;        ;Falkenberg,Kr.Rottal-Inn

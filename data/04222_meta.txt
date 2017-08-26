@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4222;  464.00; 50.5263; 12.4091;19630101;20060131;Rodewisch

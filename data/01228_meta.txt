@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1228;     .00; 54.1651;  6.3460;19910101;        ;UFS TW Ems

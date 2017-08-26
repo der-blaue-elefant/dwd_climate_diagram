@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1986;    1.00; 53.4699; 10.1804;19780601;19880430;Hamburg-Reitbrook

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   919;  169.00; 49.8667;  8.6667;19370101;19460712;Darmstadt-Botanischer Garten
+   919;  169.00; 49.8833;  8.6833;19460713;19480630;Darmstadt-Botanischer Garten
+   919;  169.00; 49.8775;  8.6829;19480701;19580930;Darmstadt-Botanischer Garten
+   919;  169.00; 49.8697;  8.6796;19581001;19740731;Darmstadt-Botanischer Garten

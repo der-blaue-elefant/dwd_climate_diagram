@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   766;  477.00; 50.1667;  7.0667;19581201;19850930;Büchel (Flugplatz)
+   766;  477.00; 50.1667;  7.0667;19851001;20080114;Büchel (Flugplatz)
+   766;  477.00; 50.1746;  7.0595;20080115;        ;Büchel (Flugplatz)

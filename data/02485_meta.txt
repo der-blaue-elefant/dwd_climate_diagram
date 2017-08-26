@@ -1,0 +1,10 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2485;  556.00; 48.9293;  9.6425;19340901;19401231;Kaisersbach-Cronhütte
+  2485;  564.00; 48.9282;  9.6389;19481001;19501031;Kaisersbach-Cronhütte
+  2485;  565.00; 48.9284;  9.6389;19501101;19530430;Kaisersbach-Cronhütte
+  2485;  562.00; 48.9282;  9.6375;19530501;19961231;Kaisersbach-Cronhütte
+  2485;  558.00; 48.9321;  9.6428;19970101;19990831;Kaisersbach-Cronhütte
+  2485;  562.00; 48.9282;  9.6375;19990901;20011231;Kaisersbach-Cronhütte
+  2485;  489.00; 48.9171;  9.6875;20080301;20110430;Kaisersbach-Cronhütte
+  2485;  488.70; 48.9171;  9.6872;20110501;20140119;Kaisersbach-Cronhütte
+  2485;  488.70; 48.9171;  9.6872;20140120;        ;Kaisersbach-Cronhütte

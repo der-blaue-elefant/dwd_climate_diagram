@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2053;  460.00; 51.6906; 10.8490;19460101;19560430;Hasselfelde
+  2053;  460.00; 51.6906; 10.8531;19560501;19891231;Hasselfelde
+  2053;  460.00; 51.6876; 10.8623;19900101;19951114;Hasselfelde
+  2053;  461.00; 51.6868; 10.8631;19951115;20061231;Hasselfelde

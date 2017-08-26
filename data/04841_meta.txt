@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4841;    3.00; 53.6818;  8.8823;18951101;19980930;Steinau, Kr. Cuxhaven
+  4841;    1.00; 53.6942;  8.8742;19981001;20040630;Steinau, Kr. Cuxhaven
+  4841;    1.00; 53.6946;  8.8735;20040701;        ;Steinau, Kr. Cuxhaven

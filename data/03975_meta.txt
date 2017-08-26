@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3975;  522.00; 49.4785; 11.5378;19930901;20030930;Pommelsbrunn-Mittelburg
+  3975;  522.00; 49.4777; 11.5357;20031001;        ;Pommelsbrunn-Mittelburg

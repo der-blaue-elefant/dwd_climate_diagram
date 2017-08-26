@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2761;  515.00; 48.2452; 10.3571;19491101;19531031;Krumbach-Edenhausen
+  2761;  518.00; 48.2472; 10.3555;19531101;19670420;Krumbach-Edenhausen
+  2761;  505.00; 48.2422; 10.3669;19670421;19680328;Krumbach-Edenhausen
+  2761;  511.00; 48.2505; 10.3660;19680329;19820726;Krumbach-Edenhausen
+  2761;  520.00; 48.2510; 10.4163;19820727;19901116;Krumbach-Edenhausen

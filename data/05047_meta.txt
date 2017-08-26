@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5047;  807.00; 47.9130;  8.2091;19340401;19761118;Titisee-Neustadt-Langenordnach
+  5047;  825.00; 47.9155;  8.2152;19761119;19890418;Titisee-Neustadt-Langenordnach
+  5047;  832.00; 47.9199;  8.2058;19890419;19920720;Titisee-Neustadt-Langenordnach
+  5047;  870.00; 47.9394;  8.1933;19920721;19951231;Titisee-Neustadt-Langenordnach
+  5047;  870.00; 47.9394;  8.1933;19961025;20101215;Titisee-Neustadt-Langenordnach

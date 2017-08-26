@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   614;  240.00; 51.5768;  9.3050;19500501;19620531;Borgentreich-Bühne
+   614;  220.00; 51.5681;  9.2425;19620601;19680415;Borgentreich-Bühne
+   614;  240.00; 51.5709;  9.3120;19680416;20071231;Borgentreich-Bühne

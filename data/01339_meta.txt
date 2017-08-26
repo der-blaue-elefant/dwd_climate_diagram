@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1339;   73.00; 52.9167; 10.1833;19581101;19701231;Faﬂberg
+  1339;   73.00; 52.9167; 10.1833;19710101;20080114;Faﬂberg
+  1339;   73.00; 52.9157; 10.1885;20080115;        ;Faﬂberg

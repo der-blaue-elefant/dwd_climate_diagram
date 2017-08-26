@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4354;  455.00; 48.7816; 13.3152;19850901;19881012;Saldenburg-Entschenreuth
+  4354;  457.00; 48.7840; 13.3159;19881013;20051231;Saldenburg-Entschenreuth
+  4354;  456.00; 48.7832; 13.3146;20060101;        ;Saldenburg-Entschenreuth

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4474;  170.00; 49.7961;  7.7583;19530702;19731231;Schlossböckelheim

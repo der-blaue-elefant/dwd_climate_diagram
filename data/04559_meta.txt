@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4559;  399.00; 49.1643; 12.6175;19960501;        ;Schorndorf-Knöbling

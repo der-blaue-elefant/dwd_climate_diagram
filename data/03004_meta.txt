@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3004;  118.00; 50.3899;  8.0710;19470701;19500704;Limburg/Lahn-Offheim
+  3004;  130.00; 50.3941;  8.0683;19500705;19531031;Limburg/Lahn-Offheim
+  3004;  118.00; 50.3899;  8.0710;19600601;19870331;Limburg/Lahn-Offheim
+  3004;  175.00; 50.3710;  8.0713;19870401;19870531;Limburg/Lahn-Offheim
+  3004;  185.00; 50.4116;  8.0605;19870601;19990630;Limburg/Lahn-Offheim

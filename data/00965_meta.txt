@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   965;  100.00; 51.2401; 13.4166;18840101;20030228;Diesbar-Seuﬂlitz

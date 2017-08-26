@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  6304;  550.00; 49.3533; 11.5053;20020926;        ;Pilsach-Litzlohe

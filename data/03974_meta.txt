@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3974;  435.00; 49.5070; 11.5150;19490301;19560430;Pommelsbrunn
+  3974;  490.00; 49.5103; 11.5203;19560501;19640531;Pommelsbrunn
+  3974;  368.00; 49.5058; 11.5142;19640601;19930630;Pommelsbrunn

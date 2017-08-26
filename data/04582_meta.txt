@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4582;  292.00; 49.1100;  9.7400;19110101;19830331;Schwäbisch Hall-Bibersfeld
+  4582;  379.00; 49.1159;  9.7222;19830401;19900321;Schwäbisch Hall-Bibersfeld
+  4582;  387.00; 49.1154;  9.7542;19900322;19930208;Schwäbisch Hall-Bibersfeld
+  4582;  379.00; 49.1143;  9.7175;19930209;19940930;Schwäbisch Hall-Bibersfeld
+  4582;  365.00; 49.1157;  9.7122;19941001;20010731;Schwäbisch Hall-Bibersfeld
+  4582;  349.00; 49.0817;  9.6868;20090301;        ;Schwäbisch Hall-Bibersfeld

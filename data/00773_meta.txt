@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   773;  478.00; 48.6743;  8.1799;19860501;20041231;Bühlertal-Obertal

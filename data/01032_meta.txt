@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1032;  106.00; 51.4806;  7.4642;19410101;19620410;Dortmund
+  1032;  113.00; 51.4956;  7.4756;19620411;19770516;Dortmund
+  1032;  120.00; 51.5120;  7.5345;19770517;19990930;Dortmund

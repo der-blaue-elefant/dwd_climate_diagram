@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2949;  761.00; 48.5396;  9.5300;19470801;19530630;Lenningen-Schopfloch
+  2949;  762.00; 48.5401;  9.5278;19530701;19611031;Lenningen-Schopfloch
+  2949;  764.00; 48.5396;  9.5295;19611101;19701031;Lenningen-Schopfloch
+  2949;  762.00; 48.5401;  9.5278;19701101;19731031;Lenningen-Schopfloch
+  2949;  758.00; 48.5396;  9.5275;19731101;20020131;Lenningen-Schopfloch

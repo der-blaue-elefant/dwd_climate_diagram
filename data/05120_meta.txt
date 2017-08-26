@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5120;  370.00; 48.5198;  9.0515;19490901;19820501;Tübingen

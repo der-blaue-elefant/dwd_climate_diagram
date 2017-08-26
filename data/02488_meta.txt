@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2488;  516.00; 48.7667; 10.7833;19360617;19510214;Kaisheim-Neuhof
+  2488;  516.00; 48.7701; 10.7876;19510215;19560331;Kaisheim-Neuhof
+  2488;  516.00; 48.7701; 10.7876;19560401;20020930;Kaisheim-Neuhof

@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4301;  111.00; 49.8424;  7.8598;18510101;19291231;Kreuznach, Bad
+  4301;  136.00; 49.8504;  7.8465;19300101;19720321;Kreuznach, Bad
+  4301;  132.00; 49.8502;  7.8465;19720322;19800716;Kreuznach, Bad
+  4301;  159.00; 49.8525;  7.8463;19800717;19931103;Kreuznach, Bad
+  4301;  125.00; 49.8503;  7.8463;19931104;19951031;Kreuznach, Bad
+  4301;  170.00; 49.8603;  7.8029;19951101;20050228;Kreuznach, Bad
+  4301;  102.00; 49.8502;  7.8710;20050301;        ;Kreuznach, Bad

@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   705;    5.00; 53.5312;  9.1664;19850501;20061231;Bremervörde-Niederochtenhausen

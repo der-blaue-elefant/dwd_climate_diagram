@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4189;  526.00; 48.1499;  9.4800;19500801;19870930;Altheim, Kreis Biberach
+  4189;  538.00; 48.1563;  9.4667;19871001;20031231;Altheim, Kreis Biberach
+  4189;  533.00; 48.1479;  9.4596;20040101;        ;Altheim, Kreis Biberach

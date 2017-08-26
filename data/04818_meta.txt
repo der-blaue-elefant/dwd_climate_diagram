@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4818;  554.00; 50.1546; 11.7264;19370201;19640331;Stammbach-Querenbach
+  4818;  558.00; 50.1545; 11.7292;19640401;20001231;Stammbach-Querenbach
+  4818;  598.00; 50.1531; 11.7403;20010101;        ;Stammbach-Querenbach

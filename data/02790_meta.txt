@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2790;  296.00; 49.5592;  7.4134;19690801;19810930;Kusel-Fünfbirken

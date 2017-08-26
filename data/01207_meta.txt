@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1207;  513.00; 50.2821; 12.2321;18810101;19490831;Elster, Bad-Sohl
+  1207;  520.00; 50.2799; 12.2268;19490901;19520930;Elster, Bad-Sohl
+  1207;  510.00; 50.2830; 12.2307;19521001;19930420;Elster, Bad-Sohl
+  1207;  510.00; 50.2857; 12.2352;19930421;20060228;Elster, Bad-Sohl
+  1207;  560.00; 50.2705; 12.2742;20060301;        ;Elster, Bad-Sohl

@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4104;  337.50; 49.0218; 12.0535;19460101;19600405;Regensburg
+  4104;  340.40; 49.0212; 12.0602;19600406;19620626;Regensburg
+  4104;  376.00; 49.0087; 12.0666;19620627;19780917;Regensburg
+  4104;  366.00; 49.0418; 12.1029;19780918;20061219;Regensburg
+  4104;  365.40; 49.0426; 12.1018;20061220;20100308;Regensburg
+  4104;  365.40; 49.0424; 12.1021;20100309;        ;Regensburg

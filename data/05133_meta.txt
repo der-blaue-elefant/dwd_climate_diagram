@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5133;  295.00; 51.3333;  8.9000;19310101;19980531;Twistetal-Mühlhausen
+  5133;  295.00; 51.3344;  8.9132;19980601;        ;Twistetal-Mühlhausen

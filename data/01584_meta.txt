@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1584;  670.00; 47.9234;  8.6457;19361214;19890331;Geisingen
+  1584;  685.00; 47.9249;  8.6529;19890401;20031231;Geisingen
+  1584;  672.00; 47.9242;  8.6473;20081204;        ;Geisingen

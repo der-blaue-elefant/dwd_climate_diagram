@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5300;  385.00; 50.2738;  8.3480;19510301;19520331;Waldems-Reinborn
+  5300;  385.00; 50.2738;  8.3480;19520401;19560930;Waldems-Reinborn
+  5300;  391.00; 50.2749;  8.3480;19561001;19740930;Waldems-Reinborn
+  5300;  385.00; 50.2749;  8.3458;19741001;19781115;Waldems-Reinborn
+  5300;  400.00; 50.2735;  8.3502;19781116;19991231;Waldems-Reinborn
+  5300;  380.00; 50.2596;  8.3607;20030424;        ;Waldems-Reinborn

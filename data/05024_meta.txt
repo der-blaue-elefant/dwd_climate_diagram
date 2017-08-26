@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5024;   61.00; 52.2333; 12.0500;19470101;19930430;Theeﬂen
